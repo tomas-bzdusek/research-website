@@ -23,10 +23,9 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Bouhon
-  - Adrien and Bzdušek
-  - Tomáš and Slager
-  - Robert-Jan
+  - Adrien Bouhon
+  - Tomáš Bzdušek
+  - and Robert-Jan Slager
 author_notes: []
 publication: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -46,9 +45,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
