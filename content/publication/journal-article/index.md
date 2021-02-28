@@ -29,7 +29,7 @@ authors:
 author_notes: []
 publication: ""
 summary: ""
-url_dataset: "https://github.com/abouhon/EulerClassTightBinding"
+url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
@@ -44,9 +44,9 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2021-02-28T13:16:00.000Z
+date: 2020-09-16
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/abouhon/EulerClassTightBinding"
 ---
