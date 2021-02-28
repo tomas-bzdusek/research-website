@@ -16,7 +16,7 @@ abstract: "We show that the Nielsen-Ninomiya no-go theorem still holds on a
   wave packets in an applied magnetic field, which traverse alternatively
   through the low-energy and high-energy sector of the spectrum."
 slides: null
-url_pdf: https://arxiv.org/pdf/1803.06364.pdf
+url_pdf: https://arxiv.org/pdf/1806.09296.pdf
 publication_types:
   - "2"
 authors:
@@ -45,7 +45,7 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2021-02-28T17:46:52.262Z
+date: 2018-11-07
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
