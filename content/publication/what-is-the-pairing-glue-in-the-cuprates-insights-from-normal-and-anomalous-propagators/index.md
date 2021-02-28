@@ -33,8 +33,8 @@ url_video: ""
 date: 2014-11-18
 url_slides: ""
 links:
-  - name: Custom Link
-    url: http://example.org
+  - name: Master thesis
+    url: https://fks.sk/~bzduso/physics/master/thesis.pdf
 image:
   caption: ""
   focal_point: ""
