@@ -25,12 +25,12 @@ tags:
 projects:
   - internal-project
 summary: ""
-url_dataset: "#"
+url_dataset: ""
 url_project: ""
 publication_short: "Phil. Mag. 95, 609-621 (2015)\t"
-url_source: "#"
-url_video: "#"
-date: 2021-02-28T14:37:28.508Z
+url_source: ""
+url_video: ""
+date: 2014-11-18
 url_slides: ""
 links:
   - name: Custom Link
@@ -41,7 +41,7 @@ image:
   preview_only: false
   filename: featured.jpg
 publishDate: 2017-01-01T00:00:00Z
-url_poster: "#"
-url_code: "#"
+url_poster: ""
+url_code: ""
 doi: 10.1080/14786435.2014.980351
 ---
