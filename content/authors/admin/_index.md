@@ -58,9 +58,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6904-5264
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tomas-bzdusek
+- icon: stackoverflow
+  icon_pack: ai
+  link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/tomas-bzdusek
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
