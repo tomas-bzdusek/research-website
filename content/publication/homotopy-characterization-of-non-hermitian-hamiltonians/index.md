@@ -25,7 +25,7 @@ authors:
   - Charles C. Wojcik
   - Xiao-Qi Sun
   - Tomáš Bzdušek
-  - and Shanhui Fan
+  - Shanhui Fan
 author_notes: []
 publication: ""
 summary: ""
@@ -35,21 +35,21 @@ publication_short: Phys. Rev. B 101, 205417 (2020)
 url_source: ""
 url_video: ""
 title: Homotopy characterization of non-Hermitian Hamiltonians
+doi: 10.1103/PhysRevB.101.205417
 featured: true
 tags:
   - band-theory
   - non-Hermitian
   - non-Abelian-topology
-date: 2020-05-15
-url_slides: ""
 projects: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
   filename: featured.jpg
+date: 2020-05-15
+url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: 10.1103/PhysRevB.101.205417
 ---
