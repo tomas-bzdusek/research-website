@@ -53,7 +53,7 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2021-02-28T15:17:42.185Z
+date: 2016-08-24
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
