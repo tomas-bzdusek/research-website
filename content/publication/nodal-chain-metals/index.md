@@ -40,6 +40,7 @@ links:
 tags:
   - band-theory
   - topological-semimetals
+  - nodal-chains
 image:
   filename: featured.jpg
 date: 2016-08-24
