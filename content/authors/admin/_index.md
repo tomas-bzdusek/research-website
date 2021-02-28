@@ -49,6 +49,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=cRgGh1oAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Tomas-Bzdusek
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/bzdusek_t_1.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6904-5264
 - icon: github
   icon_pack: fab
   link: https://github.com/tomas-bzdusek
