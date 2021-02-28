@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tomáš Bzdušek, Dr.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Paul Scherrer Institute
+  url: "https://www.psi.ch/en/lsm/cmt-group"
+- name: University of Zürich
+  url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include various topic in topological band theory.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Topological band theory
+- Floquet and non-Hermitian physics
+- superconductivity
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Condensed Matter Theorz
+    institution: ETH Zürich
+    year: 2017
+  - course: MSc in Theoretical physics
+    institution: Comenius University in Bratislava
+    year: 2013
+  - course: BSc in Physics
+    institution: Comenius University in Bratislava
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:tomas.bzdusek@uzh.ch'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tomasbzdusek
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=cRgGh1oAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tomas-bzdusek
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
