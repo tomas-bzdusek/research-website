@@ -41,8 +41,8 @@ tags: []
 projects: []
 image:
   caption: ""
-  focal_point: ""
-  preview_only: true
+  focal_point: smart
+  preview_only: false
   filename: featured.jpg
 date: 2021-02-28T13:16:00.000Z
 url_slides: ""
