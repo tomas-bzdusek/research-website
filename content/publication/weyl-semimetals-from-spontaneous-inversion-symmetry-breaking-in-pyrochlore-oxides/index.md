@@ -30,7 +30,7 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: Phys. Rev. B 91, 165105 (2015)
 url_source: ""
 url_video: ""
 title: Weyl semimetals from spontaneous inversion symmetry breaking in
