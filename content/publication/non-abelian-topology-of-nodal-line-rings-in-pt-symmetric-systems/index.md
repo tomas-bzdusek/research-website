@@ -33,7 +33,7 @@ abstract: Nodal lines inside the momentum space of three-dimensional crystalline
 draft: false
 featured: false
 image:
-  filename: non-abelian-prb-cover.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-02-28T13:29:01.988Z
