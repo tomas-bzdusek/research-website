@@ -32,9 +32,15 @@ abstract: Nodal lines inside the momentum space of three-dimensional crystalline
   appendices with formal mathematical derivations.
 draft: false
 featured: false
+tags:
+  - band-theory
+  - non-Abelian-topology
+  - topological-semimetals
+url_pdf: https://arxiv.org/pdf/1903.00018.pdf
+url_code: http://dx.doi.org/10.13140/RG.2.2.13943.75680
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: true
-date: 2021-02-28T13:29:01.988Z
+  preview_only: false
+date: 2020-05-18
 ---

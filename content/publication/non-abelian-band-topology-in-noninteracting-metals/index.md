@@ -23,40 +23,41 @@ abstract: Weyl points in three spatial dimensions are characterized by a
   exhibit these nodes. We also indicate how the concept of robust and multiply
   charged nodes generalizes to other spatial dimensions.
 slides: null
-url_pdf: https://arxiv.org/pdf/1705.07126.pdf
+url_pdf: https://arxiv.org/pdf/1808.07469.pdf
 publication_types:
   - "2"
 authors:
+  - QuanSheng Wu
+  - Alexey A. Soluyanov
   - Tomáš Bzdušek
-  - Andreas Rüegg
-  - Manfred Sigrist
 author_notes: []
 publication: ""
 summary: ""
-url_dataset: ""
+url_dataset: https://doi.org/10.24435/materialscloud:2019.0040/v1
 url_project: ""
-publication_short: Phys. Rev. B 96, 155105 (2017)
+publication_short: Science 365, 1273—1277 (2019)
 url_source: ""
 url_video: ""
-title: Robust doubly charged nodal lines and nodal surfaces in centrosymmetric systems
+title: Non-Abelian band topology in noninteracting metals
 featured: true
+links:
+  - name: press release
+    url: https://nccr-marvel.ch/highlights/2019-09nonabelian 
 tags:
+  - non-Abelian-topology
   - band-theory
   - topological-semimetals
-  - superconductivity
-date: 2017-10-04
+  - nodal-chains
+date: 2019-08-29
 url_slides: ""
-links:
-  - name: PhD thesis
-    url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/216959/thesis%2bcover.pdf?sequence=1&isAllowed=y
 projects: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2019-
 url_poster: ""
-url_code: "http://dx.doi.org/10.13140/RG.2.2.29148.10885"
-doi: 10.1103/PhysRevB.96.155105
+url_code: ""
+doi: 10.1126/science.aau8740
 ---

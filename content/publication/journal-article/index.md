@@ -29,7 +29,7 @@ authors:
 author_notes: []
 publication: ""
 summary: ""
-url_dataset: "https://github.com/abouhon/EulerClassTightBinding"
+url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
@@ -37,16 +37,19 @@ url_video: ""
 title: Geometric approach to fragile topology beyond symmetry indicators
 doi: 10.1103/PhysRevB.102.115135
 featured: false
-tags: []
+tags:
+  - band-theory
+  - topological-insulators
+  - delicate-topology
 projects: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2021-02-28T13:16:00.000Z
+date: 2020-09-16
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: https://github.com/abouhon/EulerClassTightBinding
 ---
