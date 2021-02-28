@@ -17,7 +17,7 @@ abstract: According to a widely held paradigm, a pair of Weyl points with
   can be directly generalized to systems with multiple bands and other choices
   of symmetry.
 slides: null
-url_pdf: https://arxiv.org/pdf/1705.07126.pdf
+url_pdf: https://arxiv.org/pdf/1803.06364.pdf
 publication_types:
   - "2"
 authors:
@@ -37,11 +37,8 @@ featured: false
 tags:
   - band-theory
   - topological-semimetals
-date: 2021-02-28T16:51:24.309Z
+date: 2018-09-05
 url_slides: ""
-links:
-  - name: PhD thesis
-    url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/216959/thesis%2bcover.pdf?sequence=1&isAllowed=y
 projects: []
 image:
   caption: ""
@@ -50,6 +47,6 @@ image:
   filename: featured.jpg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: http://dx.doi.org/10.13140/RG.2.2.29148.10885
+url_code: ""
 doi: 10.1103/PhysRevLett.121.106402
 ---
