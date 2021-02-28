@@ -33,6 +33,10 @@ abstract: The band theory of solids is arguably the most successful theory of
   properties, distinct from those of materials exhibiting previously known
   excitations.
 featured: true
+url_pdf: https://arxiv.org/pdf/1604.03112.pdf
+links:
+- name: PhD thesis
+  url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/216959/thesis%2bcover.pdf?sequence=1&isAllowed=y
 tags:
   - band-theory
   - topological-semimetals
