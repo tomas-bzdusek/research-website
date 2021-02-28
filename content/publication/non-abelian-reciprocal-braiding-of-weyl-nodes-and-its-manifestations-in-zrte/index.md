@@ -17,7 +17,7 @@ abstract: Weyl semimetals in three-dimensional crystals provide the paradigm
   values of the non-Abelian charge, and that uniaxial compression strain drives
   a non-trivial conversion of the Weyl points into nodal lines.
 slides: null
-url_pdf: https://arxiv.org/pdf/1911.12748.pdf
+url_pdf: https://arxiv.org/pdf/1907.10611.pdf
 publication_types:
   - "2"
 authors:
@@ -30,7 +30,7 @@ authors:
 author_notes: []
 publication: ""
 summary: ""
-url_dataset: ""
+url_dataset: "https://doi.org/10.24435/materialscloud:vb-mk"
 url_project: ""
 publication_short: Nat. Phys. 16, 1137—1143 (2020)
 url_source: ""
@@ -50,7 +50,7 @@ image:
   filename: featured.jpg
 date: 2021-02-28T19:10:22.005Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-07-13
 url_poster: ""
 url_code: ""
 ---
