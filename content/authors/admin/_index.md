@@ -26,19 +26,19 @@ interests:
 education:
   courses:
   - course: Ambizione Research Fellowship
-    institution: Paul Scherrer Institute
+    institution: Paul Scherrer Institute, Villigen, Switzerland
     year: 2019-present
   - course: Gordon and Betty Moore Fellowship
-    institution: Stanford University
+    institution: Stanford University, California, USA
     year: 2017-2019
   - course: PhD in Condensed Matter Theory
-    institution: ETH Zürich
+    institution: ETH Zürich, Switzerland
     year: 2013-2017
   - course: MSc in Theoretical physics
-    institution: Comenius University in Bratislava
+    institution: Comenius University in Bratislava, Slovakia
     year: 2010-2013
   - course: BSc in Physics
-    institution: Comenius University in Bratislava
+    institution: Comenius University in Bratislava, Slovakia
     year: 2007–2010
 
 # Social/Academic Networking
