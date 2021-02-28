@@ -41,7 +41,7 @@ url_video: ""
 title: Non-Abelian band topology in noninteracting metals
 featured: true
 links:
-  - press release
+  - name: press release
     url: https://nccr-marvel.ch/highlights/2019-09nonabelian 
 tags:
   - non-Abelian-topology
