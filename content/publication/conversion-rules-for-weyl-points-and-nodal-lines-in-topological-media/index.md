@@ -21,9 +21,9 @@ url_pdf: https://arxiv.org/pdf/1705.07126.pdf
 publication_types:
   - "2"
 authors:
+  - Xiao-Qi Sun
+  - Shou-Cheng Zhang
   - Tomáš Bzdušek
-  - Andreas Rüegg
-  - Manfred Sigrist
 author_notes: []
 publication: ""
 summary: ""
