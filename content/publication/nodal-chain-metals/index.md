@@ -21,7 +21,7 @@ abstract: The band theory of solids is arguably the most successful theory of
   properties, distinct from those of materials exhibiting previously known
   excitations.
 slides: null
-url_pdf: https://arxiv.org/pdf/1501.03029.pdf
+url_pdf: https://arxiv.org/pdf/1604.03112.pdf
 publication_types:
   - "2"
 authors:
@@ -41,6 +41,9 @@ url_video: ""
 title: Nodal-chain metals
 doi: 10.1038/nature19099
 featured: true
+links:
+  - name: PhD thesis
+  url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/216959/thesis%2bcover.pdf?sequence=1&isAllowed=y
 tags:
   - band-theory
   - topological-semimetals
