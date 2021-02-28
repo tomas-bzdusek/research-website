@@ -12,7 +12,7 @@ abstract: An Alice string is a topological defect with a very peculiar feature.
   the validity of the Nielsen-Ninomiya theorem, and present a mathematical
   description of the braiding phenomenon.
 slides: null
-url_pdf: https://arxiv.org/pdf/1911.12748.pdf
+url_pdf: https://arxiv.org/pdf/1905.04338.pdf
 publication_types:
   - "2"
 authors:
@@ -41,7 +41,7 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2021-02-28T18:50:18.905Z
+date: 2020-05-26
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
