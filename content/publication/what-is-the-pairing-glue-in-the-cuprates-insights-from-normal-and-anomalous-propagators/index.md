@@ -12,7 +12,7 @@ abstract: Both the pairing and the pair-breaking modes lead to similar kinks of
   function of the Nambu–Gor’kov anomalous propagator and we demonstrate that
   this function is in principle experimentally observable.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/1401.5598.pdf
 publication_types:
   - "2"
 authors:
