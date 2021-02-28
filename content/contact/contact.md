@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-You can react my via the following form, or using the contact information appended below.
+You can reach me via the following form, or using the contact information appended below.
