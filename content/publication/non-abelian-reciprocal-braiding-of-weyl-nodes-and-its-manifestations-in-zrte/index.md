@@ -1,22 +1,21 @@
 ---
-abstract: We revisit the problem of classifying topological band structures in
-  non-Hermitian systems. Recently, a solution has been proposed, which is based
-  on redefining the notion of energy band gap in two different ways, leading to
-  the so-called “point-gap” and “line-gap” schemes. However, simple Hamiltonians
-  without band degeneracies can be constructed which correspond to neither of
-  the two schemes. Here, we resolve this shortcoming of the existing
-  classifications by developing the most general topological characterization of
-  non-Hermitian bands for systems without a symmetry. Our approach, which is
-  based on homotopy theory, makes no particular assumptions on the band gap, and
-  predicts significant extensions to the previous classification frameworks. In
-  particular, we show that the one-dimensional invariant generalizes from
-  $\mathbb{Z}$ winding number to the non-Abelian braid group, and that depending
-  on the braid group invariants, the two-dimensional invariants can be cyclic
-  groups $\mathbb{Z}_n$ (rather than $\mathbb{Z}$ Chern number). We interpret
-  these results in terms of a correspondence with gapless systems, and we
-  illustrate them in terms of analogies with other problems in band topology,
-  namely, the fragile topological invariants in Hermitian systems and the
-  topological defects and textures of nematic liquids.
+abstract: Weyl semimetals in three-dimensional crystals provide the paradigm
+  example of topologically protected band nodes. It is usually taken for granted
+  that a pair of colliding Weyl points annihilate whenever they carry opposite
+  chiral charge. In stark contrast, here we report that Weyl points in systems
+  that are symmetric under the composition of time reversal with a π rotation
+  are characterized by a non-Abelian topological invariant. The topological
+  charges of the Weyl points are transformed via braid phase factors, which
+  arise upon exchange inside symmetric planes of the reciprocal momentum space.
+  We elucidate this process with an elementary two-dimensional tight-binding
+  model that is implementable in cold-atom set-ups and in photonic systems. In
+  three dimensions, interplay of the non-Abelian topology with point-group
+  symmetry is shown to enable topological phase transitions in which pairs of
+  Weyl points may scatter or convert into nodal-line rings. By combining our
+  theoretical arguments with first-principles calculations, we predict that Weyl
+  points occurring near the Fermi level of zirconium telluride carry non-trivial
+  values of the non-Abelian charge, and that uniaxial compression strain drives
+  a non-trivial conversion of the Weyl points into nodal lines.
 slides: null
 url_pdf: https://arxiv.org/pdf/1911.12748.pdf
 publication_types:
@@ -33,16 +32,16 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Phys. Rev. B 101, 205417 (2020)
+publication_short: Nat. Phys. 16, 1137—1143 (2020)
 url_source: ""
 url_video: ""
 title: Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestations in ZrTe
-doi: 10.1103/PhysRevB.101.205417
+doi: 10.1038/s41567-020-0967-9
 featured: true
 tags:
   - band-theory
-  - non-Hermitian
   - non-Abelian-topology
+  - topological-semimetals
 projects: []
 image:
   caption: ""
