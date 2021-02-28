@@ -37,6 +37,8 @@ url_pdf: https://arxiv.org/pdf/1604.03112.pdf
 links:
 - name: PhD thesis
   url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/216959/thesis%2bcover.pdf?sequence=1&isAllowed=y
+- name: press release
+  url: https://www.phys.ethz.ch/research/highlights/research-highlights/2017/04/metal-in-chains.html
 tags:
   - band-theory
   - topological-semimetals
