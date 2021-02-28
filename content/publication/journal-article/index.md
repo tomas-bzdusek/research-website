@@ -43,7 +43,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  filename: geometric-cover.jpg
+  filename: featured.jpg
 date: 2021-02-28T13:16:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
