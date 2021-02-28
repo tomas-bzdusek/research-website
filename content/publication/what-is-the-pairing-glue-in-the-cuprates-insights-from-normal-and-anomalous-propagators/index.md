@@ -21,7 +21,8 @@ authors:
 publication: ""
 featured: false
 tags:
-  - Source Themes
+  - superconductivity
+  - spectral-function
 projects:
   - internal-project
 summary: ""
@@ -40,7 +41,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: 10.1080/14786435.2014.980351
