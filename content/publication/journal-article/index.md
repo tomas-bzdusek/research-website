@@ -25,7 +25,7 @@ publication_types:
 authors:
   - Adrien Bouhon
   - Tomáš Bzdušek
-  - and Robert-Jan Slager
+  - Robert-Jan Slager
 author_notes: []
 publication: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -45,7 +45,8 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00.000Z
+  filename: geometric-cover.jpg
+date: 2021-02-28T13:16:39.464Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
