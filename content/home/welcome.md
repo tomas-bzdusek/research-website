@@ -6,7 +6,7 @@ widget: hero
 widget_id: front-page
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: My research collection
 subtitle: ""
 design:
   columns: "1"
