@@ -22,10 +22,12 @@ url_pdf: https://arxiv.org/pdf/1911.12748.pdf
 publication_types:
   - "2"
 authors:
-  - Charles C. Wojcik
-  - Xiao-Qi Sun
+  - Adrien Bouhon
+  - QuanSheng Wu
+  - Robert-Jan Slager
+  - Hongming Weng
+  - Oleg V. Yazyev
   - Tomáš Bzdušek
-  - and Shanhui Fan
 author_notes: []
 publication: ""
 summary: ""
