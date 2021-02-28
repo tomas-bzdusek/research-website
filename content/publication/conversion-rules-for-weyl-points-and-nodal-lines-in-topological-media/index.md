@@ -29,24 +29,24 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Phys. Rev. Lett. 121, 196401 (2018)
+publication_short: Phys. Rev. Lett. 121, 196402 (2018)
 url_source: ""
 url_video: ""
 title: Conversion Rules for Weyl Points and Nodal Lines in Topological Media
+doi: 10.1103/PhysRevLett.121.106402
 featured: false
 tags:
   - band-theory
   - topological-semimetals
-date: 2018-09-05
-url_slides: ""
 projects: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
   filename: featured.jpg
+date: 2018-09-05
+url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: 10.1103/PhysRevLett.121.106402
 ---
