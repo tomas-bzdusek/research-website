@@ -48,5 +48,5 @@ date: 2020-09-16
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: "https://github.com/abouhon/EulerClassTightBinding"
+url_code: https://github.com/abouhon/EulerClassTightBinding
 ---
