@@ -37,7 +37,10 @@ url_video: ""
 title: Geometric approach to fragile topology beyond symmetry indicators
 doi: 10.1103/PhysRevB.102.115135
 featured: false
-tags: []
+tags:
+  - band-theory
+  - topological-insulators
+  - delicate-topology
 projects: []
 image:
   caption: ""
