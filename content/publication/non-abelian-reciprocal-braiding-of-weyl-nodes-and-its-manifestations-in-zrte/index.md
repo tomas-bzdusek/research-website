@@ -29,6 +29,9 @@ authors:
   - Tomáš Bzdušek
 author_notes: []
 publication: ""
+links:
+  - name: press release
+    url: https://nccr-marvel.ch/highlights/2020-07BraidingWeyl
 summary: ""
 url_dataset: "https://doi.org/10.24435/materialscloud:vb-mk"
 url_project: ""
