@@ -25,15 +25,21 @@ interests:
 
 education:
   courses:
-  - course: PhD in Condensed Matter Theorz
+  - course: Ambizione Research Fellowship
+    institution: Paul Scherrer Institute
+    year: 2019-present
+  - course: Gordon and Betty Moore Fellowship
+    institution: Stanford University
+    year: 2017-2019
+  - course: PhD in Condensed Matter Theory
     institution: ETH Zürich
-    year: 2017
+    year: 2013-2017
   - course: MSc in Theoretical physics
     institution: Comenius University in Bratislava
-    year: 2013
+    year: 2010-2013
   - course: BSc in Physics
     institution: Comenius University in Bratislava
-    year: 2010
+    year: 2007–2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -77,7 +83,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
