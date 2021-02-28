@@ -23,7 +23,7 @@ abstract: Weyl points in three spatial dimensions are characterized by a
   exhibit these nodes. We also indicate how the concept of robust and multiply
   charged nodes generalizes to other spatial dimensions.
 slides: null
-url_pdf: https://arxiv.org/pdf/1705.07126.pdf
+url_pdf: https://arxiv.org/pdf/1808.07469.pdf
 publication_types:
   - "2"
 authors:
@@ -45,18 +45,15 @@ tags:
   - band-theory
   - topological-semimetals
   - nodal-chains
-date: 2021-02-28T18:02:50.902Z
+date: 2019-08-29
 url_slides: ""
-links:
-  - name: PhD thesis
-    url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/216959/thesis%2bcover.pdf?sequence=1&isAllowed=y
 projects: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2019-
 url_poster: ""
 url_code: http://dx.doi.org/10.13140/RG.2.2.29148.10885
 doi: 10.1126/science.aau8740
