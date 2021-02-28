@@ -19,7 +19,7 @@ abstract: We present a framework to systematically address topological phases
   method to construct model Hamiltonians to study such phases, constituting a
   versatile theoretical tool.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2005.02044.pdf
 publication_types:
   - "2"
 authors:
@@ -50,17 +50,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-@article{PhysRevB.102.115135,
-  title = {Geometric approach to fragile topology beyond symmetry indicators},
-  author = {Bouhon, Adrien and Bzdu\v{s}ek, Tom\'{a}\v{s} and Slager, Robert-Jan},
-  journal = {Phys. Rev. B},
-  volume = {102},
-  issue = {11},
-  pages = {115135},
-  numpages = {29},
-  year = {2020},
-  month = {Sep},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.102.115135},
-  url = {https://link.aps.org/doi/10.1103/PhysRevB.102.115135}
-}
