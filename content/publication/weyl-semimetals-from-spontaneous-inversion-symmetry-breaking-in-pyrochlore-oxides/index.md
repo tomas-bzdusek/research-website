@@ -37,7 +37,10 @@ title: Weyl semimetals from spontaneous inversion symmetry breaking in
   pyrochlore oxides
 doi: 10.1103/PhysRevB.91.165105
 featured: false
-tags: []
+tags:
+  - band-theory
+  - topological-semimetals
+  - pyrochlore
 projects: []
 image:
   caption: ""
