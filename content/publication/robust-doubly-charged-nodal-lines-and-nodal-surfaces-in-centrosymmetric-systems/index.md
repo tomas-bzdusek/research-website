@@ -1,22 +1,27 @@
 ---
-abstract: >-
-  We study the electronic properties of strongly spin-orbit coupled electrons on
-  the elastic pyrochlore lattice. Akin to the Peierls transition in
-  one-dimensional systems, the coupling of the lattice to the electronic degrees
-  of freedom can stabilize a spontaneous deformation of the crystal. This
-  deformation corresponds to a breathing mode, which breaks the inversion
-  symmetry. We find that for intermediate values of the staggered strain, the
-  inversion-symmetry broken phase realizes a topological Weyl semimetal. In the
-  temperature-elasticity phase diagram, the Weyl semimetal shows a reentrant
-  phase behavior: it can be reached from a symmetric phase realized both at
-  higher and at lower temperatures. The symmetric phase is a Dirac semimetal,
-  which is protected by the nonsymmorphic space group of the pyrochlore lattice.
-  Beyond a critical value of the staggered strain, the symmetry-broken phase is
-  a fully gapped trivial insulator. The surface states of the Weyl semimetal
-  form open Fermi arcs and we observe that their connectivity depends on the
-  termination of the crystal. In particular, for the 
-
-  {111}  films, the semiclassical closed electronic orbits of the surface states in a magnetic field cross the bulk either twice, four, six, or twelve times. We demonstrate how one can tune the number of bulk crossings through a Lifshitz-like transition of the Fermi arcs, which we call Weyl-Lifshitz transition, by applying a surface potential. Our results offer a route to a topological Weyl semimetal in nonmagnetic materials and might be relevant for pyrochlore oxides with heavy transition-metal ions such as alloys of iridates.
+abstract: Weyl points in three spatial dimensions are characterized by a
+  Z-valued charge—the Chern number—which makes them stable against a wide range
+  of perturbations. A set of Weyl points can mutually annihilate only if their
+  net charge vanishes, a property we refer to as robustness. While nodal loops
+  are usually not robust in this sense, it has recently been shown using
+  homotopy arguments that in the centrosymmetric extension of the AI symmetry
+  class they nevertheless develop a Z2 charge analogous to the Chern number.
+  Nodal loops carrying a nontrivial value of this Z2 charge are robust, i.e.,
+  they can be gapped out only by a pairwise annihilation and not on their own.
+  As this is an additional charge independent of the Berry π-phase flowing along
+  the band degeneracy, such nodal loops are, in fact, doubly charged. In this
+  manuscript, we generalize the homotopy discussion to the centrosymmetric
+  extensions of all Atland-Zirnbauer classes. We develop a tailored mathematical
+  framework dubbed the AZ+$\mathcal{I}$ classification and show that in three
+  spatial dimensions such robust and multiply charged nodes appear in four of
+  such centrosymmetric extensions, namely, AZ+$\mathcal{I}$ classes CI and AI
+  lead to doubly charged nodal lines, while D and BDI support doubly charged
+  nodal surfaces. We remark that no further crystalline symmetries apart from
+  the spatial inversion are necessary for their stability. We provide a
+  description of the corresponding topological charges, and develop simple
+  tight-binding models of various semimetallic and superconducting phases that
+  exhibit these nodes. We also indicate how the concept of robust and multiply
+  charged nodes generalizes to other spatial dimensions.
 slides: null
 url_pdf: https://arxiv.org/pdf/1501.03029.pdf
 publication_types:
@@ -30,15 +35,15 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Phys. Rev. B 91, 165105 (2015)
+publication_short: Phys. Rev. B 96, 155105 (2017)
 url_source: ""
 url_video: ""
 title: Robust doubly charged nodal lines and nodal surfaces in centrosymmetric systems
-featured: false
+featured: true
 tags:
   - band-theory
   - topological-semimetals
-  - pyrochlore
+  - superconductivity
 date: 2021-02-28T16:06:52.761Z
 url_slides: ""
 links:
@@ -53,5 +58,5 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: 10.1103/PhysRevB.91.165105
+doi: 10.1103/PhysRevB.96.155105
 ---
