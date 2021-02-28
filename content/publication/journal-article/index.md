@@ -42,7 +42,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: geometric-cover.jpg
 date: 2021-02-28T13:16:00.000Z
 url_slides: ""
