@@ -20,7 +20,7 @@ abstract: We study a class of topological materials which in their
   largely tunable density of states and optical conductivity with doping and
   strain, respectively.
 slides: null
-url_pdf: https://arxiv.org/pdf/2005.02044.pdf
+url_pdf: https://arxiv.org/pdf/2008.02807.pdf
 publication_types:
   - "2"
 authors:
@@ -32,7 +32,7 @@ authors:
 author_notes: []
 publication: ""
 summary: ""
-url_dataset: ""
+url_dataset: https://doi.org/10.3929/ethz-b-000423924
 url_project: ""
 publication_short: Phys. Rev. B 103, L121101 (2021)
 url_source: ""
@@ -50,7 +50,7 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
-date: 2021-03-03T08:51:13.910Z
+date: 2021-03-01
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
