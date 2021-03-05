@@ -58,12 +58,15 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tomas-Bzdusek
-- icon: arxiv
+- icon: publons
   icon_pack: ai
-  link: https://arxiv.org/a/bzdusek_t_1.html
+  link: https://publons.com/researcher/1838418/tomas-bzdusek/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6904-5264
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/bzdusek_t_1.html
 - icon: stackoverflow
   icon_pack: ai
   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
