@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Patrick M. Lenggenhager
+title: [Patrick M. Lenggenhager](https://patrick-lenggenhager.github.io/)
 # Is this the primary user of the site?
 superuser: false
 
@@ -98,7 +98,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://patrick-lenggenhager.github.io/'" />
+    <meta http-equiv="refresh" content="2; url='https://patrick-lenggenhager.github.io/'" />
   </head>
   <body>
     <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
