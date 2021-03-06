@@ -11,6 +11,8 @@ superuser: false
 organizations:
 - name: Paul Scherrer Institute
   url: "https://www.psi.ch/en/lsm/cmt-group"
+- name: ETH Zürich
+  url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
 - name: University of Zürich
   url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
 
