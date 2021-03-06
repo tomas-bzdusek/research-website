@@ -96,12 +96,10 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="7; url='https://patrick-lenggenhager.github.io/'" />
+    <meta http-equiv="refresh" content="0; url='https://patrick-lenggenhager.github.io/'" />
   </head>
   <body>
     <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
   </body>
 </html>
 
-
-Random text.
