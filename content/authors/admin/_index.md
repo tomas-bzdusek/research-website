@@ -6,7 +6,7 @@ title: Tomáš Bzdušek, Dr.
 superuser: true
 
 # Role/position
-role: Senior researcher
+role: Group leader
 
 # Organizations/Affiliations
 organizations:
