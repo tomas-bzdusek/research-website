@@ -3,5 +3,5 @@
 type: widget_page
 ---
 
-<p>Random paragraph of text.</p>
+What happens to this piece of text?
 
