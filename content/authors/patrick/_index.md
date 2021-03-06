@@ -5,7 +5,7 @@ title: Patrick M. Lenggenhager
 superuser: false
 
 # Role/position
-role: Group leader
+# role: Group leader
 
 # Organizations/Affiliations
 organizations:
@@ -17,28 +17,28 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include various topic in topological band theory.
 
-interests:
-- Topological band theory
-- Floquet and non-Hermitian physics
-- superconductivity
+# interests:
+# - Topological band theory
+# - Floquet and non-Hermitian physics
+# - superconductivity
 
-education:
-  courses:
-  - course: Ambizione Research Fellowship
-    institution: Paul Scherrer Institute, Villigen, Switzerland
-    year: 2019-present
-  - course: Gordon and Betty Moore Fellowship
-    institution: Stanford University, California, USA
-    year: 2017-2019
-  - course: PhD in Condensed Matter Theory
-    institution: ETH Zürich, Switzerland
-    year: 2013-2017
-  - course: MSc in Theoretical physics
-    institution: Comenius University in Bratislava, Slovakia
-    year: 2010-2013
-  - course: BSc in Physics
-    institution: Comenius University in Bratislava, Slovakia
-    year: 2007–2010
+# education:
+#   courses:
+#   - course: Ambizione Research Fellowship
+#     institution: Paul Scherrer Institute, Villigen, Switzerland
+#     year: 2019-present
+#   - course: Gordon and Betty Moore Fellowship
+#     institution: Stanford University, California, USA
+#     year: 2017-2019
+#   - course: PhD in Condensed Matter Theory
+#     institution: ETH Zürich, Switzerland
+#     year: 2013-2017
+#   - course: MSc in Theoretical physics
+#     institution: Comenius University in Bratislava, Slovakia
+#     year: 2010-2013
+#   - course: BSc in Physics
+#     institution: Comenius University in Bratislava, Slovakia
+#     year: 2007–2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,9 +72,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tomas-bzdusek
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
