@@ -30,10 +30,3 @@ design:
   show_social: true
 ---
 
-
-<div style="position: relative;background-color: blue; width: 600px; height: 800px;">    
-    Text.
-    <div style="position: absolute; bottom: 5px; background-color: green">
-    TEST (C) 2010
-    </div>
-</div>
