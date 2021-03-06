@@ -94,4 +94,6 @@ user_groups:
 - Researchers
 ---
 
-Tomáš Bzdušek will include a summary of his research interests and a short discussion soon.
+My name is Tomáš Bzdušek and I am a postdoctoral fellow in the [CMT group](https://www.psi.ch/en/lsm/cmt-group) at the [Paul Scherrer Institute](https://www.psi.ch/en) in Villigen, Switzerland. I am also associated with the [group](https://www.physik.uzh.ch/en/groups/neupert/team.html) of Prof. Titus Neupert at the [University of Zürich](https://www.uzh.ch/cmsssl/en.html), Switzerland. I obtained my undegraduate degrees at [Comenius University](https://fmph.uniba.sk/en/) in Bratislava under the supervision of Richard Hlubina, and I did my doctoral studies at the Department of Physics of [ETH Zürich](https://www.phys.ethz.ch/) in the group of Manfred Sigrist. Before holding my current research position, I spend two years as the Gordon and Betty Moore Fellow at the Geballe Laboratory for Advanced Materials at [Stanford University](https://glam.stanford.edu/).
+
+I work in the field of condensed matter theory, in particular I study various aspects and prospective applications of topological phases of matter. Much of my recent work applies the ideas of homotopy theory to classify topology of single-particle Hamiltonians, with applications to topological insulators, semimetals and insulators, as well as to dissipative (non-Hermitian) and periodically driven (Floquet) systems. 
