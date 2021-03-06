@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Tomáš Bzdušek, Dr.
+title: Tomáš Bzdušek
+degree: Dr.
 
 # Is this the primary user of the site?
 superuser: true
