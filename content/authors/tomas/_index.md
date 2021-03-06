@@ -7,6 +7,7 @@ interests:
   - Topological band theory
   - Floquet and non-Hermitian physics
   - superconductivity
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,6 +36,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
+    
 organizations:
   - name: Paul Scherrer Institute
     url: https://www.psi.ch/en/lsm/cmt-group
