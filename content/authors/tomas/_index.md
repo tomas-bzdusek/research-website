@@ -47,7 +47,7 @@ education:
       institution: Paul Scherrer Institute, Villigen, Switzerland
       year: 2019-present
     - course: Gordon and Betty Moore Fellowship
-      icon: fa-university
+      icon: fas fa-university
       institution: Stanford University, California, USA
       year: 2017-2019
     - course: PhD in Condensed Matter Theory
