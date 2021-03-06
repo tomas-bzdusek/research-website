@@ -1,6 +1,7 @@
 ---
 # Display name
-title: [Patrick M. Lenggenhager](https://patrick-lenggenhager.github.io/)
+# title: [Patrick M. Lenggenhager](https://patrick-lenggenhager.github.io/)
+title: place name
 # Is this the primary user of the site?
 superuser: false
 
