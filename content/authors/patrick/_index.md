@@ -47,28 +47,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tomas.bzdusek@uzh.ch'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tomasbzdusek
+  link: 'mailto:lenpat@physik.uzh.ch'
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/tomasbzdusek
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=cRgGh1oAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Tomas-Bzdusek
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1838418/tomas-bzdusek/
+  link: https://www.researchgate.net/profile/Patrick-Lenggenhager
+# - icon: publons
+#   icon_pack: ai
+#   link: https://publons.com/researcher/1838418/tomas-bzdusek/
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-6904-5264
+  link: https://orcid.org/0000-0001-6746-1387
 - icon: arxiv
   icon_pack: ai
-  link: https://arxiv.org/a/bzdusek_t_1.html
-- icon: stackoverflow
-  icon_pack: ai
-  link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
+  link: https://arxiv.org/a/lenggenhager_p_1.html
+# - icon: stackoverflow
+#   icon_pack: ai
+#   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tomas-bzdusek
