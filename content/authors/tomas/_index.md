@@ -46,7 +46,8 @@ education:
     - course: Ambizione Research Fellowship
       institution: Paul Scherrer Institute, Villigen, Switzerland
       year: 2019-present
-    - job: Gordon and Betty Moore Fellowship
+    - course: Gordon and Betty Moore Fellowship
+      icon: fa-university
       institution: Stanford University, California, USA
       year: 2017-2019
     - course: PhD in Condensed Matter Theory
@@ -64,15 +65,6 @@ user_groups:
   - Principal Investigator
 highlight_name: true
 ---
-
-{{ if .job }}
-            <i class="fa-li fas fa-university"></i>
-            <div class="description">
-              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-            {{ end }}
-
 
 My name is Tomáš Bzdušek and I am a postdoctoral fellow in the [CMT group](https://www.psi.ch/en/lsm/cmt-group) at the [Paul Scherrer Institute](https://www.psi.ch/en) in Villigen, Switzerland. I am also associated with the [group](https://www.physik.uzh.ch/en/groups/neupert/team.html) of Prof. Titus Neupert at the [University of Zürich](https://www.uzh.ch/cmsssl/en.html), Switzerland. I obtained my undegraduate degrees at [Comenius University](https://fmph.uniba.sk/en/) in Bratislava under the supervision of Richard Hlubina, and I did my doctoral studies at the Department of Physics of [ETH Zürich](https://www.phys.ethz.ch/) in the group of Manfred Sigrist. Before holding my current research position, I spend two years as the Gordon and Betty Moore Fellow at the Geballe Laboratory for Advanced Materials at [Stanford University](https://glam.stanford.edu/).
 
