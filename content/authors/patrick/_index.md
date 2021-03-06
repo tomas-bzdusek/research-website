@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="7; url='https://patrick-lenggenhager.github.io/'" />
-  </head>
-  <body>
-    <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
-  </body>
-</html>
-
 ---
 # Display name
 title: Patrick M. Lenggenhager
@@ -102,5 +92,16 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://patrick-lenggenhager.github.io/'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
+  </body>
+</html>
+
 
 Random text.
