@@ -3,4 +3,5 @@
 type: widget_page
 ---
 
-Some random text.
+<p>Random paragraph of text.</p>
+
