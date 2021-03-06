@@ -41,24 +41,15 @@ organizations:
   - name: University of Zürich
     url: https://www.physik.uzh.ch/en/groups/neupert/team.html
     
-training:
+education:
   courses:
-    - course: Ambizione Research Fellowship
+    - job: Ambizione Research Fellowship
       institution: Paul Scherrer Institute, Villigen, Switzerland
       year: 2019-present
     - course: Gordon and Betty Moore Fellowship
       institution: Stanford University, California, USA
       year: 2017-2019
-
-education:
-  courses:
-   # - course: Ambizione Research Fellowship
-   #   institution: Paul Scherrer Institute, Villigen, Switzerland
-   #   year: 2019-present
-   # - course: Gordon and Betty Moore Fellowship
-   #   institution: Stanford University, California, USA
-   #   year: 2017-2019
-   # - course: PhD in Condensed Matter Theory
+    - course: PhD in Condensed Matter Theory
       institution: ETH Zürich, Switzerland
       year: 2013-2017
     - course: MSc in Theoretical physics
