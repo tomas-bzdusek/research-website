@@ -18,7 +18,7 @@ content:
   user_groups:
   - Principal Investigator
   - Researchers
-  - Doctoral Students
+  - Grad Students
   - Administration
   - Visitors
   - Alumni
