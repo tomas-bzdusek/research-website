@@ -6,7 +6,7 @@ title: Tomáš Bzdušek, Dr.
 superuser: true
 
 # Role/position
-role: Group leader
+# role: Group leader
 
 # Organizations/Affiliations
 organizations:
