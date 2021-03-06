@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Non-Abelian topology explains why certain Weyl points with opposite chirality cannot annihilate
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Our work published in Nature Physics explains the stability of Weyl points in ZrTe material class.
 
 <!--more-->
 

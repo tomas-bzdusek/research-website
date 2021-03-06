@@ -1,5 +1,5 @@
 ---
-title: Non-Abelian topology of nodal-line rings in  PT-symmetric systems
+title: Non-Abelian topology of nodal-line rings in  $\mathcal{PT}$-symmetric systems
 publication_types:
   - "2"
 authors:
@@ -9,8 +9,8 @@ doi: 10.1103/PhysRevB.101.195130
 publication: ""
 publication_short: Phys. Rev. B 101, 195130 (2020)
 abstract: Nodal lines inside the momentum space of three-dimensional crystalline
-  solids are topologically stabilized by a pi-flux of Berry phase. Nodal-line
-  rings in PT-symmetric systems with negligible spin-orbit coupling (here
+  solids are topologically stabilized by a $\pi$-flux of Berry phase. Nodal-line
+  rings in $\mathcal{PT}$-symmetric systems with negligible spin-orbit coupling (here
   described as “nodal class AI”) can carry an additional “monopole charge,”
   which further enhances their stability. Here, we relate two recent theoretical
   advancements in the study of band topology in nodal class AI. On the one hand,
@@ -27,7 +27,7 @@ abstract: Nodal lines inside the momentum space of three-dimensional crystalline
   monopole charge flips sign when braided along a path with a nontrivial Berry
   phase. This facilitates a new type non-Abelian “braiding” of nodal-line rings
   inside the momentum space, that has not been previously reported. The work
-  begins with a brief review of PT-symmetric band topology, and the geometric
+  begins with a brief review of $\mathcal{PT}$-symmetric band topology, and the geometric
   arguments employed in our theoretical analysis are supplemented in the
   appendices with formal mathematical derivations.
 draft: false

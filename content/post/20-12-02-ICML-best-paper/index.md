@@ -1,9 +1,9 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Two Editors's suggestions in Physical Review within a week
+date: 2020-05-25
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Two theoretical by our team, both applying the methods of homotopy theory to band topology, were both published in Physical Review B last week and specially featured as Editor's Suggestions.
 
 <!--more-->
 

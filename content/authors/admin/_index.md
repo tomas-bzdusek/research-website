@@ -6,7 +6,7 @@ title: Tomáš Bzdušek, Dr.
 superuser: true
 
 # Role/position
-role: Senior researcher
+role: Group leader
 
 # Organizations/Affiliations
 organizations:
@@ -58,12 +58,15 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tomas-Bzdusek
-- icon: arxiv
+- icon: publons
   icon_pack: ai
-  link: https://arxiv.org/a/bzdusek_t_1.html
+  link: https://publons.com/researcher/1838418/tomas-bzdusek/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6904-5264
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/bzdusek_t_1.html
 - icon: stackoverflow
   icon_pack: ai
   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
@@ -91,4 +94,6 @@ user_groups:
 - Researchers
 ---
 
-Tomáš Bzdušek will include a summary of his research interests and a short discussion soon.
+My name is Tomáš Bzdušek and I am a postdoctoral fellow in the [CMT group](https://www.psi.ch/en/lsm/cmt-group) at the [Paul Scherrer Institute](https://www.psi.ch/en) in Villigen, Switzerland. I am also associated with the [group](https://www.physik.uzh.ch/en/groups/neupert/team.html) of Prof. Titus Neupert at the [University of Zürich](https://www.uzh.ch/cmsssl/en.html), Switzerland. I obtained my undegraduate degrees at [Comenius University](https://fmph.uniba.sk/en/) in Bratislava under the supervision of Richard Hlubina, and I did my doctoral studies at the Department of Physics of [ETH Zürich](https://www.phys.ethz.ch/) in the group of Manfred Sigrist. Before holding my current research position, I spend two years as the Gordon and Betty Moore Fellow at the Geballe Laboratory for Advanced Materials at [Stanford University](https://glam.stanford.edu/).
+
+I work in the field of condensed matter theory, in particular I study various aspects and prospective applications of topological phases of matter. Much of my recent work applies the ideas of homotopy theory to classify topology of single-particle Hamiltonians, with applications to topological insulators, semimetals and insulators, as well as to dissipative (non-Hermitian) and periodically driven (Floquet) systems. 
