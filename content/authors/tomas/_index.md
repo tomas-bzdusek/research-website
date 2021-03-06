@@ -1,3 +1,11 @@
+{{ if .job }}
+            <i class="fa-li fas fa-university"></i>
+            <div class="description">
+              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+            {{ end }}
+
 ---
 title: Tomáš Bzdušek
 
@@ -43,9 +51,9 @@ organizations:
     
 education:
   courses:
-#    - course: Ambizione Research Fellowship
-#      institution: Paul Scherrer Institute, Villigen, Switzerland
-#      year: 2019-present
+    - course: Ambizione Research Fellowship
+      institution: Paul Scherrer Institute, Villigen, Switzerland
+      year: 2019-present
     - job: Gordon and Betty Moore Fellowship
       institution: Stanford University, California, USA
       year: 2017-2019
