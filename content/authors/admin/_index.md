@@ -6,7 +6,7 @@ title: Tomáš Bzdušek
 superuser: true
 
 # Role/position
-role: DrSc.
+# role: DrSc.
 
 # Organizations/Affiliations
 organizations:
