@@ -54,9 +54,9 @@ education:
     - course: PhD in Condensed Matter Theory
       institution: ETH Zürich, Switzerland
       year: 2013-2017
-#    - course: MSc in Theoretical physics
-#      institution: Comenius University in Bratislava, Slovakia
-#      year: 2010-2013
+    - course: MSc in Theoretical physics
+      institution: Comenius University in Bratislava, Slovakia
+      year: 2010-2013
     - course: BSc in Physics
       institution: Comenius University in Bratislava, Slovakia
       year: 2007–2010
