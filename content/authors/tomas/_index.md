@@ -46,9 +46,9 @@ education:
 #    - course: Ambizione Research Fellowship
 #      institution: Paul Scherrer Institute, Villigen, Switzerland
 #      year: 2019-present
-#    - course: Gordon and Betty Moore Fellowship
-#      institution: Stanford University, California, USA
-#      year: 2017-2019
+    - job: Gordon and Betty Moore Fellowship
+      institution: Stanford University, California, USA
+      year: 2017-2019
     - course: PhD in Condensed Matter Theory
       institution: ETH Zürich, Switzerland
       year: 2013-2017
