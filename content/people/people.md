@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Meet the Group
 subtitle:
 
 content:
@@ -19,6 +19,8 @@ content:
   - Principal Investigator
   - Researchers
   - Grad Students
+  - Undergrad Students
+  - Former Students
   - Administration
   - Visitors
   - Alumni
