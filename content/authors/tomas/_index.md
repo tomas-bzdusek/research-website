@@ -23,7 +23,7 @@ social:
     link: https://www.researchgate.net/profile/Tomas-Bzdusek
   - icon: publons
     icon_pack: ai
-    link: https://publons.com/researcher/1838418/tomas-bzdusek/
+    link: https://publons.com/researcher/1838418/tomas-bzdusek/metrics/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6904-5264
