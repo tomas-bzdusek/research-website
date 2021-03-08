@@ -45,7 +45,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'anelson@physik.uzh.ch'
+  link: 'mailto:anelson@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
