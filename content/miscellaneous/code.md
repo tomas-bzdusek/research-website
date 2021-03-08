@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Useful code
 
 # View.
 #   1 = List
