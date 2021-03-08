@@ -58,9 +58,9 @@ social:
 # - icon: publons
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1838418/tomas-bzdusek/
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0000-0002-2168-3846
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2168-3846
 # - icon: arxiv
 #   icon_pack: ai
 #   link: https://arxiv.org/a/lenggenhager_p_1.html
