@@ -20,12 +20,12 @@ abstract: Being Wannierizable is not the end of the story for topological
 draft: false
 featured: false
 tags:
-  - non-Hermitian
   - topological-insulators
   - band-theory
-  - Weyl-semimetals
+  - delicate-topology
+  - Hopf-insulator
 slides: null
-url_pdf: https://arxiv.org/pdf/2008.01090.pdf
+url_pdf: https://arxiv.org/pdf/2009.01863.pdf
 image:
   caption: ""
   focal_point: smart
@@ -40,7 +40,7 @@ author_notes: ""
 doi: ""
 publication: ""
 projects: []
-date: 2021-03-08T14:44:54.530Z
+date: 2020-09-03
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
