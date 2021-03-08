@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aleksandra N.
+title: Aleksandra Nelson
 # Is this the primary user of the site?
 superuser: false
 
