@@ -12,3 +12,10 @@ header:
   caption: ""
   image: ""
 ---
+
+Random piece of text with. For breakfast I need:
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
