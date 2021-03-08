@@ -1,7 +1,7 @@
 ---
 title: Tomáš Bzdušek
 
-bio: My research interests include various topic in topological band theory.
+# bio: My research interests include various topic in topological band theory.
 
 interests:
   - Topological band theory
