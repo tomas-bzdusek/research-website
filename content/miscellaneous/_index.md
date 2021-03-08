@@ -1,7 +1,14 @@
-widget: blank
-headless: true
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+---
+title: Recent & Upcoming Events
 
-# ... Put Your Section Options Here (title etc.) ...
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
