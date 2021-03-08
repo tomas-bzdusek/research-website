@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Patrick M. Lenggenhager
+title: Aleksandra Nelson
 # Is this the primary user of the site?
 superuser: false
 
@@ -9,15 +9,11 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Paul Scherrer Institute
-  url: "https://www.psi.ch/en/lsm/cmt-group"
-- name: ETH Zürich
-  url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
 - name: University of Zürich
   url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include various topic in topological band theory.
+# bio: My research interests include various topic in topological band theory.
 
 # interests:
 # - Topological band theory
@@ -49,25 +45,25 @@ bio: My research interests include various topic in topological band theory.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lenpat@physik.uzh.ch'
+  link: 'mailto:anelson@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Patrick-Lenggenhager
+  link: https://scholar.google.com/citations?hl=en&user=s8fA4GQAAAAJ
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Patrick-Lenggenhager
 # - icon: publons
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1838418/tomas-bzdusek/
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-6746-1387
-- icon: arxiv
-  icon_pack: ai
-  link: https://arxiv.org/a/lenggenhager_p_1.html
+  link: https://orcid.org/0000-0002-2168-3846
+# - icon: arxiv
+#   icon_pack: ai
+#   link: https://arxiv.org/a/lenggenhager_p_1.html
 # - icon: stackoverflow
 #   icon_pack: ai
 #   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
@@ -98,10 +94,10 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://patrick-lenggenhager.github.io/'" />
+    <meta http-equiv="refresh" content="2; url='https://www.physik.uzh.ch/en/groups/neupert/team/nelson.html''" />
   </head>
   <body>
-    <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
+    <p>Please follow <a href="https://www.physik.uzh.ch/en/groups/neupert/team/nelson.html'">this link</a>.</p>
   </body>
 </html>
 
