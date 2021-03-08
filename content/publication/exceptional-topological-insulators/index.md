@@ -27,7 +27,7 @@ tags:
   - band-theory
   - Weyl-semimetals
 slides: null
-url_pdf: https://arxiv.org/pdf/1905.04338.pdf
+url_pdf: https://arxiv.org/pdf/2008.01090.pdf
 image:
   caption: ""
   focal_point: smart
@@ -49,7 +49,7 @@ author_notes:
 doi: ""
 publication: ""
 projects: []
-date: 2021-03-08T14:31:35.901Z
+date: 2020-08-03
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
