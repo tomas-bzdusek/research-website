@@ -64,7 +64,7 @@ email: ""
 superuser: true
 user_groups:
   - Principal Investigator
-highlight_name: true
+highlight_name: false
 ---
 
 My name is Tomáš Bzdušek and I am a postdoctoral fellow in the [CMT group](https://www.psi.ch/en/lsm/cmt-group) at the [Paul Scherrer Institute](https://www.psi.ch/en) in Villigen, Switzerland. I am also associated with the [group](https://www.physik.uzh.ch/en/groups/neupert/team.html) of Prof. Titus Neupert at the [University of Zürich](https://www.uzh.ch/cmsssl/en.html), Switzerland. I obtained my undegraduate degrees at [Comenius University](https://fmph.uniba.sk/en/) in Bratislava under the supervision of Richard Hlubina, and I did my doctoral studies at the Department of Physics of [ETH Zürich](https://www.phys.ethz.ch/) in the group of Manfred Sigrist. Before holding my current research position, I spend two years as the Gordon and Betty Moore Fellow at the Geballe Laboratory for Advanced Materials at [Stanford University](https://glam.stanford.edu/).
