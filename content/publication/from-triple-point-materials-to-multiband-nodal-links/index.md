@@ -39,7 +39,7 @@ url_source: ""
 url_video: ""
 title: From triple-point materials to multiband nodal links
 doi: 10.1103/PhysRevB.103.L121101
-featured: false
+featured: true
 tags:
   - band-theory
   - non-Abelian-topology
