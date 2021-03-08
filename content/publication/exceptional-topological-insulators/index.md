@@ -3,10 +3,13 @@ title: Exceptional Topological Insulators
 publication_types:
   - "3"
 authors:
-  - Xiao-Qi Sun
-  - Charles C. Wojcik
-  - Shanhui Fan
+  - M. Michael Denner
+  - Anastasiia Skurativska
+  - Frank Schindler
+  - Mark H. Fischer
+  - Ronny Thomale
   - Tomáš Bzdušek
+  - Titus Neupert
 publication_short: arXiv:2008.01090 (2020)
 abstract: We introduce the exceptional topological insulator (ETI), a
   non-Hermitian topological state of matter that features exotic non-Hermitian
@@ -38,14 +41,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes:
-  - M. Michael Denner
-  - Anastasiia Skurativska
-  - Frank Schindler
-  - Mark H. Fischer
-  - Ronny Thomale
-  - Tomáš Bzdušek
-  - Titus Neupert
+author_notes: ""
 doi: ""
 publication: ""
 projects: []
