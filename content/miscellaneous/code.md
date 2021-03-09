@@ -18,8 +18,8 @@ header:
 <section>
   <h2>Second Chern number</h2>
   <p>Mathematica code to compute the second Chern number of a four-dimensional (topological) band insulator, downloadable from <a   href="http://dx.doi.org/10.13140/RG.2.2.35088.12801">ResearchGate</a>. The code is an implementation of the algorithm discussed in M. Mochol-Grzelak, A. Dauphin, A. Celi, and M. Lewenstein, Quantum Sci. Technol. 4 014009 (2019) DOI:<a href="https://doi.org/10.1088/2058-9565/aae93b">10.1088/2058-9565/aae93b</a> (where the algorithm's convergence is discussed too). </p>
-  <p>The data below correspond to </p>
-  <p>$$\mathcal{H}(k^\textrm{4D}) = \sum_{i=1}^4 \sin k_i \Gamma_i + \left[m+\sum_{i=1}^4\cos k_i\right]\Gamma_5$$</p>
+  <p>The data plotted below correspond to: </p>
+  <p>$$\mathcal{H}(k^\textrm{4D}) {=} \sum_{i=1}^4 \Gamma_i\sin k_i {+} \Gamma_5\left[m{+}\sum_{i=1}^4\cos k_i\right]$$</p>
   <img src="C2-compare.JPG" width="500" max-width: 100%>
 </section>
 
