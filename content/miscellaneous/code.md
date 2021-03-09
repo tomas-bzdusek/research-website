@@ -16,6 +16,6 @@ header:
   image: ""
 ---
 
-<p>Mathematica code to compute the second Chern number of a four-dimensional (topological) band insulator, downloadable from <a href="https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.35088.12801?_sg%5B0%5D=b0Lnz7mXmDrlOqpLCg3Wyqj0fDtXH7Wq4vPNg1D3dzGd2u5O8m13JUdpxOoIkSHr3_r7lC47QpaqL7NcnXqtfAzwAw.mopU4E2yY2vHegamxKjV2HWNOjIGEiOK7iamkHZ8EjB6iEeIR3h-tVaAIb9a2Z4gjsLWabamAQM8UmaMcaRY3w">ResearchGate</a>.</p>
+<p>Mathematica code to compute the second Chern number of a four-dimensional (topological) band insulator, downloadable from <a href="http://dx.doi.org/10.13140/RG.2.2.35088.12801">ResearchGate</a>. It is an implementation of the algorithm that is discussed (and its convergence is investigated) in M. Mochol-Grzelak, A. Dauphin, A. Celi, and M. Lewenstein, Quantum Sci. Technol. 4 014009 (2019) DOI: https://doi.org/10.1088/2058-9565/aae93b.</p>
 
-<p>Mathematica code to compute the second Chern number of a four-dimensional (topological) band insulator, downloadable from <a href="https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.35088.12801?_sg%5B0%5D=b0Lnz7mXmDrlOqpLCg3Wyqj0fDtXH7Wq4vPNg1D3dzGd2u5O8m13JUdpxOoIkSHr3_r7lC47QpaqL7NcnXqtfAzwAw.mopU4E2yY2vHegamxKjV2HWNOjIGEiOK7iamkHZ8EjB6iEeIR3h-tVaAIb9a2Z4gjsLWabamAQM8UmaMcaRY3w">ResearchGate</a>.</p>
+<p>Mathematica code that computes the <i>patch Euler class</i> of a pair of bands on a region (the patch) with a boundary.</p>
