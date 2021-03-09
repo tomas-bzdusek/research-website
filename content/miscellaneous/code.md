@@ -18,7 +18,7 @@ header:
 <section>
     <h2>Second Chern number</h2>
     <p>Mathematica code to compute the second Chern number of a four-dimensional (topological) band insulator, downloadable from <a   href="http://dx.doi.org/10.13140/RG.2.2.35088.12801">ResearchGate</a>. It is an implementation of the algorithm that is discussed (and its convergence is investigated) in M. Mochol-Grzelak, A. Dauphin, A. Celi, and M. Lewenstein, Quantum Sci. Technol. 4 014009 (2019) DOI:<a href="https://doi.org/10.1088/2058-9565/aae93b">10.1088/2058-9565/aae93b</a>.     </p>
-  <img src="C2-compare.JPG" width="500">
+  <img src="C2-compare.JPG" width="500" max-width: 100%>
 </section>
 
 <section>
