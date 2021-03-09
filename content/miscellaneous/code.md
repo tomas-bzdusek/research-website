@@ -32,7 +32,7 @@ header:
 </section>
 
 <section>
-  <h2>3D images of nodal links</h2>
-  <p>
+  <h2>Nodal link compositions</h2>
+  <p> Our publications on non-Abelian band topology as introduced in Q.S. Qu, A. A. Soluyanov, and T. Bzdušek, Science <b>365</b>, 1273–1277 (2019), DOI:<a href="https://doi.org/10.1126/science.aau8740" target=”_blank”>10.1126/science.aau8740</a> were demanding on visualization.
   </p>
 </section>
