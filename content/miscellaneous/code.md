@@ -36,7 +36,7 @@ header:
   <h2>Nodal link compositions</h2>
   <p> Our publications on non-Abelian band topology, first introduced in Q.S. Qu, A. A. Soluyanov, and T. Bzdušek, Science <b>365</b>, 1273–1277 (2019), DOI:<a href="https://doi.org/10.1126/science.aau8740" target=”_blank”>10.1126/science.aau8740</a> [<a href="https://www.tomasbzdusek.com/publication/non-abelian-band-topology-in-noninteracting-metals/">info</a>], were demanding on visualization of three-dimensional nodal-line compositions. This became especially true in our long overview paper of band topology in $\mathcal{PT}$-symmetric Hermitian band structures through the optics of the non-Abelian band topology, see A. Tiwari and T. Bzdušek, Phys. Rev. B <b>101</b>, 195130 (2020), DOI:<a href="https://doi.org/10.1103/PhysRevB.101.195130" target=”_blank”>10.1103/PhysRevB.101.195130</a> [<a href="https://www.tomasbzdusek.com/publication/non-abelian-topology-of-nodal-line-rings-in-pt-symmetric-systems/">info</a>]. 
   </p>
-  <p> The Mathematica code that generates the plentiful illustrate in the latter paper is downloadable from <a href="http://dx.doi.org/10.13140/RG.2.2.13943.75680" target=”_blank”>ResearchGate</a>. The two images below a representative snippet.
+  <p> The Mathematica code that generates the plentiful illustrations in the latter paper is downloadable from <a href="http://dx.doi.org/10.13140/RG.2.2.13943.75680" target=”_blank”>ResearchGate</a>. The two images below a representative snippet.
   </p>
   <img src="NL-compositions.jpg" width="600" max-width: 100%>
 </section>
