@@ -26,7 +26,7 @@ title: PSI Contact
 #      captcha: true
 
 # design:
-#  columns: '1'
+  columns: '1'
 ---
 
 
@@ -35,4 +35,5 @@ title: PSI Contact
 <input id=map-lng value=8.5504917>
 <input id=map-dir value="Y36 J34, Winterthurerstrasse 190, Zürich, 8057">
 <input id=map-zoom value=15>
-<input id=map-api-key value></div><div id=map></div></div></div></div></section>
+<input id=map-api-key value></div>
+<div id=map></div>
