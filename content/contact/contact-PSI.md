@@ -28,15 +28,17 @@ header:
     <a href=https://tomasbzdusek.youcanbook.me/ target=_blank rel=noopener>Book an appointment</a></li> -->
 </ul>
 
+<!--
 <div class=d-none><input id=map-provider value=mapnik>
 <input id=map-lat value=47.538174>
 <input id=map-lng value=8.223112>
 <input id=map-dir value="Y36 J34, Winterthurerstrasse 190, Zürich, 8057">
 <input id=map-zoom value=15>
 <input id=map-api-key value></div><div id=map></div>
+-->
 
-<!--
-<iframe width="600" max-width: 100% height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.220721185207369%2C47.5373694657818%2C8.224605023860933%2C47.53901001039624&amp;layer=mapnik" style="border: 0px solid black"></iframe><br/> -->
+
+<iframe width="600" max-width: 100% height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.220721185207369%2C47.5373694657818%2C8.224605023860933%2C47.53901001039624&amp;layer=mapnik" style="border: 0px solid black"></iframe><br/> 
 <!-- <small><a href="https://www.openstreetmap.org/#map=19/47.53819/8.22266">View Larger Map</a></small> -->
 
 
