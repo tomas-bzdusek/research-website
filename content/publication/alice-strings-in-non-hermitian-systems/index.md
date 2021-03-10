@@ -37,7 +37,8 @@ tags:
   - non-Abelian-topology
 projects: []
 image:
-  caption: "Moving Weyl points around an exceptional line reverses their chirality. (image credit: Xiao-Qi Sun)"
+#  caption: "Moving Weyl points around an exceptional line reverses their chirality. (image credit: Xiao-Qi Sun)"
+  caption: ""
   focal_point: smart
   preview_only: false
   filename: featured.jpg
