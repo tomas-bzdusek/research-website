@@ -14,15 +14,13 @@ header:
   caption: ""
   image: ""
 ---
-
-Random text.
-
+  
 <ul class=fa-ul>
-  <li><i class="fa-li fas fa-envelope fa-2x" aria-hidden=true></i>
+  <li margin: 10px 0;><i class="fa-li fas fa-envelope fa-2x" aria-hidden=true></i>
     <span id=person-email><a href=mailto:tomas.bzdusek@psi.ch>tomas.bzdusek@psi.ch</a></span></li>
-  <li><i class="fa-li fas fa-phone fa-2x" aria-hidden=true></i>
+  <li margin: 10px 0;><i class="fa-li fas fa-phone fa-2x" aria-hidden=true></i>
     <span id=person-telephone><a href=tel:+41%2056%20310%205537>+41 56 310 5537</a></span></li>
-  <li><i class="fa-li fas fa-map-marker fa-2x" aria-hidden=true></i>
+  <li margin: 10px 0;><i class="fa-li fas fa-map-marker fa-2x" aria-hidden=true></i>
     <span id=person-address>WHGA/135, Forschungsstrasse 111, Villigen PSI, 5232</span></li>
 <!--  <li><i class="fa-li fas fa-clock fa-2x" aria-hidden=true></i>
     <span>9:00 to 17:30 Monday to Friday</span></li>
