@@ -16,7 +16,7 @@ header:
 ---
   
 <ul class=fa-ul>
-  <li margin: 10px 0;><i class="fa-li fas fa-envelope fa-2x" aria-hidden=true></i>
+  <li margin: 200px 0;><i class="fa-li fas fa-envelope fa-2x" aria-hidden=true></i>
     <span id=person-email><a href=mailto:tomas.bzdusek@psi.ch>tomas.bzdusek@psi.ch</a></span></li>
   <li margin: 10px 0;><i class="fa-li fas fa-phone fa-2x" aria-hidden=true></i>
     <span id=person-telephone><a href=tel:+41%2056%20310%205537>+41 56 310 5537</a></span></li>
