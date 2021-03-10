@@ -41,6 +41,7 @@ image:
   focal_point: smart
   preview_only: false
   filename: featured.jpg
+  alt_text: "Image credit: Xiao-Qi Sun"
 date: 2020-05-26
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
