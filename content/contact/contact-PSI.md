@@ -30,10 +30,12 @@ Random text.
     <a href=https://tomasbzdusek.youcanbook.me/ target=_blank rel=noopener>Book an appointment</a></li> -->
 </ul>
 
+
+
 <div class=d-none><input id=map-provider value=mapnik>
-<input id=map-lat value=47.3980024>
-<input id=map-lng value=8.5504917>
-<input id=map-dir value="Y36 J34, Winterthurerstrasse 190, Zürich, 8057">
+<input id=map-lat value=47.538174>
+<input id=map-lng value=8.223112>
+<input id=map-dir value="WHGA, 5232 Villigen">
 <input id=map-zoom value=15>
 <input id=map-api-key value></div>
 <div id=map></div>
