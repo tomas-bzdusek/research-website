@@ -18,7 +18,7 @@ header:
 <section>
   <h2>Doctoral thesis</h2>
   <h3>Symmetry and topology of nodal semimetals (2017)</h3>
-  <p>The work investigates the interplay of crystalline symmetry and topological singularities in several classes of topological semimetals, and can be accessed at the ETH Research Collection, DOI:<a href="https://doi.org/10.3929/ethz-b-000216959" target=”_blank”>10.3929/ethz-b-000216959</a>.</p>
+  <p>The work investigates the interplay of crystalline symmetry and topological degeneracies in several classes of nodal semimetals. The thesis is freely accessible at the ETH Research Collection, DOI:<a href="https://doi.org/10.3929/ethz-b-000216959" target=”_blank”>10.3929/ethz-b-000216959</a>.</p>
   <p> Following the introduction with my insights into topological band theory, the bulk of the work covers three works published during my PhD studies, namely:
     <ol>
       <li>Weyl semimetals in breathing pyrochlore oxides<br> [T. Bzdušek, A. Rüegg, and M. Sigrist, <i>Weyl semimetal from spontaneous inversion symmetry breaking in pyrochlore oxides</i>, Phys. Rev. B <b>91</b>, 165105 (2015), DOI:<a href="https://doi.org/10.1103/PhysRevB.91.165105" target=”_blank”>10.1103/PhysRevB.91.165105</a>]</li>
