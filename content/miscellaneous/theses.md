@@ -42,4 +42,5 @@ header:
   <h2>Bachelor thesis</h2>
   <h3>Study of superconductivity in the disordered Hubbard model (2010)</h3>
   <p>I was awarded the title "Bc." on 26 Oct 2010.</p>
+  <img src="disordered-Hubbard.jpg" width="600" max-width: 100%>
 </section>
