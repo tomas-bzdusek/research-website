@@ -29,3 +29,17 @@ header:
   <p>I was awarded the title "DrSc." on 19 Jan 2018.</p>
   <img src="shoelaces.JPG" width="600" max-width: 100%>
 </section>
+
+
+<section>
+  <h2>Master's thesis</h2>
+  <h3>Anomalous spectral function of a superconductor (2013)</h3>
+  <p>I was awarded the title "Mgr." on 16 Jul 2013.</p>
+</section>
+
+
+<section>
+  <h2>Bachelor thesis</h2>
+  <h3>Study of superconductivity in the disordered Hubbard model (2010)</h3>
+  <p>I was awarded the title "Bc." on 26 Oct 2010.</p>
+</section>
