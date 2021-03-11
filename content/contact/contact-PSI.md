@@ -17,7 +17,7 @@ header:
 
  <style> 
         .spaced ul { 
-            line-height: 2.5em; 
+            line-height: 2.8em; 
             float: left; 
         } 
  </style> 
