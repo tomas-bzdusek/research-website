@@ -8,7 +8,7 @@ title: Recorded talks
 view: 2
 
 # Order that this section appears on the page.
-weight: 10
+weight: 12
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
