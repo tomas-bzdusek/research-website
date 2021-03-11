@@ -33,4 +33,4 @@ header:
 </ul>
 </div>
 
-<iframe width="100%" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.220654844849081%2C47.53726468506111%2C8.225477456657858%2C47.539066387759526&amp;layer=mapnik&amp;marker=47.53816554414929%2C8.223066150753539" style="border: 0px solid black"></iframe><br/> 
+<iframe width="100%" height="380" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.220654844849081%2C47.53726468506111%2C8.225477456657858%2C47.539066387759526&amp;layer=mapnik&amp;marker=47.53816554414929%2C8.223066150753539" style="border: 0px solid black"></iframe><br/> 
