@@ -14,7 +14,15 @@ header:
   caption: ""
   image: ""
 ---
-  
+
+ <style> 
+        .spaced ul { 
+            line-height: 12.5em; 
+            float: left; 
+        } 
+ </style> 
+    
+<div class="spaced"> 
 <ul class=fa-ul line-height: 45px>
   <li margin: 200px 0;><i class="fa-li fas fa-envelope fa-2x" aria-hidden=true></i>
     <span id=person-email><a href=mailto:tomas.bzdusek@psi.ch>tomas.bzdusek@psi.ch</a></span></li>
@@ -22,11 +30,8 @@ header:
     <span id=person-telephone><a href=tel:+41%2056%20310%205537>+41 56 310 5537</a></span></li>
   <li margin: 10px 0;><i class="fa-li fas fa-map-marker fa-2x" aria-hidden=true></i>
     <span id=person-address>WHGA/135, Forschungsstrasse 111, Villigen PSI, 5232</span></li>
-<!--  <li><i class="fa-li fas fa-clock fa-2x" aria-hidden=true></i>
-    <span>9:00 to 17:30 Monday to Friday</span></li>
-  <li><i class="fa-li fas fa-calendar-check fa-2x" aria-hidden=true></i>
-    <a href=https://tomasbzdusek.youcanbook.me/ target=_blank rel=noopener>Book an appointment</a></li> -->
 </ul>
+</div>
 
 <!--
 <div class=d-none><input id=map-provider value=mapnik>
