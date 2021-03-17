@@ -31,7 +31,7 @@ authors:
   - Andreas Rüegg
   - Manfred Sigrist
 author_notes: []
-publication: ""
+publication: "Phys. Rev. B <b>96</b>, 155105 (2017)"
 summary: ""
 url_dataset: ""
 url_project: ""
