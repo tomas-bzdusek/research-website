@@ -41,7 +41,7 @@ header:
   <ul>
      <li>T. Bzdušek and R. Hlubina, <i>>What is the pairing glue in the cuprates? Insights from normal and anomalous propagators</i>, Phil. Mag. <b>95</b>, 609–621 (2015), DOI:<a href="https://doi.org/10.1080/14786435.2014.980351" target=”_blank”>10.1080/14786435.2014.980351</a>.</li>
     </ul>
-    The data below show the comparison of the normal and anomalous spectral function for a simple isotropic superconductor in which the pairing mechanism is mediated by Debye-distributed phonon modes. The horizontal axis corresponds to momentum (with zero set to the Fermi level) and the vertical axis is energy.
+    The data below show the comparison of the normal (left) vs. the anomalous (right) spectral function for a simple isotropic superconductor in which the pairing mechanism is mediated by Debye-distributed phonon modes. The horizontal axis corresponds to momentum (with zero set to the Fermi level) and the vertical axis is energy.
     </p>
   <p>I was awarded the title "Mgr." on 16 Jul 2013.</p>
   <img src="Ak-spectral.JPG" width="400" max-width: 100%>
