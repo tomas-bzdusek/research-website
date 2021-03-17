@@ -43,7 +43,7 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: ""
+publication: "arXiv:2008.01090 (2020)"
 projects: []
 date: 2020-08-03
 url_slides: ""
