@@ -17,7 +17,7 @@ organizations:
   url: "https://www.physik.uzh.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: David works on questions related to hyperbolic band theory.
+# bio: 
 
 # interests:
 # - Topological band theory
@@ -95,15 +95,5 @@ user_groups:
 - Undergrad Students
 ---
 
-<!--
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="2; url='https://patrick-lenggenhager.github.io/'" />
-  </head>
-  <body>
-    <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
-  </body>
-</html>
---> 
+David works on open problems related to hyperbolic band theory.
 
