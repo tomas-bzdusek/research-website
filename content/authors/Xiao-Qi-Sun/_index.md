@@ -94,7 +94,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://www.physik.uzh.ch/en/groups/neupert/team/nelson.html'" />
+    <meta http-equiv="refresh" content="2; url='https://physics.illinois.edu/people/directory/profile/xiaoqi20'" />
   </head>
   <body>
     <p>Please follow <a href="https://physics.illinois.edu/people/directory/profile/xiaoqi20">this link</a>.</p>
