@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Patrick M. Lenggenhager
+title: David M. Urwyler
 # Is this the primary user of the site?
 superuser: false
 
@@ -8,13 +8,13 @@ superuser: false
 # role: Group leader
 
 # Organizations/Affiliations
-organizations:
-- name: Paul Scherrer Institute
-  url: "https://www.psi.ch/en/lsm/cmt-group"
-- name: ETH Zürich
-  url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
+# organizations:
+# - name: Paul Scherrer Institute
+#   url: "https://www.psi.ch/en/lsm/cmt-group"
+# - name: ETH Zürich
+#   url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
 - name: University of Zürich
-  url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
+#  url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include various topic in topological band theory.
