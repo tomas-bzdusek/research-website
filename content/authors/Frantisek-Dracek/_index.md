@@ -74,9 +74,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tomas-bzdusek
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/franti%C5%A1ek-dr%C3%A1%C4%8Dek-804313185
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -95,5 +95,7 @@ user_groups:
 - Former Undergrad Students
 ---
 
-František studied the interplay of symmetry and topology leading to the stability of band nodes, and numerically investigated the stability of crystalline-symmetry-protected band nodes against lattice distortions. His Bachelor thesis was titled <i>Stability of band-structure nodes against crystalline-lattice distortions</i>. František defended his thesis on 26 Jun 2018.
+František studied the interplay of symmetry and topology leading to the stability of band nodes in electronic band structure, and numerically investigated the stability of crystalline-symmetry-protected band nodes against lattice distortions. His Bachelor thesis, titled <i>Stability of band-structure nodes against crystalline-lattice distortions</i>, was defended his on 26 Jun 2018 and can be accessed in the Central register of theses and disserations in Slovakia [<a href="https://opac.crzp.sk/?fn=detailBiblioForm&sid=6AA8E1A8284D263B49924E20F398">link</a>]. 
+
+František continued his undergradute studies at EPFL, where he did a Mater's project in the <a href="https://www.epfl.ch/labs/c3mp/index-html/members/">group</a> of Oleg Yazyev.
 
