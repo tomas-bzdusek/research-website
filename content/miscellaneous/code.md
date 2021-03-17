@@ -22,6 +22,8 @@ header:
   <p>$$\mathcal{H}(k^\textrm{4D}) = \sum_{i=1}^4 \Gamma_i\sin k_i + \Gamma_5\left[m + \sum_{i=1}^4\cos k_i\right].$$</p>
   <img src="C2-compare.JPG" width="600" max-width: 100%>
 </section>
+<br>
+<br>
 
 <section>
   <h2>Patch Euler class </h2>
@@ -31,6 +33,8 @@ header:
   </p>
   <img src="patch-Euler.JPG" width="400" max-width: 100%>
 </section>
+<br>
+<br>
 
 <section>
   <h2>Nodal link compositions</h2>
