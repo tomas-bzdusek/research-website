@@ -49,25 +49,25 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lenpat@physik.uzh.ch'
+  link: 'mailto:davidmichael.urwyler@uzh.ch@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Patrick-Lenggenhager
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Patrick-Lenggenhager
 # - icon: publons
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1838418/tomas-bzdusek/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-6746-1387
-- icon: arxiv
-  icon_pack: ai
-  link: https://arxiv.org/a/lenggenhager_p_1.html
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0001-6746-1387
+# - icon: arxiv
+#   icon_pack: ai
+#   link: https://arxiv.org/a/lenggenhager_p_1.html
 # - icon: stackoverflow
 #   icon_pack: ai
 #   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
@@ -92,9 +92,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Undergrad Students
 ---
 
+<!--
 <!DOCTYPE html>
 <html>
   <head>
@@ -104,4 +105,5 @@ user_groups:
     <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
   </body>
 </html>
+--> 
 
