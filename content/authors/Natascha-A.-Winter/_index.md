@@ -95,5 +95,5 @@ user_groups:
 - Former Undergrad Students
 ---
 
-Natascha investigated the bulk-boundary correspondence in topological insulators and topological semimetals in systems characterized by the non-Abelian band invariant. Her Master's thesis was titled <i>Bulk-boundary correspondence in $\mathcal{PT}$-symmetric models with non-Abelian band topology</i>. Natascha defended her thesis on 8 Oct 2020.
+Natascha investigated the bulk-boundary correspondence and filling anomaly in topological insulators and topological semimetals in systems characterized by the non-Abelian band invariant. Her Master's thesis was titled <i>Bulk-boundary correspondence in $\mathcal{PT}$-symmetric models with non-Abelian band topology</i>. Natascha defended her thesis on 8 Oct 2020.
 
