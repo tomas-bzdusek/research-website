@@ -29,7 +29,7 @@ authors:
   - Andreas Rüegg
   - Manfred Sigrist
 author_notes: []
-publication: ""
+publication: "Phys. Rev. B <b>91</b>, 165105 (2015)"
 summary: ""
 url_dataset: ""
 url_project: ""
