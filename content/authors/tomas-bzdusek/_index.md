@@ -7,7 +7,7 @@ interests:
   - topological band theory
   - Floquet and non-Hermitian physics
   - unconventional superconductivity
-  - hyperbolic band theory
+  - hyperbolic quantum mechanics
   
 social:
   - icon: envelope
