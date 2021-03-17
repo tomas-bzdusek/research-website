@@ -27,7 +27,7 @@ authors:
   - Tomáš Bzdušek
   - Shanhui Fan
 author_notes: []
-publication: ""
+publication: "Phys. Rev. B <b>101</b>, 205417 (2020)"
 summary: ""
 url_dataset: ""
 url_project: ""
