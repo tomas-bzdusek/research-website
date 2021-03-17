@@ -45,7 +45,7 @@ tags:
   - non-Abelian-topology
   - topological-semimetals
 links:
-- name: story
+- name: in News
   url: https://www.tomasbzdusek.com/post/non-abelian-topology-reveals-a-relation-between-triple-points-and-nodal-links/
 projects: []
 image:
