@@ -30,8 +30,11 @@ header:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPa5ixS6aHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+<br>
+<br>
 
 <h3>On defects, topology, and materials research </h3>
-<p>(in Slovak) An outreach talk organized by <a href="https://www.facebook.com/MatFyzJeIn" target="_blank">MatFyz je In</a> and <a href="https://www.facebook.com/vedator.svk/" target="_blank">Vedátor_SK</a>. Presented virtually from Zürich (01 Jul 2020).</p>
+<p>An outreach talk (in Slovak) organized by <a href="https://www.facebook.com/MatFyzJeIn" target="_blank">MatFyz je In</a> and <a href="https://www.facebook.com/vedator.svk/" target="_blank">Vedátor_SK</a>. Presented virtually from Zürich (01 Jul 2020).</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jCFchHxZoH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
