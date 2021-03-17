@@ -16,7 +16,7 @@ organizations:
 - name: University of Zürich
   url: "https://www.physik.uzh.ch/en.html"
 
-Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 bio: David works on questions related to hyperbolic band theory.
 
 # interests:
