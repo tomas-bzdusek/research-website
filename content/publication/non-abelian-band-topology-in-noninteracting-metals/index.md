@@ -31,7 +31,7 @@ authors:
   - Alexey A. Soluyanov
   - Tomáš Bzdušek
 author_notes: []
-publication: ""
+publication: "Science <b>365</b>, 1273—1277 (2019)"
 summary: ""
 url_dataset: https://doi.org/10.24435/materialscloud:2019.0040/v1
 url_project: ""
