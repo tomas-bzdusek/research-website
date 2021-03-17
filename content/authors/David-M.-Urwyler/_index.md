@@ -14,7 +14,7 @@ superuser: false
 # - name: ETH Zürich
 #   url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
 - name: University of Zürich
-#  url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
+  url: "https://www.physik.uzh.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include various topic in topological band theory.
