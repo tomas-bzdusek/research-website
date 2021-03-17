@@ -28,7 +28,7 @@ authors:
   - Oleg V. Yazyev
   - Tomáš Bzdušek
 author_notes: []
-publication: ""
+publication: "Nat. Phys. <b>16</b>, 1137—1143 (2020)"
 links:
   - name: press release
     url: https://nccr-marvel.ch/highlights/2020-07BraidingWeyl
