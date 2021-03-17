@@ -15,7 +15,8 @@ header:
   image: ""
 ---
 
-Talk at SPICE-Mainz:
+<h3>Non-Abelian band topology in non-interacting metals</h3>
+Presented at <a href="https://www.spice.uni-mainz.de/yrlgw-2019-home/" target="_blank">workshop</a> <b>Topomagnetism Is Coming: Relativity and Correlations in Topological Magnets</b> (30 Sep - 03 Oct 2019) at the SPICE center at Mainz.
 
 <style>
   @media screen and (max-width: 750px) {
