@@ -26,7 +26,7 @@ header:
 </style>
 
 <h3>Non-Abelian band topology in non-interacting metals</h3>
-Presented at <a href="https://www.spice.uni-mainz.de/yrlgw-2019-home/" target="_blank">workshop</a> <b>Topomagnetism Is Coming: Relativity and Correlations in Topological Magnets</b> (30 Sep — 03 Oct 2019) at the SPICE center in Mainz.
+<p> Presented at <a href="https://www.spice.uni-mainz.de/yrlgw-2019-home/" target="_blank">workshop</a> <b>Topomagnetism Is Coming: Relativity and Correlations in Topological Magnets</b> (30 Sep — 03 Oct 2019) at the SPICE center in Mainz.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rPa5ixS6aHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
