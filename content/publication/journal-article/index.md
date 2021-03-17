@@ -27,7 +27,7 @@ authors:
   - Tomáš Bzdušek
   - Robert-Jan Slager
 author_notes: []
-publication: ""
+publication: "Phys. Rev. B <b>102</b>, 115135 (2020)"
 summary: ""
 url_dataset: ""
 url_project: ""
