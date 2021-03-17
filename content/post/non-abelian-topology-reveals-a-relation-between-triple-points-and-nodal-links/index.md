@@ -17,6 +17,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<section>
 Electron band structures, which describe the energy-momentum relation for electrons in solids, can exhibit robust crossings called "nodes". Such nodes famously occur in graphene or in Weyl semimetals, and often facilitate special transport phenomena, such as the decrease of resistivity of Weyl semimetals in applied parallel magnetic field. Resembling topological insulators, these "topological (semi)metals" exhibit "exotic" surface signatures which are strictly impossible in bulk materials. In this work, we consider three-fold band crossings called "triple points" in systems with space-time inversion symmetry and weak spin-orbit coupling. 
 
 <img src="summaryfig1.JPG" width="400" max-width: 100%>
@@ -26,3 +27,4 @@ We classify triple points, which are enforced by three-, four- or six-fold rotat
 <img src="summaryfig2.jpg" width="400" max-width: 100% >
 
 Fascinatingly, this conversion unveils that triple points could be related to so-called "higher-order topology", which is characterized by "exotic" signatures not on the surface but for example on the hinges of a material. Thereby our work furthers the understanding of the relationship between specific band nodes and topology.
+</section>
