@@ -18,7 +18,7 @@ publication_types:
 authors:
   - Tomáš Bzdušek
   - Richard Hlubina
-publication: ""
+publication: "Phil. Mag. <b>95</b>, 609-621 (2015)"
 featured: false
 tags:
   - superconductivity
@@ -28,7 +28,7 @@ projects:
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "Phil. Mag. 95, 609-621 (2015)\t"
+publication_short: "Phil. Mag. 95, 609-621 (2015)"
 url_source: ""
 url_video: ""
 date: 2014-11-18
