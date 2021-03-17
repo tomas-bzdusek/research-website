@@ -9,8 +9,8 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: University of Zürich
-  url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
+- name: Stanford University
+  url: "https://glam.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include various topic in topological band theory.
