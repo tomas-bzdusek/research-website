@@ -31,7 +31,7 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: "Phys. Rev. B 102, 115135 (2020)"
 url_source: ""
 url_video: ""
 title: Geometric approach to fragile topology beyond symmetry indicators
@@ -45,7 +45,7 @@ projects: []
 image:
   caption: ""
   focal_point: smart
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 date: 2020-09-16
 url_slides: ""
