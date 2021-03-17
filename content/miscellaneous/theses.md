@@ -44,7 +44,7 @@ header:
     The data below show the comparison of the normal (left) vs. the anomalous (right) spectral function for a simple isotropic superconductor in which the pairing mechanism is mediated by Debye-distributed phonon modes. The horizontal axis corresponds to momentum (with zero set to the Fermi level) and the vertical axis is energy.
     </p>
   <p>I was awarded the title "Mgr." on 16 Jul 2013.</p>
-  <img src="spectral.JPG" width="400" max-width: 100%>
+  <img src="spectral.jpg" width="600" max-width: 100%>
 </section>
 
 
