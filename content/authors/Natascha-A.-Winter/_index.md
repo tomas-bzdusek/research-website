@@ -92,8 +92,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Former Undergrad Students
 ---
 
-Natascha investigated the bulk-boundary correspondence in topological insulators and topological semimetals in systems characterized by the non-Abelian band invariant. Her Master's 
+Natascha investigated the bulk-boundary correspondence in topological insulators and topological semimetals in systems characterized by the non-Abelian band invariant. Her Master's thesis was titled <i>Bulk-boundary correspondence in $\mathcal{PT}$-symmetric models with non-Abelian band topology</i>. Natascha defended her thesis on 8 Oct 2020.
 
