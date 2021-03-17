@@ -34,7 +34,9 @@ header:
 <section>
   <h2>Master's thesis</h2>
   <h3>Anomalous spectral function of a superconductor (2013)</h3>
+  <p>The work studies the off-diagonal component of the Nambu-Gor'kov propagor.</p>
   <p>I was awarded the title "Mgr." on 16 Jul 2013.</p>
+  <img src="Ak-spectral.JPG" width="400" max-width: 100%>
 </section>
 
 
