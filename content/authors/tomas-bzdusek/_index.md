@@ -4,9 +4,10 @@ title: Tomáš Bzdušek
 # bio: My research interests include various topic in topological band theory.
 
 interests:
-  - Topological band theory
+  - topological band theory
   - Floquet and non-Hermitian physics
-  - superconductivity
+  - unconventional superconductivity
+  - hyperbolic band theory
   
 social:
   - icon: envelope
