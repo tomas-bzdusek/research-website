@@ -38,7 +38,7 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: ""
+publication: "arXiv:2009.01863 (2020)"
 projects: []
 date: 2020-09-03
 url_slides: ""
