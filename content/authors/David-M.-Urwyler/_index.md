@@ -8,7 +8,7 @@ superuser: false
 # role: Group leader
 
 # Organizations/Affiliations
-# organizations:
+organizations:
 # - name: Paul Scherrer Institute
 #   url: "https://www.psi.ch/en/lsm/cmt-group"
 # - name: ETH Zürich
