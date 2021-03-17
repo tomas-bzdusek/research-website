@@ -20,10 +20,10 @@ content:
   - Researchers
   - Doctoral Students
   - Undergrad Students
-  - Former Doctoral Students
-  - Former Undergrad Students
   - Administration
   - Visitors
+  - Former Doctoral Students
+  - Former Undergrad Students
   - Alumni
 design:
   show_interests: false
