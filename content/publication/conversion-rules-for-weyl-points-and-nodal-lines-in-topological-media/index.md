@@ -25,7 +25,7 @@ authors:
   - Shou-Cheng Zhang
   - Tomáš Bzdušek
 author_notes: []
-publication: ""
+publication: "Phys. Rev. Lett. <b>121</b>, 196402 (2018)"
 summary: ""
 url_dataset: ""
 url_project: ""
