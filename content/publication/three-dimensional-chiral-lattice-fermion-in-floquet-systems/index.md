@@ -26,7 +26,7 @@ authors:
   - Shou-Cheng Zhang
   - Shanhui Fan
 author_notes: []
-publication: ""
+publication: "Phys. Rev. Lett. <b>121</b>, 196401 (2018)"
 summary: ""
 url_dataset: ""
 url_project: ""
