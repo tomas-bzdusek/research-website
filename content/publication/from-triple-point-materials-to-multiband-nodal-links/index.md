@@ -30,7 +30,7 @@ authors:
   - Titus Neupert
   - Tomáš Bzdušek
 author_notes: []
-publication: ""
+publication: "Phys. Rev. B 103, L121101 (2021)"
 summary: ""
 url_dataset: https://doi.org/10.3929/ethz-b-000423924
 url_project: ""
