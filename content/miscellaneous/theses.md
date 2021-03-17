@@ -34,7 +34,12 @@ header:
 <section>
   <h2>Master's thesis</h2>
   <h3>Anomalous spectral function of a superconductor (2013)</h3>
-  <p>In superconductors the electron propagator has to be replaced by the Nambu-Gor'kov propagator. The latter is a matrix function, and both the diagonal and the off-diagonal component have Källen-Lehmann spectral representation. While the diagonal spectral function has a probabilistic interpretation and can be readily measured by angle-resolved photoemission spectroscopy, the off-diagonal component is more elusive and at present cannot be experimentally accessed. </p>
+  <p>In superconductors the electron propagator has to be replaced by the Nambu-Gor'kov propagator. The latter is a matrix function, and both the diagonal and the off-diagonal component have Källen-Lehmann spectral representation. While the diagonal spectral function has a probabilistic interpretation and can be readily measured by angle-resolved photoemission spectroscopy, the "anomalous" off-diagonal component is more elusive and at present cannot be experimentally accessed. </p>
+  <p>In this thesis we studied how pairing and pair-breaking modes in superconductors theoretically lead to markedly different features in the anomalous spectral function, making it potentially a useful tool in determining the pairing glue in unconventional superconductors. We also investigated how the anomalous spectral function could potentially be extracted from the knowledge density-density and spin-spin correlation funcions; however, being a non-linear transformation we find that the method is very sensitive to noise and errors in the input data.</p>
+  
+  <p> The Master's thesis work resulted in the publication of:<ul>
+      <liT. Bzdušek and R. Hlubina, <i>>What is the pairing glue in the cuprates? Insights from normal and anomalous propagators</i>, Phil. Mag. <b>95</b>, 609–621 (2015), DOI:<a href="https://doi.org/10.1080/14786435.2014.980351" target=”_blank”>10.1080/14786435.2014.980351</a>]</li>
+    </ul></p>
   <p>I was awarded the title "Mgr." on 16 Jul 2013.</p>
   <img src="Ak-spectral.JPG" width="400" max-width: 100%>
 </section>
