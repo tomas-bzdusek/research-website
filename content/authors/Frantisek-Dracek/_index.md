@@ -95,7 +95,7 @@ user_groups:
 - Former Undergrad Students
 ---
 
-František studied the interplay of symmetry and topology leading to the stability of band nodes in electronic band structure, and numerically investigated the stability of crystalline-symmetry-protected band nodes against lattice distortions. His Bachelor thesis, titled <i>Stability of band-structure nodes against crystalline-lattice distortions</i>, was defended his on 26 Jun 2018 and can be accessed in the Central register of theses and disserations in Slovakia [<a href="https://opac.crzp.sk/?fn=detailBiblioForm&sid=6AA8E1A8284D263B49924E20F398">link</a>]. 
+František studied how the interplay of symmetry and topology can results in band nodes in electronic band structure, and numerically investigated the stability of crystalline-symmetry-protected band nodes against distortions of the crystalline lattice. His Bachelor thesis, titled <i>Stability of band-structure nodes against crystalline-lattice distortions</i>, was defended his on 26 Jun 2018 and can be accessed in the Central register of theses and disserations in Slovakia [<a href="https://opac.crzp.sk/?fn=detailBiblioForm&sid=6AA8E1A8284D263B49924E20F398">link</a>]. 
 
 František continued his undergradute studies at EPFL, where he did a Mater's project in the <a href="https://www.epfl.ch/labs/c3mp/index-html/members/">group</a> of Oleg Yazyev.
 
