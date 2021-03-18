@@ -39,4 +39,14 @@ header:
     of bands is physically well motivated when describing band degeneracies, but it also arises very naturally in 
     non-Hermitian setting [7], where the non-Abelian phenomenon results in a non-trivial interplay of invariants 
     defined on manifolds of different dimensions.</p>
+  <h3>References:</h3>
+  <ol>
+  <li>Q.S. Wu, A. A. Soluyanov, and T. Bzdušek, Non-Abelian band topology in noninteracting metals, Science 365, 1273—1277 (2019)</li>
+  <li>A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and T. Bzdušek, Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe, arXiv:1907.10611 (Aug 2019)</li>
+  <li>A. Tiwari and T. Bzdušek, Non-abelian band topology of nodal-line rings in PT-symmetric systems, arXiv:1903.00018 (Feb 2019)</li>
+  <li>J. Ahn, D. Kim, Y. Kim, and B.-J. Yang, Band Topology and Linking Structure of Nodal Line Semimetals with Z2 Monopole Charge, Phys. Rev. Lett. 121, 106403 (2018)</li>
+  <li> J. Ahn, S. Park, D. Kim, Y. Kim, and B.-J. Yang, Stiefel-Whitney classes of topological phases in band theory, Chin. Phys. B 28, 117101 (2019) </li>
+  <li>X.-Q. Sun, C. C. Wojcik, S. Fan, and T. Bzdušek, Non-trivial Braiding of Band Nodes in Non-Hermitian Systems, arXiv:1905.04338 (May 2019) </li>
+  </ol>
 </section>
+
