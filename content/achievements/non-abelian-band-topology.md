@@ -5,7 +5,8 @@ title: Key scientific achievements
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 1
+columns: 1
 
 # Order that this section appears on the page.
 weight: 10
