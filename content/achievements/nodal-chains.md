@@ -44,8 +44,8 @@ header:
     <li> Q.S. Wu, A. A. Soluyanov, and <b>T. Bzdušek</b>, <i>Non-Abelian band topology in noninteracting metals</i>, Science <b>365</b>, 1273—1277 (2019)</li>
     <li> A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and <b>T. Bzdušek</b>, <i>Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe</i>, Nat. Phys. <b>16</b>, 1137–1143 (2020) </li>
     <li> A. Tiwari and <b>T. Bzdušek</b>, <i>Non-Abelian topology of nodal-line rings in $\mathcal{PT}$-symmetric systems</i>, Phys. Rev. B <b>101</b>, 195130 (2020)</li>
-  <li> J. Ahn, D. Kim, Y. Kim, and B.-J. Yang, <i>Band Topology and Linking Structure of Nodal Line Semimetals with $\mathbb{Z}_2$ Monopole Charge</i>, Phys. Rev. Lett. <b>121</b>, 106403 (2018)</li>
-  <li> J. Ahn, S. Park, D. Kim, Y. Kim, and B.-J. Yang, <i>Stiefel-Whitney classes of topological phases in band theory</i>, Chin. Phys. B <b>28</b>, 117101 (2019) </li>
+  <font color="#666666"><li> J. Ahn, D. Kim, Y. Kim, and B.-J. Yang, <i>Band Topology and Linking Structure of Nodal Line Semimetals with $\mathbb{Z}_2$ Monopole Charge</i>, Phys. Rev. Lett. <b>121</b>, 106403 (2018)</li></font>
+  <font color="#666666"><li> J. Ahn, S. Park, D. Kim, Y. Kim, and B.-J. Yang, <i>Stiefel-Whitney classes of topological phases in band theory</i>, Chin. Phys. B <b>28</b>, 117101 (2019) </li></font>
     <li> A. Bouhon, <b>T. Bzdušek</b>, and R.-J. Slager, <i>Geometric approach to fragile topology beyond symmetry indicators</i>, Phys. Phys. B <b>102</b>, 115135 (2020) </li>
     <li> X.-Q. Sun, C. C. Wojcik, S. Fan, and <b>T. Bzdušek</b>, <i>Alice string in non-Hermitian system</i>, Phys. Rev. Research <b>2</b>, 023226 (2020) </li>
   </ol>
