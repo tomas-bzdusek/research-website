@@ -15,6 +15,11 @@ header:
   caption: ""
   image: ""
 ---
+<style>
+  li:before {
+    content: "[" counter(mycounter,lower-latin) "]";
+}
+</style>
 <h1>Key scientific achievements</h1>
 <section>
   <h2>Non-Abelian band topology</h2>
@@ -51,4 +56,5 @@ header:
     <li> X.-Q. Sun, C. C. Wojcik, S. Fan, and <b>T. Bzdušek</b>, <i>Alice string in non-Hermitian systems</i>, Phys. Rev. Research <b>2</b>, 023226 (2020), DOI:<a href="https://doi.org/10.1103/PhysRevResearch.2.023226" target="_blank">10.1103/PhysRevResearch.2.023226</a>. </li>
   </ol>
 </section>
-
+<br>
+<br>
