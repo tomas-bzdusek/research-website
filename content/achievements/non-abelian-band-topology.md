@@ -15,11 +15,6 @@ header:
   caption: ""
   image: ""
 ---
-<style>
-  li:before {
-    content: "[" counter(mycounter,lower-latin) "]";
-}
-</style>
 <h1>Key scientific achievements</h1>
 <section>
   <h2>Non-Abelian band topology</h2>
