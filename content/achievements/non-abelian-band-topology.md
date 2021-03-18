@@ -1,5 +1,5 @@
 ---
-title: Non-Abelian band topology
+# title: Non-Abelian band topology
 
 # View.
 #   1 = List
@@ -8,7 +8,7 @@ title: Non-Abelian band topology
 view: 2
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 # Optional header image (relative to `static/media/` folder).
 header:
