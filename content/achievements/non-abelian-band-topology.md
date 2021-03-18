@@ -40,7 +40,7 @@ header:
     of bands is physically well motivated when describing band degeneracies, but it also arises very naturally in 
     non-Hermitian setting [7], where the non-Abelian phenomenon results in a non-trivial interplay of invariants 
     defined on manifolds of different dimensions.</p>
-  <h3>References:</h3>
+  <h4>References:</h4>
   <ol>
     <li> Q.S. Wu, A. A. Soluyanov, and <b>T. Bzdušek</b>, <i>Non-Abelian band topology in noninteracting metals</i>, Science <b>365</b>, 1273—1277 (2019), DOI:<a href="https://doi.org/10.1126/science.aau8740" target="_blank">10.1126/science.aau8740</a>.</li>
     <li> A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and <b>T. Bzdušek</b>, <i>Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe</i>, Nat. Phys. <b>16</b>, 1137–1143 (2020), DOI:<a href="https://doi.org/10.1038/s41567-020-0967-9" target="_blank">10.1038/s41567-020-0967-9</a>.</li>
