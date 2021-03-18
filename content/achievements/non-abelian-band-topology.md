@@ -30,7 +30,6 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
-<h1>Key scientific achievements</h1>
 <section>
   <h2>Non-Abelian band topology</h2>
   <p>Band structures of non-interacting particles can be characterized by topological numbers; 
