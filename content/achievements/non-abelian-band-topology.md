@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 <section>
-  <h2>Non-Abelian band topology</h2>
+  <h1>Non-Abelian band topology</h1>
   <p>Band structures of non-interacting particles can be characterized by topological numbers; 
     famous examples being the $\mathbb{Z}$-valued Chern number of Weyl points, and the $\mathbb{Z}_2$-valued Kane-Mele invariant 
     of topological insulators. The groups capturing the topological invariant of single-particle energy bands were essentially 
@@ -42,7 +42,7 @@ header:
   <h3>References:</h3>
   <ol>
     <li> Q.S. Wu, A. A. Soluyanov, and <b>T. Bzdušek</b>, <i>Non-Abelian band topology in noninteracting metals</i>, Science <b>365</b>, 1273—1277 (2019)</li>
-    <li> A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and <b>T. Bzdušek</b>, <i>Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe</i>, Nat. Phys. <b>16</b>, 1137–1143 (2020) </li>
+    <li> A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and <b>T. Bzdušek</b>, <i>Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe</i>, Nat. Phys. <b>16</b>, 1137–1143 (2020), DOI:<a href="https://doi.org/10.1038/s41567-020-0967-9" target="_blank">10.1038/s41567-020-0967-9</a>.</li>
     <li> A. Tiwari and <b>T. Bzdušek</b>, <i>Non-Abelian topology of nodal-line rings in $\mathcal{PT}$-symmetric systems</i>, Phys. Rev. B <b>101</b>, 195130 (2020)</li>
   <font color="#999999"><li> J. Ahn, D. Kim, Y. Kim, and B.-J. Yang, <i>Band Topology and Linking Structure of Nodal Line Semimetals with $\mathbb{Z}_2$ Monopole Charge</i>, Phys. Rev. Lett. <b>121</b>, 106403 (2018)</li></font>
   <font color="#999999"><li> J. Ahn, S. Park, D. Kim, Y. Kim, and B.-J. Yang, <i>Stiefel-Whitney classes of topological phases in band theory</i>, Chin. Phys. B <b>28</b>, 117101 (2019) </li></font>
