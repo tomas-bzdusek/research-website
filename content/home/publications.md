@@ -8,7 +8,7 @@ title: Latest Publications
 subtitle:
 
 content:
-  count: 9
+  count: 8
   filters:
     author: ""
     category: ""
@@ -20,5 +20,5 @@ content:
   page_type: publication
 design:
   view: 3
-  columns: "3"
+  columns: "2"
 ---
