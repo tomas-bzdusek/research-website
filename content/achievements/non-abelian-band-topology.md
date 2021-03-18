@@ -1,12 +1,11 @@
 ---
-title: Key scientific achievements
+# title: Key scientific achievements
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
-columns: 1
+view: 3
 
 # Order that this section appears on the page.
 weight: 10
@@ -16,8 +15,9 @@ header:
   caption: ""
   image: ""
 ---
+<h1>Key scientific achievements</h1>
 <section>
-  <h1>Non-Abelian band topology</h1>
+  <h2>Non-Abelian band topology</h2>
   <p>Band structures of non-interacting particles can be characterized by topological numbers; 
     famous examples being the $\mathbb{Z}$-valued Chern number of Weyl points, and the $\mathbb{Z}_2$-valued Kane-Mele invariant 
     of topological insulators. The groups capturing the topological invariant of single-particle energy bands were essentially 
