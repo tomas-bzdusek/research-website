@@ -20,7 +20,7 @@ design:
     # Name of image in `assets/media/`.
     image: braid2.gif
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.05
+    image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -28,7 +28,7 @@ design:
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
 ---
 <section>
   <h2>Homotopic classification of band nodes</h2>
@@ -39,7 +39,7 @@ design:
   <h4>References:</h4>
   <ol>
     <li> <b>T. Bzdušek</b> and M. Sigrist, <i>Robust doubly charged nodal lines and nodal surfaces in centrosymmetric systems</i>, Phys. Rev. B <b>96</b>, 155105 (2017), DOI:<a href="https://doi.org/10.1103/PhysRevB.96.155105" target="_blank">10.1103/PhysRevB.96.155105</a>.</li>
-    <li> A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and <b>T. Bzdušek</b>, <i>Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe</i>, Nat. Phys. <b>16</b>, 1137–1143 (2020), DOI:<a href="https://doi.org/10.1038/s41567-020-0967-9" target="_blank">10.1038/s41567-020-0967-9</a>.</li>
+    <font color="#999999"><li> N. D. Mermin, <i>The topological theory of defects in ordered media</i>, Rev. Mod. Phys. <b>51</b>, 591 (1979), DOI:<a href="https://doi.org/10.1103/RevModPhys.51.591" target="_blank" style="color:inherit">10.1103/RevModPhys.51.591</a>. </li></font>
     <li> A. Tiwari and <b>T. Bzdušek</b>, <i>Non-Abelian topology of nodal-line rings in $\mathcal{PT}$-symmetric systems</i>, Phys. Rev. B <b>101</b>, 195130 (2020), DOI:<a href="https://doi.org/10.1103/PhysRevB.101.195130" target="_blank">10.1103/PhysRevB.101.195130</a>.</li>
   <font color="#999999"><li> J. Ahn, D. Kim, Y. Kim, and B.-J. Yang, <i>Band Topology and Linking Structure of Nodal Line Semimetals with $\mathbb{Z}_2$ Monopole Charge</i>, Phys. Rev. Lett. <b>121</b>, 106403 (2018), DOI:<a href="https://doi.org/10.1103/PhysRevLett.121.106403" target="_blank" style="color:inherit">10.1103/PhysRevLett.121.106403</a>.</li></font>
   <font color="#999999"><li> J. Ahn, S. Park, D. Kim, Y. Kim, and B.-J. Yang, <i>Stiefel-Whitney classes of topological phases in band theory</i>, Chin. Phys. B <b>28</b>, 117101 (2019), DOI:<a href="https://doi.org/10.1088/1674-1056/ab4d3b" target="_blank" style="color:inherit">10.1088/1674-1056/ab4d3b</a>. </li></font>
