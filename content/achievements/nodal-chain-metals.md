@@ -8,7 +8,7 @@
 view: 3
 
 # Order that this section appears on the page.
-weight: 10
+weight: 40
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -32,28 +32,10 @@ design:
 ---
 <section>
   <h2>Nodal-chain metals</h2>
-  <p>Band structures of non-interacting particles can be characterized by topological numbers; 
-    famous examples being the $\mathbb{Z}$-valued Chern number of Weyl points, and the $\mathbb{Z}_2$-valued Kane-Mele invariant 
-    of topological insulators. The groups capturing the topological invariant of single-particle energy bands were essentially 
-    always assumed to be Abelian – until we discovered a counterexample [1]. Led by intuition from the physics of
-    biaxial nematic and cholesteric liquids, we showed that band nodes of certain $\mathcal{PT}$-symmetric and $C_2\mathcal{T}$-symmetric 
-    systems are characterized by a previously overlooked non-commutative quaternion charges. </p>
-  <p>The non-Abelian topological invariant implies, among other things, that certain species of nodal 
-    lines cannot be moved across one another by tuning the Hamiltonian parameters [1]. Remarkably, it also 
-    enables a “reciprocal braiding” effect, meaning that the capability of band nodes to pairwise annihilate
-    depends on the trajectory used to bring them together in $\boldsymbol{k}$-space [2]. The non-Abelian band topology 
-    brings under one umbrella several notions of topological band theory, including monopole charges, linking 
-    structures, fragile topology, and characteristic classes [2—5]. It predicts a non-Abelian generalization of
-    topological insulators in 1D, and it persists in the stable limit of many bands. This discovery leads to a 
-    plethora of open questions, including the search for clear experimental observables, which would be of major 
-    importance in near future.</p>
-  <p>The recipe to obtain such more general topological structures is remarkably simply: consider a partitioning 
-    of bands which differs from the most typical twofold separation into the “occupied” vs. the “unoccupied” ones.
-    Mathematically, this corresponds to describing the band structure by flag bundles rather than by vector bundles [6]. 
-    This generalization might thus also be stimulating for research in mathematical physics. The generalized partitioning 
-    of bands is physically well motivated when describing band degeneracies, but it also arises very naturally in 
-    non-Hermitian setting [7], where the non-Abelian phenomenon results in a non-trivial interplay of invariants 
-    defined on manifolds of different dimensions.</p>
+  <p>In my early works, I investigated the effect of space group symmetry on the connectivity of electron energy bands. Although the role of non-symmorphic symmetry in realizing non-trivial connectivity of bands has been emphasized already two decades ago [1], its relevance for three-dimensional Dirac semimetals has been appreciated only relatively recently [2]. In work [3], we considered coupling of electron and elastic degrees of freedom in such non-symmorphic Dirac semimetals, and we showed that it may result in non-magnetic Weyl semimetals, realized through a spontaneous lattice instability. This work was developed at a time were material candidates for Weyl semimetals were still absent.</p>
+  <p>Continued considerations along these lines have eventually resulted in my most cited work to date, published in journal Nature [4]. Here, we showed that the combined presence of time-reversal symmetry and glide reflection symmetry in strongly spin-orbit coupled materials guarantees the appearance of band degeneracy along loops inside the Brillouin zone. We predicted that these loops should (1) produce a non-dispersive surface band with a very large density of states at certain energy, (2) generate anisotropic chiral anomaly for low-energy effective field theory, and (3) automatically appear near Fermi energy when a simple counting condition on the number of electrons per unit cell is fulfilled.</p>
+  <p>Even more intriguingly, we showed that a pair of glide reflections results in a pair of intersecting nodal rings, which resemble an infinite chain when viewed inside the extended momentum space. We dubbed this feature a nodal chain. A collaboration with the computational team at ETH Zürich resulted in a concrete material prediction. Nodal chains have meanwhile been observed in real materials [5] and emulated in photonic systems [6]. Very recently, analysis of band connectivity inside the momentum space, and its interplay with Wyckoff positions of electron orbitals in the real space, set foundation of so-called Topological Quantum Chemistry [7] – the most exhaustive classification of topological crystalline insulators to date.
+</p>
   <h4>References:</h4>
   <ol>
     <li> Q.S. Wu, A. A. Soluyanov, and <b>T. Bzdušek</b>, <i>Non-Abelian band topology in noninteracting metals</i>, Science <b>365</b>, 1273—1277 (2019), DOI:<a href="https://doi.org/10.1126/science.aau8740" target="_blank">10.1126/science.aau8740</a>.</li>
