@@ -31,4 +31,4 @@ header:
 #     text_color_light: false
 ---
 <h1>Key scientific achievements<font color="#999999">*</font></h1>
-<section><p><font color="#999999">(*2020 version)</font></p></section>
+<section><p><font color="#999999">(*last updated in 2020)</font></p></section>
