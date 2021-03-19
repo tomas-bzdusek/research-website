@@ -18,7 +18,7 @@ header:
 design:
   background:
     # Name of image in `assets/media/`.
-    image: chain.gif
+    image: chains.gif
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -43,8 +43,8 @@ design:
     <li> <b>T. Bzdušek</b>, A. Rüegg, and M. Sigrist, <i>Weyl semimetal from spontaneous inversion symmetry breaking in pyrochlore oxides</i>, Phys. Rev. B <b>91</b>, 165105 (2015), DOI:<a href="https://doi.org/10.1103/PhysRevB.91.165105" target="_blank">10.1103/PhysRevB.91.165105</a>.</li>
     <li> <b>T. Bzdušek</b>, Q.S. Wu, A. Rüegg, M. Sigrist, and A. A. Soluyanov<i>Nodal-chain metals</i>, Nature <b>538</b>, 75—78 (2016), DOI:<a href="https://doi.org/10.1038/nature19099" target="_blank">10.1038/nature19099</a>. </li>
   <font color="#999999"><li> C.-J. Yi, B. Q. Lv, Q. S. Wu, B.-B. Fu, X. Gao, M. Yang, X.-L. Peng, M. Li, Y.-B. Huang, P. Richard, M. Shi, O. V. Yazyev, Y.-G. Shi, T. Qian, H. Ding, <i>Observation of a nodal chain with Dirac surface states in $\ce{TiB2}$</i>, Phys. Rev B <b>97</b>, 201107(R) (2018), DOI:<a href="https://doi.org/10.1103/PhysRevB.97.201107" target="_blank" style="color:inherit">10.1103/PhysRevB.97.201107</a>. </li></font>
-    <li> A. Bouhon, <b>T. Bzdušek</b>, and R.-J. Slager, <i>Geometric approach to fragile topology beyond symmetry indicators</i>, Phys. Phys. B <b>102</b>, 115135 (2020), DOI:<a href="https://doi.org/10.1103/PhysRevB.102.115135" target="_blank">10.1103/PhysRevB.102.115135</a>. </li>
-    <li> X.-Q. Sun, C. C. Wojcik, S. Fan, and <b>T. Bzdušek</b>, <i>Alice string in non-Hermitian systems</i>, Phys. Rev. Research <b>2</b>, 023226 (2020), DOI:<a href="https://doi.org/10.1103/PhysRevResearch.2.023226" target="_blank">10.1103/PhysRevResearch.2.023226</a>. </li>
+  <font color="#999999"><li> Q. Yan, R. Liu, Z. Yan, B. Liu, H. Chen, Z. Wang, L. Lu, <i>Experimental discovery of nodal chains</i>, Nat. Phys. <b>14</b>, 461 (2018), DOI:<a href="https://doi.org/10.1103/10.1038/s41567-017-0041-4" target="_blank" style="color:inherit">10.1038/s41567-017-0041-4</a>. </li></font>
+  <font color="#999999"><li> C.-J. Yi, B. Q. Lv, Q. S. Wu, B.-B. Fu, X. Gao, M. Yang, X.-L. Peng, M. Li, Y.-B. Huang, P. Richard, M. Shi, O. V. Yazyev, Y.-G. Shi, T. Qian, H. Ding, <i>Observation of a nodal chain with Dirac surface states in $\ce{TiB2}$</i>, Phys. Rev B <b>97</b>, 201107(R) (2018), DOI:<a href="https://doi.org/10.1103/PhysRevB.97.201107" target="_blank" style="color:inherit">10.1103/PhysRevB.97.201107</a>. </li></font>
   </ol>
 </section>
 <br>
