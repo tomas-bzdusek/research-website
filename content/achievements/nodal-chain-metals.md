@@ -38,7 +38,7 @@ design:
 </p>
   <h4>References:</h4>
   <ol>
-    <li> Q.S. Wu, A. A. Soluyanov, and <b>T. Bzdušek</b>, <i>Non-Abelian band topology in noninteracting metals</i>, Science <b>365</b>, 1273—1277 (2019), DOI:<a href="https://doi.org/10.1126/science.aau8740" target="_blank">10.1126/science.aau8740</a>.</li>
+    <font color="#999999"><li> L. Michel and J. Zak, <i>Connectivity of energy bands in crystals</i>, Phys. Rev. B <b>59</b>, 5998 (1999), DOI:<a href="https://doi.org/10.1103/PhysRevB.59.5998" target="_blank" style="color:inherit">10.1103/PhysRevB.59.5998</a>.</li></font>
     <li> A. Bouhon, Q.S. Wu, R.-J. Slager, H. Weng, O. V. Yazyev, and <b>T. Bzdušek</b>, <i>Non-Abelian Reciprocal Braiding of Weyl Nodes and its Manifestation in ZrTe</i>, Nat. Phys. <b>16</b>, 1137–1143 (2020), DOI:<a href="https://doi.org/10.1038/s41567-020-0967-9" target="_blank">10.1038/s41567-020-0967-9</a>.</li>
     <li> A. Tiwari and <b>T. Bzdušek</b>, <i>Non-Abelian topology of nodal-line rings in $\mathcal{PT}$-symmetric systems</i>, Phys. Rev. B <b>101</b>, 195130 (2020), DOI:<a href="https://doi.org/10.1103/PhysRevB.101.195130" target="_blank">10.1103/PhysRevB.101.195130</a>.</li>
   <font color="#999999"><li> J. Ahn, D. Kim, Y. Kim, and B.-J. Yang, <i>Band Topology and Linking Structure of Nodal Line Semimetals with $\mathbb{Z}_2$ Monopole Charge</i>, Phys. Rev. Lett. <b>121</b>, 106403 (2018), DOI:<a href="https://doi.org/10.1103/PhysRevLett.121.106403" target="_blank" style="color:inherit">10.1103/PhysRevLett.121.106403</a>.</li></font>
