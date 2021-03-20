@@ -6,7 +6,7 @@ widget: hero
 widget_id: front-page
 headless: true
 weight: 10
-title: Research Collection
+# title: Research Collection
 subtitle: ""
 design:
   columns: "1"
