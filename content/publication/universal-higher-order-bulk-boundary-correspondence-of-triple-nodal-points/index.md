@@ -25,9 +25,9 @@ abstract: "Triple nodal points are degeneracies of energy bands in momentum
   correspondence, where pairs of triple nodal points are characterized by
   fractional jumps of the hinge charge. We present minimal models of the 
   various species of triple nodal points carrying higher-order topology,
-  and illustrate the derived correspondence on \ce{Sc3AlC} which becomes 
+  and illustrate the derived correspondence on $\ce{Sc3AlC}$ which becomes 
   a higher-order triple-point metal in applied strain. The generalization 
-  to spinful systems, in particular to the \ce{WC}-type triple-point 
+  to spinful systems, in particular to the $\ce{WC}$-type triple-point 
   material class, is briefly outlined."
 draft: false
 featured: true
