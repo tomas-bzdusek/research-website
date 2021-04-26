@@ -8,7 +8,7 @@ authors:
   - Titus Neupert
   - Tomáš Bzdušek
 publication_short: arXiv:2104.11254 (2021)
-abstract: Triple nodal points are degeneracies of energy bands in momentum 
+abstract: "Triple nodal points are degeneracies of energy bands in momentum 
   space at which three Hamiltonian eigenstates coalesce at a single 
   eigenenergy. For spinless particles, the stability of a triple nodal point
   requires two ingredients: rotation symmetry of order three, four or six; 
@@ -28,7 +28,7 @@ abstract: Triple nodal points are degeneracies of energy bands in momentum
   and illustrate the derived correspondence on \ce{Sc3AlC} which becomes 
   a higher-order triple-point metal in applied strain. The generalization 
   to spinful systems, in particular to the \ce{WC}-type triple-point 
-  material class, is briefly outlined.
+  material class, is briefly outlined."
 draft: false
 featured: true
 tags:
