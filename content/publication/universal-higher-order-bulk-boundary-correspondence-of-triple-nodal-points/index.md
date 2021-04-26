@@ -8,7 +8,27 @@ authors:
   - Titus Neupert
   - Tomáš Bzdušek
 publication_short: arXiv:2104.11254 (2021)
-abstract: Triple nodal points are degeneracies of energy bands in momentum space at which three Hamiltonian eigenstates coalesce at a single eigenenergy. For spinless particles, the stability of a triple nodal point requires two ingredients: rotation symmetry of order three, four or six; combined with mirror or space-time-inversion symmetry. However, despite ample studies of their classification, robust boundary signatures of triple nodal points have until now remained elusive. In this work, we first show that pairs of triple nodal points in semimetals and metals can be characterized by Stiefel-Whitney and Euler monopole invariants, of which the first one is known to facilitate higher-order topology. Motivated by this observation, we then combine symmetry indicators for corner charges and for the Stiefel-Whitney invariant in two dimensions with the classification of triple nodal points for spinless systems in three dimensions. The result is a complete higher-order bulk-boundary correspondence, where pairs of triple nodal points are characterized by fractional jumps of the hinge charge. We present minimal models of the various species of triple nodal points carrying higher-order topology, and illustrate the derived correspondence on \ce{Sc3AlC} which becomes a higher-order triple-point metal in applied strain. The generalization to spinful systems, in particular to the \ce{WC}-type triple-point material class, is briefly outlined.
+abstract: Triple nodal points are degeneracies of energy bands in momentum 
+space at which three Hamiltonian eigenstates coalesce at a single 
+eigenenergy. For spinless particles, the stability of a triple nodal point
+requires two ingredients: rotation symmetry of order three, four or six; 
+combined with mirror or space-time-inversion symmetry. However, despite 
+ample studies of their classification, robust boundary signatures of triple
+nodal points have until now remained elusive. In this work, we first show 
+that pairs of triple nodal points in semimetals and metals can be 
+characterized by Stiefel-Whitney and Euler monopole invariants, of which
+the first one is known to facilitate higher-order topology. Motivated by 
+this observation, we then combine symmetry indicators for corner charges 
+and for the Stiefel-Whitney invariant in two dimensions with the 
+classification of triple nodal points for spinless systems in three 
+dimensions. The result is a complete higher-order bulk-boundary 
+correspondence, where pairs of triple nodal points are characterized by
+fractional jumps of the hinge charge. We present minimal models of the 
+various species of triple nodal points carrying higher-order topology,
+and illustrate the derived correspondence on \ce{Sc3AlC} which becomes 
+a higher-order triple-point metal in applied strain. The generalization 
+to spinful systems, in particular to the \ce{WC}-type triple-point 
+material class, is briefly outlined.
 draft: false
 featured: true
 tags:
