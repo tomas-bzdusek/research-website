@@ -18,4 +18,5 @@ My name is Tomáš Bzdušek and I am a postdoctoral fellow in the [CMT group](ht
 
 On this website I have collected the research work of myself and of my students. <!--- You can follow our updates on Twitter. --> In the "miscellaneous" tab I have collected various further documents, including recorded talks, slides, and code. 
 
-The website is currently in construction, and is expected to be complete by April 2021.
+<!-- The website is currently in construction, and is expected to be complete by April 2021. -->
+
