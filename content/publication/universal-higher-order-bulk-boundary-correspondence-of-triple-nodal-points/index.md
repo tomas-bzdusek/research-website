@@ -1,36 +1,43 @@
 ---
-title: Exceptional Topological Insulators
+title: Universal higher-order bulk-boundary correspondence of triple nodal points
 publication_types:
   - "3"
 authors:
-  - M. Michael Denner
-  - Anastasiia Skurativska
-  - Frank Schindler
-  - Mark H. Fischer
-  - Ronny Thomale
-  - Tomáš Bzdušek
+  - Patrick M. Lenggenhager
+  - Xiaoxiong Liu
   - Titus Neupert
-publication_short: arXiv:2008.01090 (2020)
-abstract: We introduce the exceptional topological insulator (ETI), a
-  non-Hermitian topological state of matter that features exotic non-Hermitian
-  surface states which can only exist within the three-dimensional topological
-  bulk embedding. We show how this phase can evolve from a Weyl semimetal or
-  Hermitian three-dimensional topological insulator close to criticality when
-  quasiparticles acquire a finite lifetime. The ETI does not require any
-  symmetry to be stabilized. It is characterized by a bulk energy point gap, and
-  exhibits robust surface states that cover the bulk gap as a single sheet of
-  complex eigenvalues or with a single exceptional point. The ETI can be induced
-  universally in gapless solid-state systems, thereby setting a paradigm for
-  non-Hermitian topological matter.
+  - Tomáš Bzdušek
+publication_short: arXiv:2104.11254 (2021)
+abstract: Triple nodal points are degeneracies of energy bands in momentum 
+  space at which three Hamiltonian eigenstates coalesce at a single 
+  eigenenergy. For spinless particles, the stability of a triple nodal point
+  requires two ingredients: rotation symmetry of order three, four or six; 
+  combined with mirror or space-time-inversion symmetry. However, despite 
+  ample studies of their classification, robust boundary signatures of triple
+  nodal points have until now remained elusive. In this work, we first show 
+  that pairs of triple nodal points in semimetals and metals can be 
+  characterized by Stiefel-Whitney and Euler monopole invariants, of which
+  the first one is known to facilitate higher-order topology. Motivated by 
+  this observation, we then combine symmetry indicators for corner charges 
+  and for the Stiefel-Whitney invariant in two dimensions with the 
+  classification of triple nodal points for spinless systems in three 
+  dimensions. The result is a complete higher-order bulk-boundary 
+  correspondence, where pairs of triple nodal points are characterized by
+  fractional jumps of the hinge charge. We present minimal models of the 
+  various species of triple nodal points carrying higher-order topology,
+  and illustrate the derived correspondence on \ce{Sc3AlC} which becomes 
+  a higher-order triple-point metal in applied strain. The generalization 
+  to spinful systems, in particular to the \ce{WC}-type triple-point 
+  material class, is briefly outlined.
 draft: false
 featured: true
 tags:
-  - non-Hermitian
-  - topological-insulators
   - band-theory
-  - Weyl-semimetals
+  - non-Abelian-topology
+  - topological-semimetals
+  - higher-order topology
 slides: null
-url_pdf: https://arxiv.org/pdf/2008.01090.pdf
+url_pdf: https://arxiv.org/pdf/2104.11254.pdf
 image:
   caption: ""
   focal_point: smart
@@ -43,9 +50,9 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "arXiv:2008.01090 (2020)"
+publication: "arXiv:2104.11254 (2021)"
 projects: []
-date: 2020-08-03
+date: 2021-04-26
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
