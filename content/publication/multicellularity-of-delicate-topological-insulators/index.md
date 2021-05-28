@@ -2,7 +2,7 @@
 doi: 10.1103/PhysRevLett.126.216404
 title: Multicellularity of delicate topological insulators
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Aleksandra Nelson
   - Titus Neupert
