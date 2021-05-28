@@ -1,4 +1,5 @@
 ---
+doi: 10.1103/PhysRevLett.126.216404
 title: Multicellularity of delicate topological insulators
 publication_types:
   - "3"
@@ -7,16 +8,8 @@ authors:
   - Titus Neupert
   - Tomáš Bzdušek
   - A. Alexandradinata
-publication_short: arXiv:2009.01863 (2020)
-abstract: Being Wannierizable is not the end of the story for topological
-  insulators. We introduce a family of topological insulators that would be
-  considered trivial in the paradigm set by the tenfold way, topological quantum
-  chemistry, and the method of symmetry-based indicators. Despite having a
-  symmetric, exponentially-localized Wannier representation, each Wannier
-  function cannot be completely localized to a single primitive unit cell in the
-  bulk. Such multicellular topology is shown to be neither stable, nor fragile,
-  but delicate, i.e., the topology can be nullified by adding trivial bands to
-  either valence or conduction band.
+publication_short: Phys. Rev. Lett. 126, 216404 (2021)
+abstract: Being Wannierizable is not the end of the story for topological insulators. We introduce a family of topological insulators that would be considered trivial in the paradigm set by the tenfold way, topological quantum chemistry, and the method of symmetry-based indicators. Despite having a symmetric, exponentially localized Wannier representation, each Wannier function cannot be completely localized to a single primitive unit cell in the bulk. Such multicellular topology is shown to be neither stable nor fragile, but delicate; i.e., the topology can be nullified by adding trivial bands to either valence or conduction band.
 draft: false
 featured: false
 tags:
@@ -38,9 +31,9 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "arXiv:2009.01863 (2020)"
+publication: Phys. Rev. Lett. <b>126</b>, 216404 (2021)
 projects: []
-date: 2020-09-03
+date: 2021-05-26
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
