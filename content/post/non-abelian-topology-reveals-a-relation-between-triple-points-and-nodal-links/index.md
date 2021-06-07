@@ -18,7 +18,7 @@ image:
   preview_only: false
 ---
 <section>
-<p>Electron band structures, which describe the energy-momentum relation for electrons in solids, can exhibit robust crossings called "nodes". Such nodes famously occur in graphene or in Weyl semimetals, and often facilitate special transport phenomena, such as the decrease of resistivity of Weyl semimetals in applied parallel magnetic field. Resembling topological insulators, these "topological (semi)metals" exhibit "exotic" surface signatures which are strictly impossible in bulk materials. In this work, we consider three-fold band crossings called "triple points" in systems with space-time inversion symmetry and weak spin-orbit coupling.</p>
+<p>Electron band structures, which describe the energy-momentum relation for electrons in solids, can exhibit robust crossings called "nodes". Such nodes famously occur in graphene or in Weyl semimetals, and often facilitate special transport phenomena, such as the decrease of resistivity of Weyl semimetals in applied parallel magnetic field. Resembling topological insulators, these "topological (semi)metals" exhibit "exotic" surface signatures which are strictly impossible in bulk materials. In work [1], we consider three-fold band crossings called "triple points" in systems with space-time inversion symmetry and weak spin-orbit coupling.</p>
    <figure>
    <img src="summaryfig1.jpg" width="400" max-width: 100%>
    <figcaption>Figure 1. Three classes of triple nodal points identified in systems with negligible spin-orbit interaction.</figcaption>
@@ -29,4 +29,5 @@ image:
    <figcaption>Figure 2. Conversion of type-A triple point into a multi-band nodal link.</figcaption>
    </figure>
 <p> Fascinatingly, this conversion unveils that triple points could be related to so-called "higher-order topology", which is characterized by "exotic" signatures not on the surface but for example on the hinges of a material. Thereby our work furthers the understanding of the relationship between specific band nodes and topology. </p>
+  <p>[1] Patrick M. Lenggenhager, Xiaoxiong Liu, Stepan S. Tsirkin, Titus Neupert, and Tomáš Bzdušek, <i>From triple-point materials to multiband nodal links</i>, Phys. Rev. B  <b>103</b>, L121101 (2021)</p>
 </section>
