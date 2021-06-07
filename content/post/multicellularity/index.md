@@ -1,7 +1,6 @@
 ---
-title: Non-Abelian topology reveals a relation between triple points and nodal links
-subtitle: Our latest work, published as a PRB Letter, predicts a robust
-  conversion of triple points into linked nodal lines
+title: Theorists discover new paradigm of topological band structures
+subtitle: In their recent work members of the Neupert group extend the paradigm of topological insulators to areas which were previously thought to contain only trivial insulators.
 date: 2021-06-07
 draft: false
 featured: false
