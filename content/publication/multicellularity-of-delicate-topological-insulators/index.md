@@ -17,6 +17,10 @@ tags:
   - band-theory
   - delicate-topology
   - Hopf-insulator
+  - 
+links:
+- name: in Posts
+  url: https://www.tomasbzdusek.com/post/non-abelian-topology-reveals-a-relation-between-triple-points-and-nodal-links/
 slides: null
 url_pdf: https://arxiv.org/pdf/2009.01863.pdf
 image:
@@ -30,7 +34,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: ""
+doi: "10.1103/PhysRevLett.126.216404"
 publication: Phys. Rev. Lett. <b>126</b>, 216404 (2021)
 projects: []
 date: 2021-05-26
