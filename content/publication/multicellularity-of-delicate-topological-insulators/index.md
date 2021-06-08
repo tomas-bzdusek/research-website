@@ -20,7 +20,7 @@ tags:
   - 
 links:
 - name: in Posts
-  url: https://www.tomasbzdusek.com/post/non-abelian-topology-reveals-a-relation-between-triple-points-and-nodal-links/
+  url: https://www.tomasbzdusek.com/post/multicellularity/
 slides: null
 url_pdf: https://arxiv.org/pdf/2009.01863.pdf
 image:
