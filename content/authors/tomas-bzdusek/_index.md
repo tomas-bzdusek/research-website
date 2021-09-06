@@ -33,7 +33,7 @@ social:
     link: https://arxiv.org/a/bzdusek_t_1.html
   - icon: stackoverflow
     icon_pack: ai
-    link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
+    link: https://stackexchange.com/users/2058657/tomas-bzdusek?tab=accounts
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
