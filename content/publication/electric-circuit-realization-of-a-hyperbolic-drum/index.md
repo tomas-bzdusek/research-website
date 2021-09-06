@@ -1,5 +1,5 @@
 ---
-title: Exceptional Topological Insulators
+title: Electric-circuit realization of a hyperbolic drum
 publication_types:
   - "3"
 authors:
