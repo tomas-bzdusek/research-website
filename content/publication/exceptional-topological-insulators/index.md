@@ -10,7 +10,7 @@ authors:
   - Ronny Thomale
   - Tomáš Bzdušek
   - Titus Neupert
-publication_short: arXiv:2008.01090 (2020)
+publication_short: Nat. Commun. 12, 5681 (2021)
 abstract: We introduce the exceptional topological insulator (ETI), a
   non-Hermitian topological state of matter that features exotic non-Hermitian
   surface states which can only exist within the three-dimensional topological
@@ -42,10 +42,10 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: ""
-publication: "arXiv:2008.01090 (2020)"
+doi: "10.1038/s41467-021-25947-z"
+publication: "Nat. Commun. <b>12</b>, 5681 (2021)"
 projects: []
-date: 2020-08-03
+date: 2021-09-28
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
