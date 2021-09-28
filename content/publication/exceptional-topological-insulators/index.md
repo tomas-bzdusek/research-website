@@ -1,7 +1,7 @@
 ---
 title: Exceptional Topological Insulators
 publication_types:
-  - "3"
+  - "2"
 authors:
   - M. Michael Denner
   - Anastasiia Skurativska
