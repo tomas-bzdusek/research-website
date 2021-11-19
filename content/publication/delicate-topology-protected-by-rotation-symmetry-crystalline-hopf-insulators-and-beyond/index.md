@@ -1,23 +1,43 @@
 ---
-title: Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond
+title: Universal higher-order bulk-boundary correspondence of triple nodal points
 publication_types:
   - "3"
 authors:
-  - Aleksandra Nelson
+  - Patrick M. Lenggenhager
+  - Xiaoxiong Liu
   - Titus Neupert
-  - Aris Alexandradinata
   - Tomáš Bzdušek
-publication_short: arXiv:2111.09365 (2021)
-abstract: "Pontrjagin's seminal topological classification of two-band Hamiltonians in three momentum dimensions is hereby enriched with the inclusion of a crystallographic rotational symmetry. The enrichment is attributed to a new topological invariant which quantifies a $2\pi$-quantized change in the Berry-Zak phase between a pair of rotation-invariant lines in the bulk, three-dimensional Brillouin zone; because this change is reversed on the complementary section of the Brillouin zone, we refer to this new invariant as a returning Thouless pump (RTP). We find that the RTP is associated to anomalous values for the angular momentum of surface states, which guarantees metallic in-gap states for open boundary condition with sharply terminated hoppings; more generally for arbitrarily terminated hoppings, surface states are characterized by Berry-Zak phases that are quantized to a rational multiple of $2\pi$. The RTP adds to the family of topological invariants (the Hopf and Chern numbers) that are known to classify two-band Hamiltonians in Wigner-Dyson symmetry class $\textrm{A}$. Of these, the RTP and Hopf invariants are delicate, meaning that they can be trivialized by adding a particular trivial band to either the valence or the conduction subspace. Not all trivial band additions will nullify the RTP invariant, which allows its generalization beyond two-band Hamiltonians to arbitrarily many bands; such generalization is a hallmark of symmetry-protected delicate topology."
+publication_short: arXiv:2104.11254 (2021)
+abstract: "Triple nodal points are degeneracies of energy bands in momentum 
+  space at which three Hamiltonian eigenstates coalesce at a single 
+  eigenenergy. For spinless particles, the stability of a triple nodal point
+  requires two ingredients: rotation symmetry of order three, four or six; 
+  combined with mirror or space-time-inversion symmetry. However, despite 
+  ample studies of their classification, robust boundary signatures of triple
+  nodal points have until now remained elusive. In this work, we first show 
+  that pairs of triple nodal points in semimetals and metals can be 
+  characterized by Stiefel-Whitney and Euler monopole invariants, of which
+  the first one is known to facilitate higher-order topology. Motivated by 
+  this observation, we then combine symmetry indicators for corner charges 
+  and for the Stiefel-Whitney invariant in two dimensions with the 
+  classification of triple nodal points for spinless systems in three 
+  dimensions. The result is a complete higher-order bulk-boundary 
+  correspondence, where pairs of triple nodal points are characterized by
+  fractional jumps of the hinge charge. We present minimal models of the 
+  various species of triple nodal points carrying higher-order topology,
+  and illustrate the derived correspondence on Sc$_3$AlC which becomes 
+  a higher-order triple-point metal in applied strain. The generalization 
+  to spinful systems, in particular to the WC-type triple-point 
+  material class, is briefly outlined."
 draft: false
 featured: true
 tags:
-  - topological insulators
-  - band theory
-  - delicate topology
-  - Hopf insulators
+  - band-theory
+  - non-Abelian-topology
+  - topological-semimetals
+  - higher-order topology
 slides: null
-url_pdf: https://arxiv.org/pdf/2111.09365.pdf
+url_pdf: https://arxiv.org/pdf/2104.11254.pdf
 image:
   caption: ""
   focal_point: smart
@@ -30,11 +50,11 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "arXiv:2111.09365 (2021)"
+publication: "arXiv:2104.11254 (2021)"
 projects: []
 date: 2021-04-26
 url_slides: ""
-publishDate: 2017-11-19T00:00:00.000Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
