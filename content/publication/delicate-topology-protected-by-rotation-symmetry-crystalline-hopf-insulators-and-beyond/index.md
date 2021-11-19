@@ -8,7 +8,7 @@ authors:
   - Aris Alexandradinata
   - Tomáš Bzdušek
 publication_short: arXiv:2111.09365 (2021)
-abstract: ""
+abstract: "Pontrjagin's"
 draft: false
 featured: true
 tags:
