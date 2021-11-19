@@ -1,5 +1,5 @@
 ---
-title: Universal higher-order bulk-boundary correspondence of triple nodal points
+title: Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond
 publication_types:
   - "3"
 authors:
