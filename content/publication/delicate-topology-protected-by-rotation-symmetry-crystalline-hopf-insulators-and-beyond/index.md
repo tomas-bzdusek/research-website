@@ -8,14 +8,14 @@ authors:
   - Aris Alexandradinata
   - Tomáš Bzdušek
 publication_short: arXiv:2111.09365 (2021)
-abstract: "Pontrjagin's seminal topological classification of two-band Hamiltonians in three momentum dimensions is hereby enriched with the inclusion of a crystallographic rotational symmetry. The enrichment is attributed to a new topological invariant which quantifies a $2\pi$-quantized change in the Berry-Zak phase between a pair of rotation-invariant lines in the bulk, three-dimensional Brillouin zone; because this change is reversed on the complementary section of the Brillouin zone, we refer to this new invariant as a returning Thouless pump (RTP). We find that the RTP is associated to anomalous values for the angular momentum of surface states, which guarantees metallic in-gap states for open boundary condition with sharply terminated hoppings; more generally for arbitrarily terminated hoppings, surface states are characterized by Berry-Zak phases that are quantized to a rational multiple of $2\pi$. The RTP adds to the family of topological invariants (the Hopf and Chern numbers) that are known to classify two-band Hamiltonians in Wigner-Dyson symmetry class $textrm{A}$. Of these, the RTP and Hopf invariants are delicate, meaning that they can be trivialized by adding a particular trivial band to either the valence or the conduction subspace. Not all trivial band additions will nullify the RTP invariant, which allows its generalization beyond two-band Hamiltonians to arbitrarily many bands; such generalization is a hallmark of symmetry-protected delicate topology."
+abstract: "Pontrjagin's seminal topological classification of two-band Hamiltonians in three momentum dimensions is hereby enriched with the inclusion of a crystallographic rotational symmetry. The enrichment is attributed to a new topological invariant which quantifies a $2\pi$-quantized change in the Berry-Zak phase between a pair of rotation-invariant lines in the bulk, three-dimensional Brillouin zone; because this change is reversed on the complementary section of the Brillouin zone, we refer to this new invariant as a returning Thouless pump (RTP). We find that the RTP is associated to anomalous values for the angular momentum of surface states, which guarantees metallic in-gap states for open boundary condition with sharply terminated hoppings; more generally for arbitrarily terminated hoppings, surface states are characterized by Berry-Zak phases that are quantized to a rational multiple of $2\pi$. The RTP adds to the family of topological invariants (the Hopf and Chern numbers) that are known to classify two-band Hamiltonians in Wigner-Dyson symmetry class $\textrm{A}$. Of these, the RTP and Hopf invariants are delicate, meaning that they can be trivialized by adding a particular trivial band to either the valence or the conduction subspace. Not all trivial band additions will nullify the RTP invariant, which allows its generalization beyond two-band Hamiltonians to arbitrarily many bands; such generalization is a hallmark of symmetry-protected delicate topology."
 draft: false
 featured: true
 tags:
-  - topological-insulators
-  - band-theory
-  - delicate-topology
-  - Hopf-insulators
+  - topological insulators
+  - band theory
+  - delicate topology
+  - Hopf insulators
 slides: null
 url_pdf: https://arxiv.org/pdf/2111.09365.pdf
 image:
@@ -32,9 +32,9 @@ author_notes: ""
 doi: ""
 publication: "arXiv:2111.09365 (2021)"
 projects: []
-date: 2021-09-02
+date: 2021-04-26
 url_slides: ""
-publishDate: 2021-11-19T00:00:00.000Z
+publishDate: 2017-11-19T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
