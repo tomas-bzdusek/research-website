@@ -1,5 +1,5 @@
 ---
-title: Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond
+title: "Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond"
 publication_types:
   - "3"
 authors:
