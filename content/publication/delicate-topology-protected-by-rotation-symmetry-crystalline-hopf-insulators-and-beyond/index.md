@@ -1,5 +1,5 @@
 ---
-title: Electric-circuit realization of a hyperbolic drum
+title: Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond
 publication_types:
   - "3"
 authors:
