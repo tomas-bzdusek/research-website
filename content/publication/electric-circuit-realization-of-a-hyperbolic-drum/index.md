@@ -18,7 +18,7 @@ authors:
   - Titus Neupert
   - Ronny Thomale
   - Tomáš Bzdušek
-publication_short: arXiv:2008.01090 (2021)
+publication_short: arXiv:2109.01148 (2021)
 abstract: The Laplace operator encodes the behaviour of physical systems at vastly different scales, describing heat flow, fluids, as well as electric, gravitational, and quantum fields. A key input for the Laplace equation is the curvature of space. Here we demonstrate that the spectral ordering of Laplacian eigenstates for hyperbolic (negative curvature) and flat (zero curvature) two-dimensional spaces has a universally different structure. We use a lattice representation of hyperbolic space in an electric-circuit network to measure the eigenstates of a 'hyperbolic drum', and to analyze signal propagation along the curved geodesics. Our experiments showcase a versatile platform to emulate hyperbolic lattices in tabletop experiments, which can be utilized to explore propagation dynamics as well as to realize topological hyperbolic matter.
 draft: false
 featured: true
