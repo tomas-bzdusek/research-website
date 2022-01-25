@@ -1,5 +1,5 @@
 ---
-title: Universal higher-order bulk-boundary correspondence of triple nodal points
+title: Triple nodal points characterized by their nodal-line structure in all magnetic space groups
 publication_types:
   - "3"
 authors:
@@ -7,37 +7,17 @@ authors:
   - Xiaoxiong Liu
   - Titus Neupert
   - Tomáš Bzdušek
-publication_short: arXiv:2104.11254 (2021)
-abstract: "Triple nodal points are degeneracies of energy bands in momentum 
-  space at which three Hamiltonian eigenstates coalesce at a single 
-  eigenenergy. For spinless particles, the stability of a triple nodal point
-  requires two ingredients: rotation symmetry of order three, four or six; 
-  combined with mirror or space-time-inversion symmetry. However, despite 
-  ample studies of their classification, robust boundary signatures of triple
-  nodal points have until now remained elusive. In this work, we first show 
-  that pairs of triple nodal points in semimetals and metals can be 
-  characterized by Stiefel-Whitney and Euler monopole invariants, of which
-  the first one is known to facilitate higher-order topology. Motivated by 
-  this observation, we then combine symmetry indicators for corner charges 
-  and for the Stiefel-Whitney invariant in two dimensions with the 
-  classification of triple nodal points for spinless systems in three 
-  dimensions. The result is a complete higher-order bulk-boundary 
-  correspondence, where pairs of triple nodal points are characterized by
-  fractional jumps of the hinge charge. We present minimal models of the 
-  various species of triple nodal points carrying higher-order topology,
-  and illustrate the derived correspondence on Sc$_3$AlC which becomes 
-  a higher-order triple-point metal in applied strain. The generalization 
-  to spinful systems, in particular to the WC-type triple-point 
-  material class, is briefly outlined."
+publication_short: arXiv:2201.08404 (2021)
+abstract: "We analyze triply degenerate nodal points [or triple points (TPs) for short] in energy bands of crystalline solids. Specifically, we focus on spinless band structures, i.e., when spin-orbit coupling is negligible, and consider TPs formed along high-symmetry lines in the momentum space by a crossing of three bands transforming according to a 1D and a 2D irreducible corepresentation (ICR) of the little co-group. The result is a complete classification of such TPs in all magnetic space groups, including the non-symmorphic ones, according to several characteristics of the nodal-line structure at and near the TP. We show that the classification of the presently studied TPs is exhausted by 13 magnetic point groups (MPGs) that can arise as the little co-group of a high-symmetry line and which support both 1D and 2D spinless ICRs. For 10 of the identified MPGs, the TP characteristics are uniquely determined without further information; in contrast, for the 3 MPGs containing sixfold rotation symmetry, two types of TPs are possible, depending on the choice of the crossing ICRs. The classification result for each of the 13 MPGs is illustrated with first-principles calculations of a concrete material candidate.w"
 draft: false
 featured: true
 tags:
   - band-theory
-  - non-Abelian-topology
-  - topological-semimetals
-  - higher-order topology
+  - triple-nodal-points
+  - topological-metals
+  - space-group-symmetry
 slides: null
-url_pdf: https://arxiv.org/pdf/2104.11254.pdf
+url_pdf: https://arxiv.org/pdf/2201.08404.pdf
 image:
   caption: ""
   focal_point: smart
@@ -50,11 +30,11 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "arXiv:2104.11254 (2021)"
+publication: "arXiv:2201.08404 (2022)"
 projects: []
-date: 2021-04-26
+date: 2022-01-20
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2022-01-25T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
