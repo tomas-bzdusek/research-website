@@ -14,10 +14,10 @@ draft: false
 featured: true
 tags:
   - non-Hermitian
-  - Hubbard model
-  - topological phase transition
+  - Hubbard-model
+  - topological-phase-transition
 slides: null
-url_pdf: https://arxiv.org/pdf/2111.09365.pdf
+url_pdf: https://arxiv.org/pdf/2201.12653.pdf
 image:
   caption: ""
   focal_point: smart
@@ -30,11 +30,11 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "arXiv:2111.09365 (2021)"
+publication: "arXiv:2201.12653 (2022)"
 projects: []
-date: 2021-11-19
+date: 2022-02-01
 url_slides: ""
-publishDate: 2021-11-19T00:00:00.000Z
+publishDate: 2022-02-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
