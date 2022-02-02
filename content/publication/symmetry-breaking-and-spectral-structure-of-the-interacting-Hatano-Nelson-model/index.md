@@ -13,10 +13,9 @@ abstract: We study the Hatano-Nelson model, i.e., a one-dimensional non-Hermitia
 draft: false
 featured: true
 tags:
-  - topological-insulators
-  - delicate-topology
-  - band-theory
-  - Hopf-insulators
+  - non-Hermitian
+  - Hubbard model
+  - topological phase transition
 slides: null
 url_pdf: https://arxiv.org/pdf/2111.09365.pdf
 image:
