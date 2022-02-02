@@ -1,23 +1,23 @@
 ---
-title: "Symmetry breaking and spectral structure of the interacting Hatano-Nelson model"
+title: "Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond"
 publication_types:
   - "3"
 authors:
-  - Song-Bo Zhang
-  - Michael M. Denner
-  - Tomáš Bzdušek
-  - Michael A. Sentef
+  - Aleksandra Nelson
   - Titus Neupert
-publication_short: arXiv:2201.12653 (2022)
-abstract: "We study the Hatano-Nelson model, i.e., a one-dimensional non-Hermitian chain of spinless fermions with nearest-neighbor nonreciprocal hopping, in the presence of repulsive nearest-neighbor interactions. At half-filling, we find two $\mathcal{PT}$ transitions, as the interaction strength increases. The first transition is marked by an exceptional point between the first and the second excited state in a finite-size system and is a first-order symmetry-breaking transition into a charge density wave regime. Persistent currents characteristic of the Hatano-Nelson model abruptly vanish at the transition. The second transition happens at a critical interaction strength that scales with the system size and can thus only be observed in finite-size systems. It is characterized by a collapse of all energy eigenvalues onto the real axis. We further show that in a strong interaction regime, but away from half-filling, the many-body spectrum shows point gaps with nontrivial winding numbers, akin to the topological properties of the single-particle spectrum of the Hatano-Nelson chain. Our results contribute to an understanding of fermionic many-body systems with non-Hermitian Hamiltonians."
+  - A. Alexandradinata
+  - Tomáš Bzdušek
+publication_short: arXiv:2111.09365 (2021)
+abstract: "Pontrjagin's  seminal topological classification of two-band Hamiltonians in three momentum dimensions is hereby enriched with the inclusion of a crystallographic rotational symmetry. The enrichment is attributed to a new topological invariant which quantifies a 2π-quantized change in the Berry-Zak phase between a pair of rotation-invariant lines in the bulk, three-dimensional Brillouin zone; because this change is reversed on the complementary section of the Brillouin zone, we refer to this new invariant as a returning Thouless pump (RTP). We find that the RTP is associated to anomalous values for the angular momentum of surface states, which guarantees metallic in-gap states for open boundary condition with sharply terminated hoppings; more generally for arbitrarily terminated hoppings, surface states are characterized by Berry-Zak phases that are quantized to a rational multiple of 2π. The RTP adds to the family of topological invariants (the Hopf and Chern numbers) that are known to classify two-band Hamiltonians in Wigner-Dyson symmetry class A. Of these, the RTP and Hopf invariants are delicate, meaning that they can be trivialized by adding a particular trivial band to either the valence or the conduction subspace. Not all trivial band additions will nullify the RTP invariant, which allows its generalization beyond two-band Hamiltonians to arbitrarily many bands; such generalization is a hallmark of symmetry-protected delicate topology."
 draft: false
 featured: true
 tags:
-  - non-Hermitian
-  - Hubbard-interaction
-  - phase-diagram
+  - topological-insulators
+  - delicate-topology
+  - band-theory
+  - Hopf-insulators
 slides: null
-url_pdf: https://arxiv.org/pdf/2201.12653.pdf
+url_pdf: https://arxiv.org/pdf/2111.09365.pdf
 image:
   caption: ""
   focal_point: smart
@@ -30,11 +30,11 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "arXiv:2201.12653 (2022)"
+publication: "arXiv:2111.09365 (2021)"
 projects: []
-date: 2022-02-01
+date: 2021-11-19
 url_slides: ""
-publishDate: 2022-02-02T00:00:00.000Z
+publishDate: 2021-11-19T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
