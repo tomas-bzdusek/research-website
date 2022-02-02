@@ -14,8 +14,8 @@ draft: false
 featured: true
 tags:
   - non-Hermitian
-  - Hubbard interaction
-  - phase diagram
+  - Hubbard-interaction
+  - phase-diagram
 slides: null
 url_pdf: https://arxiv.org/pdf/2201.12653.pdf
 image:
