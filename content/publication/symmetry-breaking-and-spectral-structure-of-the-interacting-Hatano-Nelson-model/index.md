@@ -1,5 +1,5 @@
 ---
-title: "Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond"
+title: "Symmetry breaking and spectral structure of the interacting Hatano-Nelson model"
 publication_types:
   - "3"
 authors:
