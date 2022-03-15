@@ -49,7 +49,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2104.11254"
+doi: "https://doi.org/10.48550/arXiv.2104.11254"
 publication: "arXiv:2104.11254 (2021)"
 projects: []
 date: 2021-04-26
