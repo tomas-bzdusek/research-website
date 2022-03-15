@@ -47,6 +47,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/David-Urwyler
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:davidmichael.urwyler@uzh.ch@physik.uzh.ch'
@@ -92,7 +95,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergrad Students
+- Former Undergrad Students
 ---
 
 David works on open problems related to hyperbolic band theory.
