@@ -37,7 +37,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: ""
+doi: "10.13140/RG.2.2.34715.34081"
 publication: "Hyperbolic Topological Insulator, Master’s thesis, University of Zurich, Switzerland (2021)"
 projects: []
 date: 2021-11-11
