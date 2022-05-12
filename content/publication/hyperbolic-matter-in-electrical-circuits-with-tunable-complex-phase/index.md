@@ -26,7 +26,7 @@ tags:
   - topological-semimetals
   - electric-circuit
 slides: null
-url_pdf: https://arxiv.org/pdf/2203.07292.pdf
+url_pdf: https://arxiv.org/pdf/2205.05106.pdf
 image:
   caption: ""
   focal_point: smart
@@ -38,12 +38,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "https://doi.org/10.48550/arXiv.2203.07292"
-publication: "arXiv:2203.07292 (2022)"
+doi: "https://doi.org/10.48550/arXiv.2205.05106"
+publication: "arXiv:2205.05106 (2022)"
 projects: []
-date: 2022-03-14
+date: 2022-05-10
 url_slides: ""
-publishDate: 2022-03-15T00:00:00.000Z
+publishDate: 2022-05-12T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
