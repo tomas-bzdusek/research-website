@@ -23,7 +23,8 @@ featured: true
 tags:
   - hyperbolic-models
   - hyperbolic-band-theory
-  - topological-insulators
+  - topological-semimetals
+  - electric-circuit
 slides: null
 url_pdf: https://arxiv.org/pdf/2203.07292.pdf
 image:
