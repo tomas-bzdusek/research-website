@@ -39,7 +39,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: ""
+doi: "10.1038/s41467-022-32042-4"
 publication: "Nat. Commun. <b>13</b>, 4373 (2022)"
 projects: []
 date: 2022-07-28
