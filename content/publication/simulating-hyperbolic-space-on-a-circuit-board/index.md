@@ -31,6 +31,8 @@ url_pdf: https://arxiv.org/pdf/2109.01148.pdf
 links:
 - name: press release
   url: https://www.physik.uzh.ch/en/news/news/Hyperbolic-Space.html
+- name: in Posts
+  url: https://www.tomasbzdusek.com/post/Hyperbolic-Space/
 image:
   caption: ""
   focal_point: smart
