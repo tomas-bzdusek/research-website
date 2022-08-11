@@ -12,7 +12,7 @@ tags:
   - hyperbolic-band-theory
   - negative-curvature
 image:
-  filename: summaryfig.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
