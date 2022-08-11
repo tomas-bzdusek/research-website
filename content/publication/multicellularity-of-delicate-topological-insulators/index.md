@@ -17,7 +17,6 @@ tags:
   - band-theory
   - delicate-topology
   - Hopf-insulator
-  - 
 links:
 - name: in Posts
   url: https://www.tomasbzdusek.com/post/multicellularity/
