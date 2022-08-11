@@ -1,6 +1,6 @@
 ---
 title: Theorists discover new paradigm of topological band structures
-subtitle: In their recent work members of the Neupert group extend the paradigm of topological insulators to areas which were previously thought to contain only trivial insulators.
+subtitle: In a recent work, our group extends the paradigm of topological insulators to areas which were previously thought to contain only trivial insulators.
 date: 2021-06-07
 draft: false
 featured: false
