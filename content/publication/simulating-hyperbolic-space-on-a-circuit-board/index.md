@@ -28,6 +28,7 @@ tags:
   - hyperbolic-band-theory
 slides: null
 url_pdf: https://arxiv.org/pdf/2109.01148.pdf
+links:
 - name: press release
   url: https://www.physik.uzh.ch/en/news/news/Hyperbolic-Space.html
 image:
