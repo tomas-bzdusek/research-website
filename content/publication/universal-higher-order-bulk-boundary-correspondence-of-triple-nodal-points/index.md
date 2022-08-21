@@ -1,13 +1,13 @@
 ---
 title: Universal higher-order bulk-boundary correspondence of triple nodal points
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Patrick M. Lenggenhager
   - Xiaoxiong Liu
   - Titus Neupert
   - Tomáš Bzdušek
-publication_short: arXiv:2104.11254 (2021)
+publication_short: Phys. Rev. B 106, 085129 (2022)
 abstract: "Triple nodal points are degeneracies of energy bands in momentum 
   space at which three Hamiltonian eigenstates coalesce at a single 
   eigenenergy. For spinless particles, the stability of a triple nodal point
@@ -36,6 +36,7 @@ tags:
   - non-Abelian-topology
   - topological-semimetals
   - higher-order topology
+  - triple-nodal-points
 slides: null
 url_pdf: https://arxiv.org/pdf/2104.11254.pdf
 image:
@@ -49,10 +50,10 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "https://doi.org/10.48550/arXiv.2104.11254"
-publication: "arXiv:2104.11254 (2021)"
+doi: "https://doi.org/10.1103/PhysRevB.106.085129"
+publication: "Phys. Rev. B <b>106</b>, 085129 (2022)"
 projects: []
-date: 2021-04-26
+date: 2022-08-18
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
