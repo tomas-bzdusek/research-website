@@ -44,6 +44,7 @@ tags:
   - band-theory
   - non-Abelian-topology
   - topological-semimetals
+  - triple-nodal-points
 links:
 - name: in Posts
   url: https://www.tomasbzdusek.com/post/non-abelian-topology-reveals-a-relation-between-triple-points-and-nodal-links/
