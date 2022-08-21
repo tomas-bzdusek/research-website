@@ -48,6 +48,8 @@ tags:
 links:
 - name: in Posts
   url: https://www.tomasbzdusek.com/post/non-abelian-topology-reveals-a-relation-between-triple-points-and-nodal-links/
+- name: Erratum
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.079903
 projects: []
 image:
   caption: ""
