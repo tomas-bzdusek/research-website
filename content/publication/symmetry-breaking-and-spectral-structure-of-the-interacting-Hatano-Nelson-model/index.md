@@ -32,9 +32,9 @@ author_notes: ""
 doi: "https://doi.org/10.1103/PhysRevB.106.L121102"
 publication: Phys. Rev. B <b>106</b>, L121102 (2022)
 projects: []
-date: 2022-02-01
+date: 2022-09-02
 url_slides: ""
-publishDate: 2022-02-09T00:00:00.000Z
+publishDate: 2022-09-02T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
