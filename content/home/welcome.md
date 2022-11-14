@@ -18,5 +18,6 @@ My name is Tomáš Bzdušek and I am a postdoctoral fellow in the [CMT group](ht
 
 On this website I have collected the research work of myself and of my students. <!--- You can follow our updates on Twitter. --> In the "miscellaneous" tab I have collected various further documents, including recorded talks, slides, and code. 
 
-<!-- The website is currently in construction, and is expected to be complete by April 2021. -->
+<b>News!</b> Following my successful application for a Starting Grant by SNSF, I will be launching a research group at the University of Zürich in the fall of 2023. At that occassion I will be hiring two doctoral students and one postdoc. More information will be communicated here, as well as on the <url="https://www.physik.uzh.ch/en/department/jobs.html">University website</url>, and on <url="https://twitter.com/tomasbzdusek">Twitter</url> in January 2023. Applicants for a bachelor or a master thesis project at the University of Zurich are welcome to ask me about possible projects already, as we could start working on these immediately.
+
 
