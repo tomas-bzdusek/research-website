@@ -1,7 +1,7 @@
 ---
 title: "Hyperbolic topological band insulators"
 publication_types:
-  - "ľ"
+  - "2"
 authors:
   - David M. Urwyler
   - Patrick M. Lenggenhager
