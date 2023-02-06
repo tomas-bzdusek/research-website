@@ -1,5 +1,5 @@
 ---
-title: "Hyperbolic Matter in Electrical Circuits with Tunable Complex Phases"
+title: "Hyperbolic matter in electrical circuits with tunable complex phases"
 publication_types:
   - "2"
 authors:
@@ -43,7 +43,7 @@ publication: "Nat. Commun. <b>14</b>, 622 (2023)"
 projects: []
 date: 2022-05-10
 url_slides: ""
-publishDate: 2022-05-12T00:00:00.000Z
+publishDate: 2023-02-04T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
