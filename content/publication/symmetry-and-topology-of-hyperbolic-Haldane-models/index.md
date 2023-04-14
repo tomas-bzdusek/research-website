@@ -14,15 +14,13 @@ abstract: Particles hopping on a two-dimensional hyperbolic lattice feature unco
 draft: false
 featured: true
 tags:
-  - non-Hermitian
+  - hyperbolic-models
+  - hyperbolic-band-theory
   - topological-insulators
-  - band-theory
-  - Weyl-semimetals
+  - hyperbolic-crystallography
 slides: null
 url_pdf: https://arxiv.org/pdf/2008.01090.pdf
 links:
-- name: press release
-  url: https://www.physik.uzh.ch/en/news/News-2021/Topological-Insulators.html
 image:
   caption: ""
   focal_point: smart
