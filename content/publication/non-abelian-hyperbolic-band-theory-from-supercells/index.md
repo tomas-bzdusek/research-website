@@ -1,16 +1,13 @@
 ---
-title: Symmetry and topology of hyperbolic Haldane models
+title: Non-Abelian hyperbolic band theory from supercells
 publication_types:
   - "3"
 authors:
-  - Anffany Chen
-  - Yifei Guan
   - Patrick M. Lenggenhager
   - Joseph Maciejko
-  - Igor Boettcher
   - Tomáš Bzdušek
 publication_short: arXiv:2304.03273 (2023)
-abstract: Particles hopping on a two-dimensional hyperbolic lattice feature unconventional energy spectra and wave functions that provide a largely uncharted platform for topological phases of matter beyond the Euclidean paradigm. Using real-space topological markers as well as Chern numbers defined in the higher-dimensional momentum space of hyperbolic band theory, we construct and investigate hyperbolic Haldane models, which are generalizations of Haldane's honeycomb-lattice model to various hyperbolic lattices. We present a general framework to characterize point-group symmetries in hyperbolic tight-binding models, and use this framework to constrain the multiple first and second Chern numbers in momentum space. We observe several topological gaps characterized by first Chern numbers of value $1$ and $2$. The momentum-space Chern numbers respect the predicted symmetry constraints and agree with real-space topological markers, indicating a direct connection to observables such as the number of chiral edge modes. With our large repertoire of models, we further demonstrate that the topology of hyperbolic Haldane models is trivialized for lattices with strong negative curvature.
+abstract: Tight-binding models on periodic lattices are commonly studied using Bloch band theory, which provides an efficient description of their energy spectra and wave functions. Besides Abelian Bloch states characterized by a momentum vector, the band theory of hyperbolic lattices involves non-Abelian Bloch states that have so far remained largely inaccessible to analytical treatments. Here, we systematically construct non-Abelian Bloch states by generalizing to hyperbolic lattices the familiar solid-state-physics notions of supercells and zone folding. By applying Abelian hyperbolic band theory to sequences of supercells, constructed recursively as symmetric aggregates of multiple smaller cells, we numerically compute the density of states of several elementary and topological tight-binding models and observe rapid convergence with increasing supercell size, for both gapless and gapped models. We propose our supercell method as a first step towards a complete band-theoretic characterization of hyperbolic lattices and an efficient means of approximating the thermodynamic limit. We make our algorithms publicly available in a software package to facilitate future studies of hyperbolic quantum matter.
 draft: false
 featured: true
 tags:
