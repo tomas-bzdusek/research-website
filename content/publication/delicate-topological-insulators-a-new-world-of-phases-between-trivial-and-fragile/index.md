@@ -1,5 +1,5 @@
 ---
-title: "Delicate topological Insulators: a new world of phases between trivial and fragile"
+title: "Delicate topological insulators: a new world of phases between trivial and fragile"
 publication_types:
   - "7"
 authors:
