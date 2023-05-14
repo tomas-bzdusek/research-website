@@ -72,7 +72,7 @@ author_notes: ""
 doi: ""
 publication: "Ph.D. thesis, University of Zurich, Switzerland (2022)"
 projects: []
-date: 2021-11-11
+date: 2022-06-23
 url_slides: ""
 publishDate: 2022-06-23T00:00:00.000Z
 url_poster: ""
