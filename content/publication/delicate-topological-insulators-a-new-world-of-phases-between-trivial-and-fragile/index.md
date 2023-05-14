@@ -21,7 +21,7 @@ stable and fragile topology forms an obstruction to make these orbitals exponent
 does not exhibit this ‘strong’ obstruction. Instead, its exponentially localized
 and symmetric Wannier orbitals can not be localized within one unit cell,
 which prevents the delicate topological insulator from being deformed to a
-trivial one. We call such Wannier orbitals multicellular.
+trivial one. We call such Wannier orbitals multicellular.<br><br>
 
 In this thesis, we introduce the concepts of delicate and multicellular topology on the case of crystalline Hopf insulators: two-band three-dimensional
 insulators invariant under rotation symmetry. We identify the topological
@@ -52,12 +52,12 @@ delicate topology."
 draft: false
 featured: true
 tags:
-  - hyperbolic-models
-  - hyperbolic-band-theory
-  - flat-bands
   - topological-insulators
+  - delicate-topology
+  - band-theory
+  - Hopf-insulators
 slides: null
-url_pdf: https://www.researchgate.net/profile/David-Urwyler/publication/359057010_Hyperbolic_Topological_Insulators/links/6225eac384ce8e5b4d0de57b/Hyperbolic-Topological-Insulators.pdf?_sg%5B0%5D=4baObVBFm10w36aAoI7bOOmse-XfuQui5cZrJsS7SyzqtgoEuvQBWHOHAp-geCh2J8agleMz0Gnpl1lkir7bCQ.adC2pnNbBLkYcBItq0ReV0uODkzIao5KfbecJV_eCrR-cGi2IqHQ47YeN0h4eRgD1OSTLiZpdR93zx2Ob-R91g&_sg%5B1%5D=xsCDzCMw91jOKvFiDwyHtugURuzyG43fu-VF2AXZ-lc11God-Q-IGn5xxQJIneLUQWTOk_hLoHqCotSSce7EkvMCM_IptQF1kV4KGLR0y4Py.adC2pnNbBLkYcBItq0ReV0uODkzIao5KfbecJV_eCrR-cGi2IqHQ47YeN0h4eRgD1OSTLiZpdR93zx2Ob-R91g&_iepl=
+url_pdf: 
 image:
   caption: ""
   focal_point: smart
@@ -69,12 +69,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.13140/RG.2.2.34715.34081"
-publication: "Master’s thesis, University of Zurich, Switzerland (2021)"
+doi: ""
+publication: "Ph.D. thesis, University of Zurich, Switzerland (2022)"
 projects: []
 date: 2021-11-11
 url_slides: ""
-publishDate: 2021-11-11T00:00:00.000Z
+publishDate: 2022-06-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
