@@ -4,7 +4,7 @@ publication_types:
   - "7"
 authors:
   - Xiao-Qi Sun
-publication_short: "Ph.D. thesis, Stanford University, California (2022)"
+publication_short: "Ph.D. thesis, Stanford University, California (2020)"
 abstract: "Topological semimetals are characterized by topologically protected band-structure nodes. One prominent
 example is the Weyl semimetal, characterized by Weyl points carrying topological Chern numbers. In this
 dissertation, we explore the topology of band-structure nodes with three ingredients: crystal symmetry, nonHermiticity and periodic driving. First, we show that point group symmetry facilitates a new type of topological invariant from relative homotopy theory, which determines the rules for converting generic band nodes to
