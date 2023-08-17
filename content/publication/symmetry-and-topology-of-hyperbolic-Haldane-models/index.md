@@ -27,12 +27,12 @@ image:
   preview_only: false
   filename: featured.jpg
 summary: ""
-url_dataset: ""
+url_dataset: "https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/NUZRNR"
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2304.03273"
+doi: "10.1103/PhysRevB.108.085114"
 publication: "Phys. Rev. B <b>108</b>, 085114 (2023)"
 projects: []
 date: 2023-08-11
