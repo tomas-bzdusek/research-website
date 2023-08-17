@@ -24,7 +24,7 @@
   weight = 50
   
 [[main]]
-  name = "Achievememts"
+  name = "Achievements"
   url = "achievements"
   weight = 53
   
