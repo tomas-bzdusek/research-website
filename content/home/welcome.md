@@ -19,3 +19,5 @@ Hi there! I am a postdoctoral fellow in the [CMT group](https://www.psi.ch/en/ls
 On this website I have collected the research work of myself and of my students. In the "miscellaneous" tab I have collected various further documents, including recorded talks, slides, and code. 
 
 <b>News!</b> Following my successful application for a Starting Grant by [SNSF](https://data.snf.ch/grants/grant/211310), I will be <b>launching a research group at the University of Zürich in October 2023</b>. For that occassion <b>I am hiring two doctoral students and one postdoc</b>. The hiring announcements can be accessed on the [University website](https://www.physik.uzh.ch/en/department/jobs.html), and both currently remain open. You can follow our updates on [Twitter](https://twitter.com/UZH_TopoMat). Interested <b>applicants for a bachelor or a master thesis project </b> are welcome to ask me about possible projects already now.
+
+<a rel="me" href="https://mastodon.social/@tomas_bzdusek"></a>
