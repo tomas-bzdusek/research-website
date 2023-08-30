@@ -42,16 +42,17 @@ social:
     link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
     
 organizations:
-  - name: Paul Scherrer Institute
-    url: https://www.psi.ch/en/lsm/cmt-group
   - name: University of Zürich
     url: https://www.physik.uzh.ch/en/groups/neupert/team.html
     
 education:
   courses:
+    - course: SNSF Starting Grant
+      institution: University of Zürich, Switzerland
+      year: 2023-present
     - course: Ambizione Research Fellowship
       institution: Paul Scherrer Institute, Villigen, Switzerland
-      year: 2019-present
+      year: 2019-2023
     - course: Gordon and Betty Moore Fellowship
       institution: Stanford University, California, USA
       year: 2017-2019
