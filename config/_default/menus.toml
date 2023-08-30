@@ -23,10 +23,10 @@
   url = "publication"
   weight = 50
   
-[[main]]
-  name = "Achievements"
-  url = "achievements"
-  weight = 53
+# [[main]]
+#   name = "Achievements"
+#   url = "achievements"
+#   weight = 53
   
 [[main]]
   name = "Miscellaneous"
