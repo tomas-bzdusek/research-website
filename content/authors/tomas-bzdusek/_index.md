@@ -20,7 +20,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=cRgGh1oAAAAJ&hl=en
   - icon: mastodon
-    icon_pack: ai
+    icon_pack: fab
     link: https://mastodon.social/@tomas_bzdusek
   - icon: researchgate
     icon_pack: ai
