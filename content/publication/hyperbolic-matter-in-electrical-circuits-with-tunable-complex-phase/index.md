@@ -38,7 +38,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "https://doi.org/10.48550/arXiv.2205.05106"
+doi: "https://doi.org/10.1038/s41467-023-36359-6"
 publication: "Nat. Commun. <b>14</b>, 622 (2023)"
 projects: []
 date: 2023-02-04
