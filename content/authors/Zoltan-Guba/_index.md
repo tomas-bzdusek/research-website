@@ -58,7 +58,7 @@ social:
 #   link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Patrick-Lenggenhager
+  link: https://www.researchgate.net/scientific-contributions/Zoltan-Guba-2216000315
 # - icon: publons
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1838418/tomas-bzdusek/
