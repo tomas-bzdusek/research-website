@@ -95,6 +95,7 @@ user_groups:
 - Doctoral Students
 ---
 
+<!--
 <!DOCTYPE html>
 <html>
   <head>
@@ -104,4 +105,5 @@ user_groups:
     <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
   </body>
 </html>
+-->
 
