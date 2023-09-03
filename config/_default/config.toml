@@ -38,6 +38,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 disableAliases = true  # Disable aliases when `redirects` is added to the `outputs` below.
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+[security]
+  frame-ancestors = "https://www.uzh.ch https://www.physik.uzh.ch"
+
 [permalinks]
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
