@@ -49,7 +49,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lenpat@physik.uzh.ch'
+  link: 'mailto:zoltan.guba@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
