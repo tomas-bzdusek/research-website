@@ -20,6 +20,4 @@
   for = "/*"
   
   [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = "frame-ancestors https://www.uzh.ch https://www.physik.uzh.ch https://cmsauth.uzh.ch/"
