@@ -1,5 +1,5 @@
 ---
-title: "Hyperbolic topological band insulators"
+title: "Hyperbolic Topological Band Insulators"
 publication_types:
   - "2"
 authors:
