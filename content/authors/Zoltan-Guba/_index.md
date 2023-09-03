@@ -10,7 +10,7 @@ superuser: false
 # Organizations/Affiliations
 organizations:
 - name: University of Zürich
-  url: "[https://glam.stanford.edu/](https://www.physik.uzh.ch/en.html)"
+  url: https://www.physik.uzh.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include various topic in topological band theory.
@@ -43,15 +43,15 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
- - icon: envelope
-   icon_pack: fas
-   link: `mailto:zoltan.guba@physik.uzh.ch'
+# - icon: envelope
+#   icon_pack: fas
+#   link: `mailto:zoltan.guba@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=bJ_Jq3YAAAAJ&hl=en
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=bJ_Jq3YAAAAJ&hl=en
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Patrick-Lenggenhager
