@@ -45,7 +45,7 @@ organizations:
 social:
  - icon: envelope
    icon_pack: fas
-   link: mailto:zoltan.guba@physik.uzh.ch
+   link: zoltan.guba@physik.uzh.ch
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
