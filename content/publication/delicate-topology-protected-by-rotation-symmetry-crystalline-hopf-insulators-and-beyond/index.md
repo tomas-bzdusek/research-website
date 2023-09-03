@@ -29,7 +29,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "https://doi.org/10.1103/PhysRevB.106.075124"
+doi: "10.1103/PhysRevB.106.075124"
 publication: "Phys. Rev. B <b>106</b>, 075124 (2022)"
 projects: []
 date: 2022-08-10
