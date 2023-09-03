@@ -9,8 +9,8 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: University of Zürich
-  url: "https://www.physik.uzh.ch/en/groups/neupert/team.html"
+- name: Stanford University
+  url: "https://glam.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include various topic in topological band theory.
@@ -43,24 +43,24 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
- - icon: envelope
-   icon_pack: fas
-   link: mailto:zoltan.guba@physik.uzh.ch
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:anelson@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
-- icon: researchgate
+- icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/scientific-contributions/Zoltan-Guba-2216000315
+  link: https://scholar.google.com/citations?user=bJ_Jq3YAAAAJ&hl=en
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Patrick-Lenggenhager
 # - icon: publons
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1838418/tomas-bzdusek/
 # - icon: orcid
 #   icon_pack: ai
-#  link: https://orcid.org/0000-0001-6746-1387
+#   link: https://orcid.org/0000-0002-2168-3846
 # - icon: arxiv
 #   icon_pack: ai
 #   link: https://arxiv.org/a/lenggenhager_p_1.html
@@ -91,4 +91,13 @@ user_groups:
 - Doctoral Students
 ---
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="2; url='https://physics.illinois.edu/people/directory/profile/xiaoqi20'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://physics.illinois.edu/people/directory/profile/xiaoqi20">this link</a>.</p>
+  </body>
+</html>
 
