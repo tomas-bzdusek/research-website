@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Theory of Topological Matter -- Prof. Tomáš Bzdušek"
+description = "Theory of Topological Matter — Bzdušek Group"
 
 ############################
 ## Site Features
