@@ -98,5 +98,5 @@ user_groups:
 - Former Undergrad Students
 ---
 
-David investigated aspects of tight-binding models on hyperbolic lattices, and generalized the Haldane model of a Chern insulator to the hyperbolic space. His Master's thesis, titled <i>Hyperbolic topological insulators</i>, was recognized by the 2022 <a href="https://www.physik.uzh.ch/en/study/General-Information/Awards/Soluyanov_Prize.html">Soluyanov UZH prize</a> the Best Master's Thesis in Theoretical Physics. David defended his thesis on 11 Nov 2021.
+David investigated aspects of tight-binding models on hyperbolic lattices, and generalized the Haldane model of a Chern insulator to the hyperbolic space. His Master's thesis, titled <a href="http://dx.doi.org/10.13140/RG.2.2.34715.34081"><i>Hyperbolic topological insulators</i></a>, was recognized by the 2022 <a href="https://www.physik.uzh.ch/en/study/General-Information/Awards/Soluyanov_Prize.html">Soluyanov UZH prize</a> the Best Master's Thesis in Theoretical Physics. David defended his thesis on 11 Nov 2021.
 
