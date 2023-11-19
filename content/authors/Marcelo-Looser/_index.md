@@ -98,5 +98,5 @@ user_groups:
 - Undergrad Students
 ---
 
-Marcelo applies the supercell method to investigate diverse aspects of band theory and topology of hyperbolic lattices.
+Marcelo applies the supercell method to investigate diverse aspects of band theory and topology in hyperbolic lattices.
 
