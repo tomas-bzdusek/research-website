@@ -98,5 +98,5 @@ user_groups:
 - Undergrad Students
 ---
 
-Aoxue investigates response theory of topological insulators and semimetals in hyperbolic lattices.
+Aoxue investigates response theory of topological phases in hyperbolic lattices.
 
