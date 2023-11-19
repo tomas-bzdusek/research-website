@@ -24,7 +24,7 @@ image:
   preview_only: false
   filename: featured.jpg
 summary: ""
-url_dataset: ""
+url_dataset: "https://doi.org/10.3929/ethz-b-000500759"
 url_project: ""
 url_source: ""
 url_video: ""
