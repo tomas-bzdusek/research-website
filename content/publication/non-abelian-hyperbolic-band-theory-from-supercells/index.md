@@ -25,7 +25,7 @@ image:
   preview_only: false
   filename: featured.jpg
 summary: ""
-url_dataset: ""
+url_dataset: "https://doi.org/10.5281/zenodo.10142167"
 url_project: ""
 url_source: ""
 url_video: ""
