@@ -30,7 +30,7 @@ slides: null
 url_pdf: https://arxiv.org/pdf/2109.01148.pdf
 links:
 - name: press release
-  url: https://www.physik.uzh.ch/en/news/news/Hyperbolic-Space.html
+  url: https://www.physik.uzh.ch/en/news/News-2022/Hyperbolic-Space.html
 - name: in Posts
   url: https://www.tomasbzdusek.com/post/Hyperbolic-Space/
 image:
