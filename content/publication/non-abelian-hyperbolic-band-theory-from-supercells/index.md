@@ -26,7 +26,8 @@ image:
   filename: featured.jpg
 summary: ""
 url_dataset: "https://doi.org/10.5281/zenodo.10142167"
-url_HyperCells: "https://patrick-lenggenhager.github.io/HyperCells/"
+url_hyperCells: "https://patrick-lenggenhager.github.io/HyperCells/"
+url_hyperBloch: "https://github.com/patrick-lenggenhager/HyperBloch"
 url_project: ""
 url_source: ""
 url_video: ""
