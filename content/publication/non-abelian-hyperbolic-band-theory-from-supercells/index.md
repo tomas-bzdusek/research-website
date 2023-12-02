@@ -1,13 +1,13 @@
 ---
-title: Non-Abelian hyperbolic band theory from supercells
+title: Non-Abelian Hyperbolic Band Theory from Supercells
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Patrick M. Lenggenhager
   - Joseph Maciejko
   - Tomáš Bzdušek
-publication_short: arXiv:2305.04945 (2023)
-abstract: Tight-binding models on periodic lattices are commonly studied using Bloch band theory, which provides an efficient description of their energy spectra and wave functions. Besides Abelian Bloch states characterized by a momentum vector, the band theory of hyperbolic lattices involves non-Abelian Bloch states that have so far remained largely inaccessible to analytical treatments. Here, we systematically construct non-Abelian Bloch states by generalizing to hyperbolic lattices the familiar solid-state-physics notions of supercells and zone folding. By applying Abelian hyperbolic band theory to sequences of supercells, constructed recursively as symmetric aggregates of multiple smaller cells, we numerically compute the density of states of several elementary and topological tight-binding models and observe rapid convergence with increasing supercell size, for both gapless and gapped models. We propose our supercell method as a first step towards a complete band-theoretic characterization of hyperbolic lattices and an efficient means of approximating the thermodynamic limit. We make our algorithms publicly available in a software package to facilitate future studies of hyperbolic quantum matter.
+publication_short: Phys. Rev. Lett. 131, 226401 (2023)
+abstract: Wave functions on periodic lattices are commonly described by Bloch band theory. Besides Abelian Bloch states labeled by a momentum vector, hyperbolic lattices support non-Abelian Bloch states that have so far eluded analytical treatments. By adapting the solid-state-physics notions of supercells and zone folding, we devise a method for the systematic construction of non-Abelian Bloch states. The method applies Abelian band theory to sequences of supercells, recursively built as symmetric aggregates of smaller cells, and enables a rapidly convergent computation of bulk spectra and eigenstates for both gapless and gapped tight-binding models. Our supercell method provides an efficient means of approximating the thermodynamic limit and marks a pivotal step toward a complete band-theoretic characterization of hyperbolic lattices.
 draft: false
 featured: true
 tags:
@@ -30,12 +30,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2305.04945"
-publication: "arXiv:2305.04945 (2023)"
+doi: "10.1103/PhysRevLett.131.226401"
+publication: "Phys. Rev. Lett. <b>131</b>, 226401 (2023)"
 projects: []
 date: 2023-05-10
 url_slides: ""
-publishDate: 2023-05-10T00:00:00.000Z
+publishDate: 2023-12-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
