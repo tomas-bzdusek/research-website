@@ -19,6 +19,10 @@ tags:
 slides: null
 url_pdf: https://arxiv.org/pdf/2305.04945.pdf
 links:
+- name: HyperCells
+  url: https://patrick-lenggenhager.github.io/HyperCells/
+- name: HyperBloch
+  url: https://github.com/patrick-lenggenhager/HyperBloch
 image:
   caption: ""
   focal_point: smart
@@ -26,8 +30,6 @@ image:
   filename: featured.jpg
 summary: ""
 url_dataset: "https://doi.org/10.5281/zenodo.10142167"
-url_hyperCells: "https://patrick-lenggenhager.github.io/HyperCells/"
-url_hyperBloch: "https://github.com/patrick-lenggenhager/HyperBloch"
 url_project: ""
 url_source: ""
 url_video: ""
