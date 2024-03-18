@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Askar Iliasov
+title: Zoltán Guba
 # Is this the primary user of the site?
 superuser: false
 
@@ -49,16 +49,16 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:askar.iliasov@physik.uzh.ch'
+  link: 'mailto:zoltan.guba@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
- - icon: google-scholar
-   icon_pack: ai
-   link: https://scholar.google.com/citations?user=dm8MzHEAAAAJ&hl=en&oi=ao
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Askar-Iliasov
+  link: https://www.researchgate.net/scientific-contributions/Zoltan-Guba-2216000315
 # - icon: publons
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1838418/tomas-bzdusek/
@@ -94,16 +94,4 @@ highlight_name: false
 user_groups:
 - Doctoral Students
 ---
-
-<!--
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="2; url='https://patrick-lenggenhager.github.io/'" />
-  </head>
-  <body>
-    <p>Please follow <a href="https://patrick-lenggenhager.github.io/">this link</a>.</p>
-  </body>
-</html>
--->
 
