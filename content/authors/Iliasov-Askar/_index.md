@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zoltán Guba
+title: Askar Iliasov
 # Is this the primary user of the site?
 superuser: false
 
@@ -49,7 +49,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zoltan.guba@physik.uzh.ch'
+  link: 'mailto:askar.iliasov@physik.uzh.ch'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
