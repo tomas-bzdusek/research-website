@@ -22,7 +22,7 @@ content:
   - Undergrad Students
   - Administration
   - Visitors
-  - Postdoctoral Researchers
+  - Former Postdoctoral Researchers
   - Former Doctoral Students
   - Former Undergrad Students
   - Alumni
