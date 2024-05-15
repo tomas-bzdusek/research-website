@@ -1,7 +1,7 @@
 ---
 title: Hyperbolic non-Abelian semimetal
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Tarun Tummuru
   - Anffany Chen
@@ -9,7 +9,7 @@ authors:
   - Titus Neupert
   - Joseph Maciejko
   - Tomáš Bzdušek
-publication_short: arXiv:2307.09876 (2023)
+publication_short: Phys. Rev. Lett. 132, 206601 (2024)
 abstract: We extend the notion of topologically protected semi-metallic band crossings to hyperbolic lattices in negatively curved space. Due to their distinct translation group structure, such lattices support non-Abelian Bloch states which, unlike conventional Bloch states, acquire a matrix-valued Bloch factor under lattice translations. Combining diverse numerical and analytical approaches, we uncover a quartic scaling in the density of states at low energies, and illuminate a nodal manifold of codimension five in the reciprocal space. The nodal manifold is topologically protected by a non-zero second Chern number, reminiscent of the characterization of Weyl nodes by the first Chern number.
 draft: false
 featured: true
@@ -32,12 +32,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2307.09876"
-publication: "arXiv:2307.09876 (2023)"
+doi: "10.1103/PhysRevLett.132.206601"
+publication: "Phys. Rev. Lett. <b>132</b>, 206601 (2024)"
 projects: []
-date: 2023-07-21
+date: 2024-05-14
 url_slides: ""
-publishDate: 2023-07-21T00:00:00.000Z
+publishDate: 2024-05-14T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
