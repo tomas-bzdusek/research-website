@@ -1,5 +1,5 @@
 ---
-title: Hyperbolic non-Abelian semimetal
+title: Hyperbolic Non-Abelian Semimetal
 publication_types:
   - "2"
 authors:
