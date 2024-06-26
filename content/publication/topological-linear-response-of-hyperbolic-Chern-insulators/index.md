@@ -12,15 +12,15 @@ abstract: We establish a connection between the electromagnetic Hall response an
 draft: false
 featured: true
 tags:
-  - non-Hermitian
+  - hyperbolic-models
+  - hyperbolic-band-theory
   - topological-insulators
-  - band-theory
-  - Weyl-semimetals
+  - response-theory
 slides: null
-url_pdf: https://arxiv.org/pdf/2008.01090.pdf
+url_pdf: https://arxiv.org/pdf/2406.08388
 links:
-- name: press release
-  url: https://www.physik.uzh.ch/en/news/News-2021/Topological-Insulators.html
+- name: 
+  url: 
 image:
   caption: ""
   focal_point: smart
@@ -32,8 +32,8 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.1038/s41467-021-25947-z"
-publication: "Nat. Commun. <b>12</b>, 5681 (2021)"
+doi: "10.48550/arXiv.2406.08388"
+publication: "arXiv:2406.08388 (2024)w"
 projects: []
 date: 2034-06-12
 url_slides: ""
