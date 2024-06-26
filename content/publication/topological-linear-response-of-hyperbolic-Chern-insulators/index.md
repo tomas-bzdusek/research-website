@@ -1,7 +1,7 @@
 ---
 title: Topological linear response of hyperbolic Chern insulators
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Canon Sun
   - Anffany Chen
