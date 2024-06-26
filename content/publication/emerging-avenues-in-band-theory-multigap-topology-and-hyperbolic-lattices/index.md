@@ -1,5 +1,5 @@
 ---
-title: "Delicate topological insulators: a new world of phases between trivial and fragile"
+title: "Emerging avenues in band theory: multigap topology and hyperbolic lattices"
 publication_types:
   - "7"
 authors:
