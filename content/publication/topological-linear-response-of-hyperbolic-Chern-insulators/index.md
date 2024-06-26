@@ -19,8 +19,6 @@ tags:
 slides: null
 url_pdf: https://arxiv.org/pdf/2406.08388
 links:
-- name: 
-  url: 
 image:
   caption: ""
   focal_point: smart
