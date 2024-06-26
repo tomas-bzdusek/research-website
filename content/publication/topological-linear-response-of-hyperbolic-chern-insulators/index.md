@@ -8,7 +8,7 @@ authors:
   - Tomáš Bzdušek
   - Joseph Maciejko
 publication_short: arXiv:2406.08388 (2024)
-abstract: We establish a connection between the electromagnetic Hall response and band topological invariants in hyperbolic Chern insulators by deriving a hyperbolic analog of the Thouless-Kohmoto-Nightingale-den Nijs (TKNN) formula. By generalizing the Kubo formula to hyperbolic lattices, we show that the Hall conductivity is quantized to  is the first Chern number. Through a flux-threading argument, we provide an interpretation of the Chern number as a topological invariant in hyperbolic band theory. We demonstrate that, although it receives contributions from both Abelian and non-Abelian Bloch states, the Chern number can be calculated solely from Abelian states, resulting in a tremendous simplification of the topological band theory. Finally, we verify our results numerically by computing various Chern numbers in the hyperbolic Haldane model.
+abstract: We establish a connection between the electromagnetic Hall response and band topological invariants in hyperbolic Chern insulators by deriving a hyperbolic analog of the Thouless-Kohmoto-Nightingale-den Nijs (TKNN) formula. By generalizing the Kubo formula to hyperbolic lattices, we show that the Hall conductivity is quantized to $−e^2C_{ij}/h$, where $C_{ij}$ is the first Chern number. Through a flux-threading argument, we provide an interpretation of the Chern number as a topological invariant in hyperbolic band theory. We demonstrate that, although it receives contributions from both Abelian and non-Abelian Bloch states, the Chern number can be calculated solely from Abelian states, resulting in a tremendous simplification of the topological band theory. Finally, we verify our results numerically by computing various Chern numbers in the hyperbolic Haldane model.
 draft: false
 featured: true
 tags:
@@ -31,7 +31,7 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: "10.48550/arXiv.2406.08388"
-publication: "arXiv:2406.08388 (2024)w"
+publication: "arXiv:2406.08388 (2024)"
 projects: []
 date: 2024-06-12
 url_slides: ""
