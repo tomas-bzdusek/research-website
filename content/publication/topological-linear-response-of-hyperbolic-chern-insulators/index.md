@@ -17,7 +17,7 @@ tags:
   - topological-insulators
   - response-theory
 slides: null
-url_pdf: https://arxiv.org/pdf/2406.08388
+url_pdf: https://scipost.org/SciPostPhys.17.5.124/pdf
 links:
 image:
   caption: ""
@@ -30,7 +30,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2406.08388"
+doi: "10.21468/SciPostPhys.17.5.124"
 publication: "SciPost Phys. 17, 124 (2024)"
 projects: []
 date: 2024-11-04
