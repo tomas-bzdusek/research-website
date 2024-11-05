@@ -33,7 +33,7 @@ author_notes: ""
 doi: "10.48550/arXiv.2406.08388"
 publication: "SciPost Phys. 17, 124 (2024)"
 projects: []
-date: 2024-06-12
+date: 2024-11-04
 url_slides: ""
 publishDate: 2024-06-12T00:00:00.000Z
 url_poster: ""
