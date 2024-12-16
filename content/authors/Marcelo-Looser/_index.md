@@ -98,5 +98,5 @@ user_groups:
 - Undergrad Students
 ---
 
-Marcelo applies the supercell method to investigate diverse aspects of band theory and topology in hyperbolic lattices.
+Marcelo worked on applications of the supercell method to investigate diverse aspects of band theory and topology in hyperbolic lattices. His MSc thesis can be accessed at the UZH Physics Institute's website at <a href="https://www.physik.uzh.ch/dam/jcr:e419445c-ef5a-4aef-bef8-9507e6889d72/Looser_Marcelo_MA_2024.pdf">this link</a>. Marcelo made several contributions to the HyperCells and HyperBloch packages. Importantly, during his three-month internship with out group under the supervision of Dr.~Patrick Lenggenhager, which followed after his MSc thesis project, Marcelo arranged detailed tutorials on the usage of the two packages and designed a website that we made available <a href="https://www.hypercells.net/">here</a>.
 
