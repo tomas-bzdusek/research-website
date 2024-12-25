@@ -95,3 +95,4 @@ user_groups:
 - Postdoctoral Researchers
 ---
 
+Askar investigates a broad range of problems in condensed matter theory, including superconductivity, topological phases, and non-crystalline lattices.
