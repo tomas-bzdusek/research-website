@@ -18,7 +18,7 @@ header:
 <section>
   <h2>HyperCells</h2>
   <p>GAP package that aids in constructing primitive cells and supercells of hyperbolic lattices based on triangle groups and quotients with normal subgroups. For finite systems, this includes the construction of appropriate periodic boundary conditions, while for infinite systems, the corresponding primitive cell and successive supercells are constructed in order to apply the supercell method for hyperbolic band theory. Additionally, the package determines maximally-symmetric Wyckoff positions and simplifies dealing with translation and point group symmetries on the hyperbolic lattice. The package also allows the definition of the graph underlying a specific model, i.e., selecting specific Wyckoff positions, nearest or next-nearest neighbors etc. Check out the file format <a href="https://hypercells.github.io/HyperCells/doc/chap7_mj.html#X8091CEE880E799B4">definitions</a> and the entire <a href="https://hypercells.github.io/HyperCells/doc/chap0_mj.html">documentation</a>.</p> In addition, we have developed a dedicated <a href="https://www.hypercells.net/">website</a> that includes installation information as well as several detailed tutorials.
-  <img src="project_HyperbolicLattices.JPEG" width="600" max-width: 100%>
+  <img src="project_HyperbolicLattices.JPG" width="600" max-width: 100%>
 </section>
 <br>
 <br>
