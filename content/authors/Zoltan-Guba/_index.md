@@ -53,9 +53,9 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/tomasbzdusek
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=bhud5z0AAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ye3t9aEAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/scientific-contributions/Zoltan-Guba-2216000315
