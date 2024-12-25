@@ -71,9 +71,9 @@ social:
 # - icon: stackoverflow
 #   icon_pack: ai
 #   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/tomas-bzdusek
+- icon: github
+  icon_pack: fab
+  link: https://github.com/patrick-lenggenhager
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
