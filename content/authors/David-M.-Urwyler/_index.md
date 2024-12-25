@@ -77,9 +77,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tomas-bzdusek
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
+ - icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/david-michael-urwyler-4a3aba234/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
