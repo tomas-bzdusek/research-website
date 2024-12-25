@@ -13,15 +13,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tomas.bzdusek@uzh.ch
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/tomasbzdusek
+    link: https://x.com/uzh_topomat
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=cRgGh1oAAAAJ&hl=en
-  - icon: mastodon
+ # - icon: mastodon
+ #   icon_pack: fab
+ #   link: https://mastodon.social/@tomas_bzdusek
+  - icon: bluesky
     icon_pack: fab
-    link: https://mastodon.social/@tomas_bzdusek
+    link: https://bsky.app/profile/uzh-topomat.bsky.social
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Tomas-Bzdusek
