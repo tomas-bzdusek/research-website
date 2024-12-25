@@ -94,10 +94,10 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://physics.illinois.edu/people/directory/profile/xiaoqi20'" />
+    <meta http-equiv="refresh" content="2; url='https://www.mpq.mpg.de/person/130943/4571983'" />
   </head>
   <body>
-    <p>Please follow <a href="https://physics.illinois.edu/people/directory/profile/xiaoqi20">this link</a>.</p>
+    <p>Please follow <a href="https://www.mpq.mpg.de/person/130943/4571983">this link</a>.</p>
   </body>
 </html>
 
