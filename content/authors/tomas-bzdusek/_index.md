@@ -22,9 +22,9 @@ social:
  # - icon: mastodon
  #   icon_pack: fab
  #   link: https://mastodon.social/@tomas_bzdusek
-  - icon: fa-bluesky
-    icon_pack: fa-brands
-    link: https://bsky.app/profile/uzh-topomat.bsky.social
+ # - icon: fa-bluesky
+ #   icon_pack: fa-brands
+ #   link: https://bsky.app/profile/uzh-topomat.bsky.social
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Tomas-Bzdusek
