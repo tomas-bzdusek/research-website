@@ -98,5 +98,4 @@ user_groups:
 - Former Undergrad Students
 ---
 
-Aoxue investigates response theory of topological phases in hyperbolic lattices.
-
+Aoxue investigated response theory of topological insulators on hyperbolic lattices, focusing in particular on the model with non-vanishing second Chern number in the four-dimensional Abelian Brillouin zone. Aoxue defended her Master's thesis in August 2024.
