@@ -47,9 +47,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: researchgate
-#   icon_pack: ai
-#   link: https://www.researchgate.net/profile/David-Urwyler
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Marcelo-Looser
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:davidmichael.urwyler@uzh.ch@physik.uzh.ch'
