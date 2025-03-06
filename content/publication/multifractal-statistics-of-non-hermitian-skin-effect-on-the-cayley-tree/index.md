@@ -31,7 +31,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2408.11024"
+doi: "10.1103/PhysRevB.111.075162"
 publication: "Phys. Rev. B <b>111</b>, 075162 (2025)"
 projects: []
 date: 2025-02-26
