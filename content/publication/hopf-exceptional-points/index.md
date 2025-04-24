@@ -11,12 +11,12 @@ abstract: Exceptional points at which eigenvalues and eigenvectors of non-Hermit
 draft: false
 featured: true
 tags:
-  - hyperbolic-models
-  - hyperbolic-band-theory
-  - correlated-matter
-  - spin-liquids
+  - non-Hermitian
+  - exceptional-points
+  - Hopf-topology
+  - band-theory
 slides: null
-url_pdf: https://arxiv.org/pdf/2407.09601
+url_pdf: https://arxiv.org/pdf/2504.13012
 links:
 image:
   caption: ""
@@ -32,7 +32,7 @@ author_notes: ""
 doi: "10.48550/arXiv.2504.13012"
 publication: "arXiv:2504.13012 (2025)"
 projects: []
-date: 2024-06-12
+date: 2025-04-18
 url_slides: ""
 publishDate: 2025-04-18T00:00:00.000Z
 url_poster: ""
