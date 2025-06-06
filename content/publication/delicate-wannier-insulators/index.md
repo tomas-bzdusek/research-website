@@ -1,4 +1,3 @@
-
 ---
 title: Delicate Wannier Insulators
 publication_types:
