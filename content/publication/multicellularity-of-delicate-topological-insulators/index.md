@@ -7,7 +7,7 @@ authors:
   - Aleksandra Nelson
   - Titus Neupert
   - Tomáš Bzdušek
-  - A. Alexandradinata
+  - Aris Alexandradinata
 publication_short: Phys. Rev. Lett. 126, 216404 (2021)
 abstract: Being Wannierizable is not the end of the story for topological insulators. We introduce a family of topological insulators that would be considered trivial in the paradigm set by the tenfold way, topological quantum chemistry, and the method of symmetry-based indicators. Despite having a symmetric, exponentially localized Wannier representation, each Wannier function cannot be completely localized to a single primitive unit cell in the bulk. Such multicellular topology is shown to be neither stable nor fragile, but delicate; i.e., the topology can be nullified by adding trivial bands to either valence or conduction band.
 draft: false
