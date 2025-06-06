@@ -51,7 +51,7 @@ social:
 #  link: https://twitter.com/tomasbzdusek
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=s8fA4GQAAAAJ
+  link: https://scholar.google.com/citations?user=vU_OXS4AAAAJ
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Patrick-Lenggenhager
