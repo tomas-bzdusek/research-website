@@ -33,7 +33,7 @@ author_notes: ""
 doi: "10.1103/s25y-s4fj"
 publication: "Phys. Rev. Lett. <b>135</b>, 076604 (2025)"
 projects: []
-date: 2024-06-12
+date: 2025-08-15
 url_slides: ""
 publishDate: 2025-08-15T00:00:00.000Z
 url_poster: ""
