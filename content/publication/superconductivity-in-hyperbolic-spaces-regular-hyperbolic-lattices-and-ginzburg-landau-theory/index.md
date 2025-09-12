@@ -1,5 +1,5 @@
 ---
-title: Superconductivity in hyperbolic spaces: Regular hyperbolic lattices and Ginzburg-Landau theory
+title: "Superconductivity in hyperbolic spaces: Regular hyperbolic lattices and Ginzburg-Landau theory"
 publication_types:
   - "3"
 authors:
