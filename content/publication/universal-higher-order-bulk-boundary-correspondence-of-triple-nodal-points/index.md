@@ -37,6 +37,7 @@ tags:
   - topological-semimetals
   - higher-order topology
   - triple-nodal-points
+  - projective-representations
 slides: null
 url_pdf: https://arxiv.org/pdf/2104.11254.pdf
 image:
