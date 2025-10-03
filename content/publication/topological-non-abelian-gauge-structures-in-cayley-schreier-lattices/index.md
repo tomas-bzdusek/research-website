@@ -14,7 +14,7 @@ featured: true
 tags:
   - cayley-schreier-lattices
   - band-theory
-  - Ggauge-theory
+  - gauge-theory
   - non-abelian-topology
   - space-group-symmetry
   - projective-representations
