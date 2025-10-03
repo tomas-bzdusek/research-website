@@ -12,10 +12,10 @@ abstract: Recently, novel crystalline constructions known as Cayley-Schreier lat
 draft: false
 featured: true
 tags:
-  - Cayley-Schreier-lattices
+  - cayley-schreier-lattices
   - band-theory
-  - Gauge-theory
-  - non-Abelian-braiding
+  - Ggauge-theory
+  - non-abelian-topology
   - space-group-symmetry
   - projective-representations
 slides: null
