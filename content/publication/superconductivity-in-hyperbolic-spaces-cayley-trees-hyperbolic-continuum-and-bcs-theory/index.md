@@ -30,12 +30,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2509.25316"
-publication: "arXiv:2509.25316 (2025)"
+doi: "10.48550/arXiv.2510.26528"
+publication: "arXiv:2510.26528 (2025)"
 projects: []
-date: 2025-09-29
+date: 2025-10-30
 url_slides: ""
-publishDate: 2025-09-29T00:00:00.000Z
+publishDate: 2025-10-30T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
