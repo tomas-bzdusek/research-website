@@ -11,14 +11,13 @@ abstract: "We investigate $s$-wave superconductivity in negatively curved geomet
 draft: false
 featured: true
 tags:
-  - cayley-schreier-lattices
-  - band-theory
-  - gauge-theory
-  - non-abelian-topology
-  - space-group-symmetry
-  - projective-representations
+  - hyperbolic-lattices
+  - superconductivity
+  - Hubbard-model
+  - Ginzburg-Landau
+  - BCS-theory
 slides: null
-url_pdf: https://arxiv.org/pdf/2506.05179
+url_pdf: https://arxiv.org/pdf/2510.26528
 links:
 image:
   caption: ""
