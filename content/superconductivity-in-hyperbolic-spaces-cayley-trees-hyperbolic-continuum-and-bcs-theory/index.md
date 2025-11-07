@@ -1,5 +1,5 @@
 ---
-title: Superconductivity in hyperbolic spaces: Cayley trees, hyperbolic continuum, and BCS theory
+title: "Superconductivity in hyperbolic spaces: Cayley trees, hyperbolic continuum, and BCS theory"
 publication_types:
   - "3"
 authors:
