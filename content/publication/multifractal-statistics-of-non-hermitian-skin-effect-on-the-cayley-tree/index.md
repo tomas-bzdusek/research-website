@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Shu Hamanaka
-  - Askar A. Iliasov
+  - Askar Iliasov
   - Titus Neupert
   - Tomáš Bzdušek
   - Tsuneya Yoshida
