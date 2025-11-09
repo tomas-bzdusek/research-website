@@ -1,5 +1,5 @@
 ---
-title: "Hyperbolic Topological Insulators"
+title: "Supercell-based characterization of hyperbolic tight-binding models"
 publication_types:
   - "7"
 authors:
