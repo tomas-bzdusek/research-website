@@ -38,8 +38,9 @@ tags:
   - hyperbolic-band-theory
   - flat-bands
   - topological-insulators
+  - non-Hermitian
 slides: null
-url_pdf: https://www.researchgate.net/profile/David-Urwyler/publication/359057010_Hyperbolic_Topological_Insulators/links/6225eac384ce8e5b4d0de57b/Hyperbolic-Topological-Insulators.pdf?_sg%5B0%5D=4baObVBFm10w36aAoI7bOOmse-XfuQui5cZrJsS7SyzqtgoEuvQBWHOHAp-geCh2J8agleMz0Gnpl1lkir7bCQ.adC2pnNbBLkYcBItq0ReV0uODkzIao5KfbecJV_eCrR-cGi2IqHQ47YeN0h4eRgD1OSTLiZpdR93zx2Ob-R91g&_sg%5B1%5D=xsCDzCMw91jOKvFiDwyHtugURuzyG43fu-VF2AXZ-lc11God-Q-IGn5xxQJIneLUQWTOk_hLoHqCotSSce7EkvMCM_IptQF1kV4KGLR0y4Py.adC2pnNbBLkYcBItq0ReV0uODkzIao5KfbecJV_eCrR-cGi2IqHQ47YeN0h4eRgD1OSTLiZpdR93zx2Ob-R91g&_iepl=
+url_pdf: https://www.researchgate.net/profile/Marcelo-Looser/publication/391921833_Supercell-based_characterization_of_hyperbolic_tight-binding_models/links/6843f652df0e3f544f5d7c97/Supercell-based-characterization-of-hyperbolic-tight-binding-models.pdf?origin=publicationDetail&_sg%5B0%5D=GySdCSJYzKkoXSR0MGERsbT2vzPR1yovyKD2sX_Q4ZWi9aN-sFDLUSQiNkgEwHyJDr0a-yBMgxGspGuoKfIyUQ.d-_ZclQoUon1hcjKskjvmiLX8kOfGcAcouRoP6SmEsvmcBlXIPOWMZj4pJ1_Pesm5tsJ_N6FGx9s1ZErZdzPAA&_sg%5B1%5D=z4FMHYWAzHtDYZr4U9PqdVIL437d8tfZHh0TZ8mVt3czVO2nJ0znMHPSImglG-HTb7Ar3d4K1t7_wENsME5wjhxGWM20N84x_IqP8NKZ68gP.d-_ZclQoUon1hcjKskjvmiLX8kOfGcAcouRoP6SmEsvmcBlXIPOWMZj4pJ1_Pesm5tsJ_N6FGx9s1ZErZdzPAA&_sg%5B2%5D=P5CBQH2D1_LhcNowlg4lG65gnVU_oUCPCVu0U7jzDA90m689yFxILdaFuU5QwaAO4EasGx4CwefqfAo.ZohWsjaMnocbLusmU9I485AMvnt4O01ADeAXmnyPqgepKMAMN4oxVNfMmlKb6zuEsdNQyKQURl9p_cAjiCxgug&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19
 image:
   caption: ""
   focal_point: smart
@@ -51,12 +52,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.13140/RG.2.2.34715.34081"
-publication: "Master’s thesis, University of Zurich, Switzerland (2021)"
+doi: "10.13140/RG.2.2.34780.30083"
+publication: "Master’s thesis, University of Zurich, Switzerland (2024)"
 projects: []
-date: 2021-11-11
+date: 2024-05-27
 url_slides: ""
-publishDate: 2021-11-11T00:00:00.000Z
+publishDate: 2024-05-27T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
