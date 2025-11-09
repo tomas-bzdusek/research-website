@@ -15,7 +15,7 @@ abstract: >-
   Previous studies have used Abelian hyperbolic band theory (AHBT) on the primitive cell which do in general not capture the
   thermodynamic limit. Alternatively, they have used brute force exact digitalization, which is
   computationally costly. Therefore, these circumstances motivate the application of approximative
-  methods.
+  methods.<br><br>
 
   P. M. Lenggenhager et al. have very recently developed a method that
   computationally outperforms the previous approaches. Through the application of the supercell
@@ -24,7 +24,7 @@ abstract: >-
   to a appropriately constructed sequence of supercells, assembled as increasingly large aggregates
   of the primitive cells to supercells, and showcased the convergence of this method by selected
   hyperbolic tight-binding models. In conjunction, P. M. Lenggenhager has implemented the supercell
-  method within a Mathematica and GAP package.
+  method within a Mathematica and GAP package.<br><br>
 
   As such, the main objective of this thesis is the study of diverse aspects of topology and band
   theory in hyperbolic lattices accessed through the use of the supercell method. We aim to explore
