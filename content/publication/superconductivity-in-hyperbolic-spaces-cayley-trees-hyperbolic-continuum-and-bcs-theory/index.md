@@ -1,3 +1,4 @@
+math: true
 ---
 title: "Superconductivity in hyperbolic spaces: Cayley trees, hyperbolic continuum, and BCS theory"
 publication_types:
