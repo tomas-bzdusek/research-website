@@ -52,7 +52,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.13140/RG.2.2.34780.30083"
+doi: ""
 publication: "Master’s thesis, University of Zurich, Switzerland (2024)"
 projects: []
 date: 2024-05-27
