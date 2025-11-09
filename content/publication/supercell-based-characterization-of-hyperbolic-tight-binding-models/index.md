@@ -20,7 +20,7 @@ abstract: >-
   P. M. Lenggenhager et al. have very recently developed a method that
   computationally outperforms the previous approaches. Through the application of the supercell
   method they were able to access non-Abelian Bloch states by considering one-dimensional
-  irreducible representations of reduced translation groups. Specically, they suggested to apply AHBT
+  irreducible representations of reduced translation groups. Specifically, they suggested to apply AHBT
   to a appropriately constructed sequence of supercells, assembled as increasingly large aggregates
   of the primitive cells to supercells, and showcased the convergence of this method by selected
   hyperbolic tight-binding models. In conjunction, P. M. Lenggenhager has implemented the supercell
@@ -29,7 +29,7 @@ abstract: >-
   As such, the main objective of this thesis is the study of diverse aspects of topology and band
   theory in hyperbolic lattices accessed through the use of the supercell method. We aim to explore
   and broaden some of the recent studies in these systems such as higher-order topological phases,
-  anomalous quantum Hall eects, flat bands in realizations of Lieb lattices, and
+  anomalous quantum Hall effects, flat bands in realizations of Lieb lattices, and
   non-Hermiticity driven topological phenomena.
 draft: false
 featured: true
