@@ -1,5 +1,5 @@
 ---
-title: "Superconductivity in hyperbolic spaces: Cayley trees, hyperbolic continuum, and BCS theory"
+title: "Topological states and flat bands in exactly solvable decorated Cayley trees"
 publication_types:
   - "3"
 authors:
