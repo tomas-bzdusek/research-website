@@ -1,5 +1,5 @@
 ---
-title: From quantum geometry to non-linear optics and gerbes: Recent advances in topological band theory
+title: "From quantum geometry to non-linear optics and gerbes: Recent advances in topological band theory"
 publication_types:
   - "3"
 authors:
