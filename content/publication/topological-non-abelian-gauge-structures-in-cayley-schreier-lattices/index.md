@@ -19,7 +19,7 @@ tags:
   - space-group-symmetry
   - projective-representations
 slides: null
-url_pdf: https://arxiv.org/pdf/2506.05179
+url_pdf: https://arxiv.org/pdf/2509.25316
 links:
 image:
   caption: ""
