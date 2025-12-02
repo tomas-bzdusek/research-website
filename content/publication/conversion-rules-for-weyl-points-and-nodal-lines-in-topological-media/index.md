@@ -25,11 +25,11 @@ authors:
   - Shou-Cheng Zhang
   - Tomáš Bzdušek
 author_notes: []
-publication: "Phys. Rev. Lett. <b>121</b>, 196402 (2018)"
+publication: "Phys. Rev. Lett. <b>121</b>, 106402 (2018)"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Phys. Rev. Lett. 121, 196402 (2018)
+publication_short: Phys. Rev. Lett. 121, 106402 (2018)
 url_source: ""
 url_video: ""
 title: Conversion rules for Weyl points and nodal lines in topological media
