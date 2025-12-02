@@ -28,7 +28,6 @@ publication_types:
   - "2"
 authors:
   - Tomáš Bzdušek
-  - Andreas Rüegg
   - Manfred Sigrist
 author_notes: []
 publication: "Phys. Rev. B <b>96</b>, 155105 (2017)"
