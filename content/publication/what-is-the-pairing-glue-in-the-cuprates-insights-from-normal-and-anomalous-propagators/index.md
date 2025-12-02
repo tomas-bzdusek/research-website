@@ -31,7 +31,7 @@ url_project: ""
 publication_short: "Phil. Mag. 95, 609-621 (2015)"
 url_source: ""
 url_video: ""
-date: 2014-11-18
+date: 2015-01-01
 url_slides: ""
 links:
   - name: Master thesis
