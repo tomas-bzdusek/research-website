@@ -32,7 +32,7 @@ author_notes: ""
 doi: "10.21468/SciPostPhys.20.1.001"
 publication: "SciPost <b>20</b>, 1 (2026)"
 projects: []
-date: 2025-04-18
+date: 2026-01-07
 url_slides: ""
 publishDate: 2026-01-07T00:00:00.000Z
 url_poster: ""
