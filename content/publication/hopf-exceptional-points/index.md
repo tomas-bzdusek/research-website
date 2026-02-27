@@ -1,7 +1,7 @@
 ---
 title: Hopf Exceptional Points
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Tsuneya Yoshida
   - Emil J. Bergholtz
