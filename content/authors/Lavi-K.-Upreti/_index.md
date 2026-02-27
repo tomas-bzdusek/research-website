@@ -93,7 +93,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
+- Research Fellow
 ---
 
 Lavi investigates topological phenomena and transport features on non-Abelian Cayley crystals.
