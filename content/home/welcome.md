@@ -19,7 +19,6 @@ I am Tomáš Bzdušek, currently a professor leading the group [Theory of Topolo
 You can read more about my research in my [profile](https://www.tomasbzdusek.com/author/tomas-bzdusek/). 
 On these pages, which have until the year 2023 served as my personal website, I have collected the research work of myself (and, as of 2023, also of my students and postdocs). 
 In the "miscellaneous" tab I have collected various further documents, including recorded talks, code, and my theses.<br><br>
-
 Note that this page is outdated. For current updates you should follow our [group's website](https://www.physik.uzh.ch/en/groups/bzdusek.html). 
 
 <!--
