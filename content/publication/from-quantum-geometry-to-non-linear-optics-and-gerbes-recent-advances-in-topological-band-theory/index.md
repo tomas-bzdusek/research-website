@@ -1,12 +1,12 @@
 ---
 title: "From quantum geometry to non-linear optics and gerbes: Recent advances in topological band theory"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Tomáš Bzdušek
-publication_short: arXiv:2511.20608 (2025)
+publication_short: Phys. Rev. B 113, 099601 (2026)
 abstract: >
-  Topological principles constitute at present an integral component of condensed matter physics, permeating the modern characterization of electronic states while also guiding materials design. In this brief Perspective, I highlight three research threads in single-particle topological band theory that have recently gained momentum: (i) the rise of the quantum geometric tensor, whose components can at present be directly accessed with optical probes; (ii) the notions of delicate and multigap topology, which fall outside the scope of tenfold way and symmetry-based indicators yet leave robust physical fingerprints; and (iii) the consideration of bundle gerbes, which capture formerly overlooked higher-form topological aspects of energy bands. These distinct directions have been elegantly woven together: delicate and multigap topological insulators have peculiar features in quantum geometry that can be conveniently captured by bundle gerbes. This viewpoint exposes the recently identified quantization of a non-linear optical response and provides outlooks for its realization in crystalline solids.
+Topological principles constitute at present an integral component of condensed matter physics, permeating the modern characterization of electronic states while also guiding materials design. In this brief Perspective, I highlight three research threads in single-particle topological band theory that have recently gained momentum: (i) the rise of the quantum geometric tensor, whose components can at present be directly accessed with optical probes; (ii) the notions of delicate and multigap topology, which fall outside the scope of tenfold way and symmetry-based indicators yet leave robust physical fingerprints; and (iii) the consideration of bundle gerbes, which capture formerly overlooked higher-form topological aspects of energy bands. These distinct directions have been elegantly woven together: delicate and multigap topological insulators have peculiar features in quantum geometry that can be conveniently captured by bundle gerbes. This viewpoint exposes the recently identified quantization of a nonlinear optical response, and it invites deeper and systematic investigations into geometric and topological aspects of band structures beyond conventional Berryology.
 draft: false
 featured: true
 tags:
@@ -31,12 +31,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2511.20608"
-publication: "arXiv:2511.20608 (2025)"
+doi: "10.1103/9p92-qt26"
+publication: "Phys. Rev. B <b>113</b>, 099601 (2026)"
 projects: []
-date: 2025-11-26
+date: 2026-03-20
 url_slides: ""
-publishDate: 2025-11-26T00:00:00.000Z
+publishDate: 2026-03-20T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
