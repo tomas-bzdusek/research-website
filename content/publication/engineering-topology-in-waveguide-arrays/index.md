@@ -1,5 +1,5 @@
 ---
-title: "Superconductivity in hyperbolic spaces: Regular hyperbolic lattices and Ginzburg-Landau theory"
+title: "Engineering topology in waveguide arrays"
 publication_types:
   - "3"
 authors:
@@ -30,7 +30,7 @@ author_notes: ""
 doi: "10.48550/arXiv.2603.01769"
 publication: "arXiv:2603.01769 (2026)"
 projects: []
-date: 2025-09-12
+date: 2026-03-02
 url_slides: ""
 publishDate: 2025-03-02T00:00:00.000Z
 url_poster: ""
