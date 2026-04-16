@@ -95,5 +95,13 @@ highlight_name: false
 user_groups:
 - Research Fellows
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="2; url='https://laviupreti.github.io/'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://laviupreti.github.io/">this link</a>.</p>
+  </body>
+</html>
 
-Lavi investigates topological phenomena and transport features on non-Abelian Cayley crystals.
