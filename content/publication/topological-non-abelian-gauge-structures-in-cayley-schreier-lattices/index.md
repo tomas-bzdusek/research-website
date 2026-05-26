@@ -1,5 +1,5 @@
 ---
-title: Topological non-Abelian Gauge Structures in Cayley-Schreier Lattices
+title: Topological non-Abelian gauge structures in Cayley-Schreier lattices
 publication_types:
   - "2"
 authors:
