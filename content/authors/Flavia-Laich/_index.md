@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wanda P. Duss
+title: Flavia Laich
 # Is this the primary user of the site?
 superuser: false
 
@@ -95,7 +95,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergrad Students
+- Undergrad Students
 ---
 
 In her MSc thesis project, Flavia investigates higher-form topology of multi-gap topological insulators.
