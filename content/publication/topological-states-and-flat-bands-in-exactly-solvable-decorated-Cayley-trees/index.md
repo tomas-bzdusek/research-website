@@ -26,17 +26,17 @@ image:
   preview_only: false
   filename: featured.jpg
 summary: ""
-url_dataset: ""
+url_dataset: "https://zenodo.org/records/20086335"
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2511.11261"
-publication: "arXiv:2511.11261 (2025)"
+doi: "10.1103/t8gg-xqls"
+publication: "Phys. Rev. Res. <b>8</b>, 033036 (2026)"
 projects: []
-date: 2025-11-17
+date: 2026-07-10
 url_slides: ""
-publishDate: 2025-11-17T00:00:00.000Z
+publishDate: 2026-07-10T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
