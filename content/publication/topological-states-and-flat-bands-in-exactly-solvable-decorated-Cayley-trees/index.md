@@ -26,7 +26,7 @@ image:
   preview_only: false
   filename: featured.jpg
 summary: ""
-url_dataset: "https://zenodo.org/records/20086335"
+url_dataset: "https://doi.org/10.5281/zenodo.20086335"
 url_project: ""
 url_source: ""
 url_video: ""
