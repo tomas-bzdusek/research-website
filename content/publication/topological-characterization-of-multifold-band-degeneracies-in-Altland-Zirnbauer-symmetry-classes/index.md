@@ -13,10 +13,11 @@ abstract: Topological band degeneracies are conventionally characterized by inva
 draft: false
 featured: true
 tags:
-  - topological-insulators
-  - delicate-topology
   - band-theory
-  - Wannier-topology
+  - topological-semimetals
+  - triple-nodal-points
+  - multifold-band-nodes
+  - linking-invariants
 slides: null
 url_pdf: https://arxiv.org/pdf/2607.13016
 links:
@@ -34,7 +35,7 @@ author_notes: ""
 doi: "10.48550/arXiv.2607.13016"
 publication: "arXiv:2607.13016 (2026)"
 projects: []
-date: 2025-07-15
+date: 2026-07-15
 url_slides: ""
 publishDate: 2026-07-156T00:00:00.000Z
 url_poster: ""
