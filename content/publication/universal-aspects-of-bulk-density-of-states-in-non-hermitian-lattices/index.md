@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Mykhailo Pavliuk
   - Askar Iliasov
-  - Emil Bergholtz
+  - Emil J. Bergholtz
   - Tomáš Bzdušek
 publication_short: arXiv:2608.14508 (2026)
 abstract: >-
