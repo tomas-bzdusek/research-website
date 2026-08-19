@@ -13,11 +13,11 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - band-theory
-  - topological-semimetals
-  - triple-nodal-points
-  - multifold-band-nodes
-  - linking-invariants
+  - non-Hermitian
+  - skin-effect
+  - point-gap-topology
+  - density-of-states
+  - Brown-measure
 slides: null
 url_pdf: https://arxiv.org/pdf/2608.14508
 links:
