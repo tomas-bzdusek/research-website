@@ -37,7 +37,7 @@ publication: "arXiv:2607.13016 (2026)"
 projects: []
 date: 2026-07-15
 url_slides: ""
-publishDate: 2026-07-156T00:00:00.000Z
+publishDate: 2026-07-15T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
