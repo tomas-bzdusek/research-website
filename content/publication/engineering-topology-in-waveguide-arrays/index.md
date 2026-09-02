@@ -1,7 +1,7 @@
 ---
 title: "Engineering symmetry-protected topological states in waveguide arrays"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Lavi K. Upreti
 publication_short: Phys. Rev. B 114, 105129 (2026)
