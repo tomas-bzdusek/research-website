@@ -27,12 +27,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2603.01769"
+doi: "10.1103/4f1t-pj5t"
 publication: "Phys. Rev. B <b>114</b>, 105129 (2026)"
 projects: []
-date: 2026-03-02
+date: 2026-08-19
 url_slides: ""
-publishDate: 2025-03-02T00:00:00.000Z
+publishDate: 2026-08-19T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
