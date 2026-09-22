@@ -95,7 +95,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergrad Students
+- Former MSc Students
 ---
 
 In her MSc thesis project, Wanda investigated toy models of topological band insulators on Cayley trees.
