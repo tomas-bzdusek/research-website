@@ -98,4 +98,4 @@ user_groups:
 - Former MSc Students
 ---
 
-In her MSc thesis project, Wanda investigated toy models of topological band insulators on Cayley trees.
+In her MSc thesis project, Wanda investigated toy models of topological band insulators on Cayley trees. A research manuscript covering Wanda's results was published in the journal <a href="https://doi.org/10.1103/t8gg-xqls" target="_blank">Physical Review Research</a>.
