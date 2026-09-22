@@ -98,4 +98,4 @@ user_groups:
 - MSc Students
 ---
 
-In her MSc thesis project, Flavia investigates higher-form topology of multi-gap topological insulators.
+In her MSc thesis project, Shaip investigates higher-form topology of delicate and multi-gap topological insulators with spinless PT-symmetry.
