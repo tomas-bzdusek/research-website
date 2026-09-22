@@ -95,7 +95,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergrad Students
+- Former MSc Students
 ---
 
 Aoxue investigated response theory of topological insulators on hyperbolic lattices, focusing in particular on the model with non-vanishing second Chern number in the four-dimensional Abelian Brillouin zone. Aoxue defended her Master's thesis in August 2024.
