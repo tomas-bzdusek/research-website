@@ -20,13 +20,13 @@ content:
   - Research Fellows
   - Postdoctoral Researchers
   - Doctoral Students
-  - Undergrad Students
-  - Administration
-  - Visitors
+  - MSc Students
+  - BSc Students
+  - Former Research Fellows
   - Former Postdoctoral Researchers
   - Former Doctoral Students
-  - Former Undergrad Students
-  - Alumni
+  - Former MSc Students
+  - Former BSc Students
 design:
   show_interests: false
   show_role: true
