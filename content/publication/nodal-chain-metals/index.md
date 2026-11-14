@@ -10,8 +10,8 @@ authors:
   - Alexey A. Soluyanov
 author_notes: []
 doi: 10.1038/nature19099
-publication: Nature <b>538</b>, 75—78 (2016)
-publication_short: Nature 538, 75—78 (2016)
+publication: Nature <b>538</b>, 75–78 (2016)
+publication_short: Nature 538, 75–78 (2016)
 abstract: The band theory of solids is arguably the most successful theory of
   condensed-matter physics, providing a description of the electronic energy
   levels in various materials. Electronic wavefunctions obtained from the band
