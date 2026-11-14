@@ -33,7 +33,7 @@ url_project: ""
 publication_short: Phys. Rev. Lett. 121, 196401 (2018)
 url_source: ""
 url_video: ""
-title: Three-dimensional chiral lattice fermion in Floquet systems
+title: Three-Dimensional Chiral Lattice Fermion in Floquet Systems
 doi: 10.1103/PhysRevLett.121.196401
 featured: false
 tags:
