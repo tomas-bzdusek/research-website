@@ -46,6 +46,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tom%C3%A1%C5%A1-bzdu%C5%A1ek-0005794b/
+  - icon: university
+    icon_pack: fas
+    link: https://www.physik.uzh.ch/en/groups/bzdusek/team/bzdusek.html
     
 organizations:
   - name: University of Zurich
