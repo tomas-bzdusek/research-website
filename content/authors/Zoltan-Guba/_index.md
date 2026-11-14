@@ -65,9 +65,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6130-1064
-# - icon: arxiv
-#   icon_pack: ai
-#   link: https://arxiv.org/a/lenggenhager_p_1.html
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/guba_z_1.html
 # - icon: stackoverflow
 #   icon_pack: ai
 #   link: https://meta.stackoverflow.com/users/1835790/tomas-bzdusek
