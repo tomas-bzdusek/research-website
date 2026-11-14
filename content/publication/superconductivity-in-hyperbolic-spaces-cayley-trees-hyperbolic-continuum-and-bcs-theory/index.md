@@ -1,12 +1,12 @@
 ---
 title: "Superconductivity in hyperbolic spaces: Cayley trees, hyperbolic continuum, and BCS theory"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Mykhailo Pavliuk
   - Tomáš Bzdušek
   - Askar Iliasov
-publication_short: "arXiv:2510.26528 (2025)"
+publication_short: "Phys. Rev. B 114, 254511 (2026)"
 abstract: >-
   We investigate $s$-wave superconductivity in negatively curved geometries,
   focusing on Cayley trees and the hyperbolic plane. Using a self-consistent
@@ -50,12 +50,12 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: ""
-doi: "10.48550/arXiv.2510.26528"
-publication: "arXiv:2510.26528 (2025)"
+doi: "10.1103/9m8q-6tyk"
+publication: "Phys. Rev. B <b>114</b>, 254511 (2026)"
 projects: []
-date: 2025-10-30
+date: 2026-11-13
 url_slides: ""
-publishDate: 2025-10-30T00:00:00.000Z
+publishDate: 2025-11-13T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
