@@ -28,14 +28,14 @@ authors:
   - Oleg V. Yazyev
   - Tomáš Bzdušek
 author_notes: []
-publication: "Nat. Phys. <b>16</b>, 1137—1143 (2020)"
+publication: "Nat. Phys. <b>16</b>, 1137–1143 (2020)"
 links:
   - name: press release
     url: https://nccr-marvel.ch/highlights/2020-07BraidingWeyl
 summary: ""
 url_dataset: "https://doi.org/10.24435/materialscloud:vb-mk"
 url_project: ""
-publication_short: Nat. Phys. 16, 1137—1143 (2020)
+publication_short: Nat. Phys. 16, 1137–1143 (2020)
 url_source: ""
 url_video: ""
 title: Non-Abelian reciprocal braiding of Weyl points and its manifestation in ZrTe
