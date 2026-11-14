@@ -1,5 +1,5 @@
 ---
-title: Delicate Wannier Insulators
+title: Delicate Wannier insulators
 publication_types:
   - "3"
 authors:
