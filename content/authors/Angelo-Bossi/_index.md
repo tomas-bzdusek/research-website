@@ -98,4 +98,4 @@ user_groups:
 - BSc Students
 ---
 
-In his BSc thesis project, Angelo investigates formation of flat energy bands in Cayley-Schreier lattices. 
+In his BSc thesis project, Angelo investigates the formation of flat energy bands in Cayley-Schreier lattices. 
