@@ -4,7 +4,7 @@ publication_types:
   - "7"
 authors:
   - Patrick M. Lenggenhager
-publication_short: "Ph.D. thesis, ETH Zurich, Switzerland (2022)"
+publication_short: "Ph.D. thesis, ETH Zurich, Switzerland (2023)"
 abstract: "One of the cornerstones of condensed matter physics, the description of wave functions on periodic lattices in terms of energy bands of Bloch states, serves as the unifying thread in this thesis. This description is often referred to as band theory. Within its context, topological states of matter and metamaterials have taken shape as key frontiers in recent years. Related to those frontiers, this thesis delves into seemingly distinct areas: multigap topology and lattices in negatively curved space, known as hyperbolic lattices. While these two themes may appear disconnected at first, they are intrinsically tied together by concepts such as symmetry, topology, metamaterials, and the ubiquitous role of band theory.<br><br>
 
 The first half of the thesis explores the implications of a multigap perspective on the topology of triple points, an instance of triply-degenerate nodal points. With the intention to shed light on unexplored connections between different manifestations of topology and material realizations of multigap topology, we study triple points in great detail. Employing minimal models, we derive a complete symmetry classification of triple points in spinless systems, predicting the presence and absence of specific additional degeneracies manifested as nodal lines. We further elucidate the role of multigap topology in the evolution of triple points into multiband nodal links. Furthermore, our analysis extends to the characterization of pairs of triple points formed by two triplets of bands from a total of four bands, which generically result in semimetallic band structures. We prove that such triple-point pairs generally exhibit signatures of higher-order topology, and, in the appropriate symmetry setting, are associated with nontrivial second Stiefel-Whitney and Euler monopole charges. With a careful analysis of tight-binding models and first-principle calculations on material candidates, we provide valuable insights into how these nodal structures and their topology manifest in realistic systems.<br><br>
@@ -36,7 +36,7 @@ url_source: ""
 url_video: ""
 author_notes: ""
 doi: ""
-publication: "Ph.D. thesis, ETH Zurich, Switzerland (2022)"
+publication: "Ph.D. thesis, ETH Zurich, Switzerland (2023)"
 projects: []
 date: 2023-12-07
 url_slides: ""
