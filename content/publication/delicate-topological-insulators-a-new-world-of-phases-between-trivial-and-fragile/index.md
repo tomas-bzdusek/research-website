@@ -60,7 +60,7 @@ links:
 - name: Library
   url: "https://uzb.swisscovery.slsp.ch/discovery/fulldisplay?context=L&vid=41SLSP_UZB:UZB&search_scope=DiscoveryNetwork&tab=41SLSP_UZB_DN&docid=alma99117345881605508"
 slides: null
-url_pdf: "http://www.alexandradinata.info/documents/thesis_nelson.pdf"
+url_pdf: "https://ncatlab.org/nlab/files/Nelson-DelicateInsulators.pdf"
 image:
   caption: ""
   focal_point: smart
