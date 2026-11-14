@@ -9,9 +9,10 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
+- name: Institute of Physics, Chinese Academy of Sciences
+  url: "https://english.iop.cas.cn/"
 - name: Stanford University
   url: "https://glam.stanford.edu/"
-
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include various topic in topological band theory.
 
