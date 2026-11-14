@@ -14,7 +14,7 @@ organizations:
 # - name: ETH Zurich
 #   url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
 - name: University of Zurich
-  url: "https://www.physik.uzh.ch/en.html"
+  url: "https://www.physik.uzh.ch/en/groups/bzdusek.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
