@@ -96,4 +96,4 @@ user_groups:
 - Former MSc Students
 ---
 
-Aoxue investigated response theory of topological insulators on hyperbolic lattices, focusing in particular on the model with non-vanishing second Chern number in the four-dimensional Abelian Brillouin zone. Aoxue defended her Master's thesis in August 2024.
+Aoxue investigated response theory of topological insulators on hyperbolic lattices, focusing in particular on the model with non-vanishing second Chern number in the four-dimensional Abelian Brillouin zone. Aoxue defended her Master's thesis in August 2024. She is currently a PhD student in the group of Sebastian Diehl at the University of Cologne.
