@@ -1,5 +1,5 @@
 ---
-title: "Flat bands and band touching from real-space topology in hyperbolic lattices"
+title: "Flat bands and band-touching from real-space topology in hyperbolic lattices"
 publication_types:
   - "2"
 authors:
