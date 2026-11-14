@@ -38,7 +38,7 @@ url_project: ""
 publication_short: Nat. Phys. 16, 1137—1143 (2020)
 url_source: ""
 url_video: ""
-title: Non-Abelian reciprocal braiding of Weyl nodes and its manifestations in ZrTe
+title: Non-Abelian reciprocal braiding of Weyl points and its manifestation in ZrTe
 doi: 10.1038/s41567-020-0967-9
 featured: true
 tags:
