@@ -28,9 +28,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Tomas-Bzdusek
-  - icon: publons
+  - icon: researcherid
     icon_pack: ai
-    link: https://publons.com/researcher/1838418/tomas-bzdusek/metrics/
+    link: https://www.webofscience.com/wos/author/record/U-4786-2018
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6904-5264
@@ -46,25 +46,25 @@ social:
     
 organizations:
   - name: University of Zürich
-    url: https://www.physik.uzh.ch/en/groups/neupert/team.html
+    url: https://www.physik.uzh.ch/en/groups/bzdusek.html
     
 education:
   courses:
     - course: SNSF Starting Grant
       institution: University of Zürich, Switzerland
-      year: 2023-present
+      year: 2023–present
     - course: Ambizione Research Fellowship
       institution: Paul Scherrer Institute, Villigen, Switzerland
-      year: 2019-2023
+      year: 2019–2023
     - course: Gordon and Betty Moore Fellowship
       institution: Stanford University, California, USA
-      year: 2017-2019
+      year: 2017–2019
     - course: PhD in Condensed Matter Theory
       institution: ETH Zürich, Switzerland
-      year: 2013-2017
+      year: 2013–2017
     - course: MSc in Theoretical physics
       institution: Comenius University in Bratislava, Slovakia
-      year: 2010-2013
+      year: 2010–2013
     - course: BSc in Physics
       institution: Comenius University in Bratislava, Slovakia
       year: 2007–2010
