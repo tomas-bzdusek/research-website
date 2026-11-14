@@ -1,6 +1,6 @@
 ---
 doi: 10.1103/PhysRevLett.126.216404
-title: Multicellularity of delicate topological insulators
+title: Multicellularity of Delicate Topological Insulators
 publication_types:
   - "2"
 authors:
