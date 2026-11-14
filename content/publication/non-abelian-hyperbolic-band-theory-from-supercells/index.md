@@ -20,9 +20,9 @@ slides: null
 url_pdf: https://arxiv.org/pdf/2305.04945.pdf
 links:
 - name: HyperCells
-  url: https://patrick-lenggenhager.github.io/HyperCells/
+  url: https://www.hypercells.net/
 - name: HyperBloch
-  url: https://github.com/patrick-lenggenhager/HyperBloch
+  url: https://github.com/HyperCells/HyperBloch
 image:
   caption: ""
   focal_point: smart
