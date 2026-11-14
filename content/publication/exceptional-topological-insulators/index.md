@@ -1,5 +1,5 @@
 ---
-title: Exceptional Topological Insulators
+title: Exceptional topological insulators
 publication_types:
   - "2"
 authors:
