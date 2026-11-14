@@ -95,10 +95,10 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://www.mpq.mpg.de/person/130943/4571983'" />
+    <meta http-equiv="refresh" content="2; url='https://scholar.google.com/citations?hl=en&user=bJ_Jq3YAAAAJ'" />
   </head>
   <body>
-    <p>Please follow <a href="https://www.mpq.mpg.de/person/130943/4571983">this link</a>.</p>
+    <p>Please follow <a href="https://scholar.google.com/citations?hl=en&user=bJ_Jq3YAAAAJ">this link</a>.</p>
   </body>
 </html>
 
