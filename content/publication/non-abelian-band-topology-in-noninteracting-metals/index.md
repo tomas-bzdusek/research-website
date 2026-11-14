@@ -35,7 +35,7 @@ publication: "Science <b>365</b>, 1273—1277 (2019)"
 summary: ""
 url_dataset: https://doi.org/10.24435/materialscloud:2019.0040/v1
 url_project: ""
-publication_short: Science 365, 1273—1277 (2019)
+publication_short: Science 365, 1273–1277 (2019)
 url_source: ""
 url_video: ""
 title: Non-Abelian band topology in noninteracting metals
