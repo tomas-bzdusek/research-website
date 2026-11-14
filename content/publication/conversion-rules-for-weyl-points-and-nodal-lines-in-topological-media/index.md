@@ -32,7 +32,7 @@ url_project: ""
 publication_short: Phys. Rev. Lett. 121, 106402 (2018)
 url_source: ""
 url_video: ""
-title: Conversion rules for Weyl points and nodal lines in topological media
+title: Conversion Rules for Weyl Points and Nodal Lines in Topological Media
 doi: 10.1103/PhysRevLett.121.106402
 featured: false
 tags:
