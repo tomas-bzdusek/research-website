@@ -28,9 +28,9 @@ author_notes: ""
 doi: ""
 publication: "Master’s thesis, University of Zurich, Switzerland (2026)"
 projects: []
-date: 2026-MM-DD
+date: 2026-10-15
 url_slides: ""
-publishDate: 2026-MM-DD
+publishDate: 2026-10-15
 url_poster: ""
 url_code: ""
 ---
