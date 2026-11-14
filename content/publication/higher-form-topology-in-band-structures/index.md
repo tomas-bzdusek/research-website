@@ -21,8 +21,11 @@ draft: false
 featured: false
 tags:
   - band-theory
-  - multigap-topology
   - topological-insulators
+  - delicate-topology
+  - Hopf-insulators
+  - bundle-gerbes
+  - higher-gauge-theory
 slides: null
 url_pdf: "https://www.math.uzh.ch/d.php/nHpMa/15331"
 image:
