@@ -9,10 +9,8 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-# - name: Paul Scherrer Institute
-#   url: "https://www.psi.ch/en/lsm/cmt-group"
-# - name: ETH Zurich
-#   url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
+- name: University of Cologne
+  url: "https://www.thp.uni-koeln.de/diehl/researchgroup.html"
 - name: ETH Zurich
   url: "https://www.phys.ethz.ch/"
 
