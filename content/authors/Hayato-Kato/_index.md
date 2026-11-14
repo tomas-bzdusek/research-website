@@ -95,5 +95,5 @@ user_groups:
 - Former BSc Students
 ---
 
-Hayato studied energy spectrum of inhomogeneously strained triangular lattice, with the goal of realizing a synthetic gauge field in a lattice distinct from the honeycomb lattice. 
+Hayato studied the energy spectrum of an inhomogeneously strained triangular lattice, with the goal of realizing a synthetic gauge field in a lattice distinct from the honeycomb lattice.
 
