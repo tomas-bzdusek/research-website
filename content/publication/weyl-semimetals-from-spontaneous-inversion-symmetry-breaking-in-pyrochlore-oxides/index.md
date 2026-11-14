@@ -36,7 +36,7 @@ url_project: ""
 publication_short: Phys. Rev. B 91, 165105 (2015)
 url_source: ""
 url_video: ""
-title: Weyl semimetals from spontaneous inversion symmetry breaking in
+title: Weyl semimetal from spontaneous inversion symmetry breaking in
   pyrochlore oxides
 doi: 10.1103/PhysRevB.91.165105
 featured: false
