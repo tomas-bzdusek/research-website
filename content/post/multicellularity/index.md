@@ -27,5 +27,5 @@ image:
 <p>For the studied family of topological insulators, the authors report that addition of a trivial band to either the valence or the conduction bands can trivialize the entire system. Such topological systems, here named delicate, extend the previously established notions of stable and fragile topological insulators.
 Some systems, which were previously shown to host such phenomena as higher-order topology, axion magnetoelectrics and quantized surface magnetism, are to be considered multicellular and delicate according to the suggested classification. As a first step towards a concrete material realization, the authors discuss the crystalline symmetries compatible with the presented class of models, and suggest a first-principle-based, high-throughput strategy to search for delicate topological materials. </p>
   <p> [1] A. Nelson, T. Neupert, T. Bzdušek, and A. Alexandradinata, <i>Multicellularity of Delicate Topological Insulators</i>, Phys. Rev. Lett. <b>126</b>, 216404 (2021). </p>
-  <p> source: <a href="https://www.physik.uzh.ch/en/news/news/Topical-Band-Structures.html">University of Zürich</a></p>
+  <p> source: <a href="https://www.physik.uzh.ch/en/news/news/Topical-Band-Structures.html">University of Zurich</a></p>
 </section>

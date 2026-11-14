@@ -29,7 +29,7 @@ organizations:
 #     institution: Stanford University, California, USA
 #     year: 2017-2019
 #   - course: PhD in Condensed Matter Theory
-#     institution: ETH Zürich, Switzerland
+#     institution: ETH Zurich, Switzerland
 #     year: 2013-2017
 #   - course: MSc in Theoretical physics
 #     institution: Comenius University in Bratislava, Slovakia

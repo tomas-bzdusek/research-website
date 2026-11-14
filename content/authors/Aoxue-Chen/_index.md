@@ -11,9 +11,9 @@ superuser: false
 organizations:
 # - name: Paul Scherrer Institute
 #   url: "https://www.psi.ch/en/lsm/cmt-group"
-# - name: ETH Zürich
+# - name: ETH Zurich
 #   url: "https://itp.phys.ethz.ch/research/condmat/strong/members.html"
-- name: ETH Zürich
+- name: ETH Zurich
   url: "https://www.phys.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,7 +33,7 @@ organizations:
 #     institution: Stanford University, California, USA
 #     year: 2017-2019
 #   - course: PhD in Condensed Matter Theory
-#     institution: ETH Zürich, Switzerland
+#     institution: ETH Zurich, Switzerland
 #     year: 2013-2017
 #   - course: MSc in Theoretical physics
 #     institution: Comenius University in Bratislava, Slovakia

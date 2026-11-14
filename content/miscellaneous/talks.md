@@ -27,7 +27,7 @@ header:
 
 <section>
 <h3>Bending the Flatland: Designing classical and quantum matter with non-Euclidean geometry</h3>
-<p>The inaugural lecture I presented to celebrate my appointment as an SNSF professor at the University of Zürich, delivered on 11 Nov 2024. In the beginning of the video I am introduced by Prof. Titus Nuepert.</p>
+<p>The inaugural lecture I presented to celebrate my appointment as an SNSF professor at the University of Zurich, delivered on 11 Nov 2024. In the beginning of the video I am introduced by Prof. Titus Nuepert.</p>
 <iframe src="https://player.vimeo.com/video/1028487169?h=a4815b9f64&title=0" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </section>
 <br>
@@ -35,7 +35,7 @@ header:
 
 <section>
 <h3>On defects, topology, and materials research </h3>
-<p>An outreach talk (in Slovak language) organized by <a href="https://www.facebook.com/MatFyzJeIn" target="_blank">MatFyz je In</a> and <a href="https://www.facebook.com/vedator.svk/" target="_blank">Vedátor_SK</a>. Presented virtually from Zürich (01 Jul 2020).</p>
+<p>An outreach talk (in Slovak language) organized by <a href="https://www.facebook.com/MatFyzJeIn" target="_blank">MatFyz je In</a> and <a href="https://www.facebook.com/vedator.svk/" target="_blank">Vedátor_SK</a>. Presented virtually from Zurich (01 Jul 2020).</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jCFchHxZoH4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 <br>

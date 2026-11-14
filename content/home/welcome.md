@@ -15,7 +15,7 @@ design:
 hero_media: welcome.jpg
 ---
 Hi there! 
-I am Tomáš Bzdušek, currently a professor leading the group [Theory of Topological Matter](https://www.physik.uzh.ch/en/groups/bzdusek.html) at the [University of Zürich](https://www.physik.uzh.ch/en.html), Switzerland. 
+I am Tomáš Bzdušek, currently a professor leading the group [Theory of Topological Matter](https://www.physik.uzh.ch/en/groups/bzdusek.html) at the [University of Zurich](https://www.physik.uzh.ch/en.html), Switzerland. 
 You can read more about my research in my [profile](https://www.tomasbzdusek.com/author/tomas-bzdusek/). 
 On these pages, which served as my personal website until 2023, I have collected my own research work and, since 2023, also that of my students and postdocs.
 In the "Miscellaneous" tab I have collected further documents, including recorded talks, code, and my theses.<br><br>
