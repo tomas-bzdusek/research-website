@@ -98,4 +98,4 @@ user_groups:
 - MSc Students
 ---
 
-In her MSc thesis project, Flavia investigates higher-form topology of multi-gap topological insulators.
+In her MSc thesis, Flavia investigated the higher-form topology of the Hopf insulator, deriving the relation between the Dixmier-Douady and Hopf invariants and developing a gauge-invariant formulation suitable for numerical calculations.
