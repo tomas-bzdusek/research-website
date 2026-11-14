@@ -85,6 +85,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: university
+  icon_pack: fas
+  link: https://www.physik.uzh.ch/en/groups/bzdusek/team/laich.html
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
