@@ -21,11 +21,11 @@ authors:
   - Shanhui Fan
   - Tomáš Bzdušek
 author_notes: []
-publication: "Phys. Rev. Research <b>2</b>, 023226 (2020)"
+publication: "Phys. Rev. Res. <b>2</b>, 023226 (2020)"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Phys. Rev. Research 2, 023226 (2020)
+publication_short: Phys. Rev. Res. 2, 023226 (2020)
 url_source: ""
 url_video: ""
 title: Alice strings in non-Hermitian systems
